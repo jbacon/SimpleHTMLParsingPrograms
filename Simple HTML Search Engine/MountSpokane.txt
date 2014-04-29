@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Mt. Spokane > About > Mt. Spokane State Park</title>
+	<link rel="stylesheet" href="/?action=css">
+	<!--[if lte IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="http://mtspokane.com/core/templates/mtspokane/web/style/ie.css" />
+	<![endif]-->
+		<meta content='True' name='HandheldFriendly' />
+	<meta name="viewport" content="width=device-width" />
+	<meta property="og:image" content="http://mtspokane.com/core/templates/mtspokane/web/images/icons/logomtspokanefb.png"/>
+<!-- 	<meta property="og:url" content="http://www.mtspokane.com/mt-spokane-state-park" /> -->
+<!-- 	<meta property="og:title" content="Mt. Spokane > About > Mt. Spokane State Park" /> -->
+
+</head>
+<body data-page="mt-spokane-state-park">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<header id="templateHeader">
+	<div class="row">
+		<div class="panelHeader">
+			<div class="four columns phone-four logo">
+				<a href="/" id="logo" title="Mt. Spokane"></a>
+			</div><!--closing of four phone-four-->
+			<div class="five columns hide-on-phones weather weatherTablet ico-weather">
+				<div class="twelve group">
+					<div class="weatherIcon two push10 phone-one">
+						<img src="/?action=img&amp;t&amp;src=weather/snowing.png&amp;s=snowing" alt="snowing">
+					</div><!--closing of weatherIcon-->
+					<div class=" eight phone-three">
+						<div class="phone-four five f_left">
+							<div class="f_left push3 ico-thermometer"></div>
+							<h4 class="push2">Base:<span class="h2"> 26&#176;</span></h4>
+						</div><!--closing of phone-four-->
+						<div class="hide-on-phones f_left push3 ico-templine"></div>
+						<div class="phone-four six f_left">
+							<div class="f_left push3 ico-thermometer"></div>
+							<h4>Summit:<span class="h2"> 23&#176;</span></h4>
+						</div><!--closing of phone-four-->
+					</div><!--closing of p10-5-->
+					<div class="f_left  phone-two eight">
+						<div class="six phone-two f_left">
+							<h3>24 hour snow total:</h3>
+						</div>
+						<div class="four phone-one f_left">
+							<h1>4&#34;</h1>
+						</div>
+					</div>
+				</div><!--closing of twelve-->
+				<div class="twelve f_left fullweather phone-four bg-weatherline">
+					<a href="/snowreport">See full Weather report  »</a>
+				</div>
+			</div><!--closing of four - weather app-->
+			<div class="three columns hide-on-phones">
+				<a href="//store.liftopia.com/s/mt-spokane-cloud-store" class=" ltcolor1 button pushd10 f_right">BUY TICKETS &raquo;</a>
+					<a href="/webcams" class="medium dkcolor1 button f_right">VIEW WEBCAMS &raquo;</a>
+			</div><!--four cta area-->
+		</div><!--closing of panelHeader-->
+	</div><!--closing of row 1 - with logo header -->
+	<div class="row">
+		<div class="twelve columns show-on-desktops show-on-tablets">
+			<div class="nav-line"></div>
+				<ul id="mainNav">
+				<li><a class="ct" href="/home" title="Home">Home</a><li><a class="ct" href="#" title="The Mountain">The Mountain</a><ul class="subNav"><li><a class="ct" href="/snowreport">Snow Report </a></li><li><a class="ct" href="/directions">Directions</a></li><li><a class="ct" href="/trail-map">Trail Map</a></li><li><a class="ct" href="/tubing-hill">Tubing Hill</a></li><li><a class="ct" href="/night-skiing">Night Skiing</a></li><li><a class="ct" href="/terrain-park">Terrain Park</a></li><li><a class="ct" href="/services">Services</a></li><li><a class="ct" href="/lodges">Lodges</a></li><li><a class="ct" href="/app">Mobile App</a></li></ul></li><li><a class="ct" href="#" title="Tickets/Passes">Tickets/Passes</a><ul class="subNav"><li><a class="ct" href="/season-pass">Season Passes</a></li><li><a class="ct" href="/ticket-packages">Ticket Packages</a></li><li><a class="ct" href="/daily-lift-tickets">Daily Lift Tickets</a></li><li><a class="ct" href="/discounts-deals">Discounts & Deals</a></li><li><a class="ct" href="/group-sales">Group Sales</a></li><li><a class="ct" href="/events">Operating Calendar</a></li></ul></li><li><a class="ct" href="#" title="Lessons & Rentals">Lessons & Rentals</a><ul class="subNav"><li><a class="ct" href="/adult-programs">Adult Programs</a></li><li><a class="ct" href="/childrens-programs">Children's Programs</a></li><li><a class="ct" href="/specialty-programs">Specialty Programs</a></li><li><a class="ct" href="/rentals">Rentals</a></li><li><a class="ct" href="/need-to-know">Need to Know</a></li><li><a class="ct" href="/learn-a-snow-sport-month">Learn a Snow Sport Month</a></li><li><a class="ct" href="/snoplay-daycare">SnoPlay Daycare</a></li></ul></li><li><a class="ct" href="#" title="Media Gallery">Media Gallery</a><ul class="subNav"><li><a class="ct" href="/photos">Photos</a></li><li><a class="ct" href="/videos">Videos</a></li><li><a class="ct" href="/desktop-wallpapers">Desktop Wallpapers</a></li></ul></li><li><a class="ct" href="/events" title="Events">Events</a><li><a class="ct" href="/news" title="News">News</a><li><a class="active ct" href="#" title="About">About</a><ul class="subNav"><li><a class="ct" href="/non-profit-organization">Non-Profit Organization</a></li><li><a class="ct" href="/benefit-auction">Benefit & Auction</a></li><li><a class="active ct" href="/mt-spokane-state-park">Mt. Spokane State Park</a></li><li><a class="ct" href="/employment">Employment</a></li><li><a class="ct" href="/sponsorships">Sponsorships</a></li><li><a class="ct" href="/links">Links</a></li><li><a class="ct" href="/adopt-a-run">Adopt-A-Run</a></li><li><a class="ct" href="/privacy-policy">Privacy Policy</a></li></ul></li><li><a class="ct" href="/contact-us" title="Contact">Contact</a>				</ul>
+			</div><!--closing of desktop and tablet nav-bar-->
+			<div class="show-on-phones touch">
+				<div class="nav-line"></div>
+				<ul class="nav-bar">
+					<li class="has-flyout">
+						<a class="showMobileNav">See Site Navigation</a>
+						<a class="showMobileNav flyout-toggle"><span> </span></a>
+						<ul class="flyout">
+						<li class="phone-four mobileLink"><a class="ct" href="/home" title="Home">Home ></a></li><li class="phone-four mobileLink hasSub"><a class="ct" title="The Mountain">The Mountain</a><ul class="mobileSub"><li><a class="ct" href="/snowreport">Snow Report </a></li><li><a class="ct" href="/directions">Directions</a></li><li><a class="ct" href="/trail-map">Trail Map</a></li><li><a class="ct" href="/tubing-hill">Tubing Hill</a></li><li><a class="ct" href="/night-skiing">Night Skiing</a></li><li><a class="ct" href="/terrain-park">Terrain Park</a></li><li><a class="ct" href="/services">Services</a></li><li><a class="ct" href="/lodges">Lodges</a></li><li><a class="ct" href="/app">Mobile App</a></li></ul></li><li class="phone-four mobileLink hasSub"><a class="ct" title="Tickets/Passes">Tickets/Passes</a><ul class="mobileSub"><li><a class="ct" href="/season-pass">Season Passes</a></li><li><a class="ct" href="/ticket-packages">Ticket Packages</a></li><li><a class="ct" href="/daily-lift-tickets">Daily Lift Tickets</a></li><li><a class="ct" href="/discounts-deals">Discounts & Deals</a></li><li><a class="ct" href="/group-sales">Group Sales</a></li><li><a class="ct" href="/events">Operating Calendar</a></li></ul></li><li class="phone-four mobileLink hasSub"><a class="ct" title="Lessons & Rentals">Lessons & Rentals</a><ul class="mobileSub"><li><a class="ct" href="/adult-programs">Adult Programs</a></li><li><a class="ct" href="/childrens-programs">Children's Programs</a></li><li><a class="ct" href="/specialty-programs">Specialty Programs</a></li><li><a class="ct" href="/rentals">Rentals</a></li><li><a class="ct" href="/need-to-know">Need to Know</a></li><li><a class="ct" href="/learn-a-snow-sport-month">Learn a Snow Sport Month</a></li><li><a class="ct" href="/snoplay-daycare">SnoPlay Daycare</a></li></ul></li><li class="phone-four mobileLink hasSub"><a class="ct" title="Media Gallery">Media Gallery</a><ul class="mobileSub"><li><a class="ct" href="/photos">Photos</a></li><li><a class="ct" href="/videos">Videos</a></li><li><a class="ct" href="/desktop-wallpapers">Desktop Wallpapers</a></li></ul></li><li class="phone-four mobileLink"><a class="ct" href="/events" title="Events">Events ></a></li><li class="phone-four mobileLink"><a class="ct" href="/news" title="News">News ></a></li><li class="phone-four mobileLink hasSub"><a class="ct" title="About">About</a><ul class="mobileSub"><li><a class="ct" href="/non-profit-organization">Non-Profit Organization</a></li><li><a class="ct" href="/benefit-auction">Benefit & Auction</a></li><li><a class="active ct" href="/mt-spokane-state-park">Mt. Spokane State Park</a></li><li><a class="ct" href="/employment">Employment</a></li><li><a class="ct" href="/sponsorships">Sponsorships</a></li><li><a class="ct" href="/links">Links</a></li><li><a class="ct" href="/adopt-a-run">Adopt-A-Run</a></li><li><a class="ct" href="/privacy-policy">Privacy Policy</a></li></ul></li><li class="phone-four mobileLink"><a class="ct" href="/contact-us" title="Contact">Contact ></a></li>						</ul>
+					</li>
+				</ul>
+			</div><!--closing of phone nav-->
+		</div><!--closing of twelve columns-->
+
+	<div class="row show-on-phones">
+		<div class="phone-four weatherPhone">
+			<div class="phone-four-pad">
+				<div class="weatherIcon push10 phone-one">
+					<img src="/?action=img&amp;t&amp;src=weather/snowing.png" alt="snowing">
+				</div><!--closing of weatherIcon-->
+				<div class="phone-three pushd5">
+					<div class="phone-two five f_left">
+						<img class="f_left push3" src="/?action=img&amp;t&amp;src=icons/thermometerIcon.png" alt="temperature at the base">
+							<h4 class="push2">Base:<span class="h2">  26&#176;</span></h4>
+					</div><!--closing of phone-four-->
+						<div class="f_left push3">
+							<img src="/?action=img&amp;t&amp;src=bg/tempLine.png" alt="">
+						</div>
+					<div class="phone-two f_left">
+						<img class="f_left push3" src="/?action=img&amp;t&amp;src=icons/thermometerIcon.png" alt="temperature at the summit">
+							<h4>Summit:<span class="h2"> 23&#176;</span></h4>
+					</div><!--closing of phone-four-->
+				</div><!--closing of p10-5-->
+				<div class="f_left phone-three">
+					<div class="phone-three f_left">
+						<h3>24 hour snow total:</h3>
+					</div>
+					<div class="phone-one f_left">
+						<h1>4&#34;</h1>
+					</div>
+				</div>
+			</div><!--closing of twelve-->
+			<div class="f_right phone-three">
+				<a href="/snowreport">See full Weather report</a>
+			</div>
+		</div><!--closing of four - weather app-->
+	</div><!--closing of row for the weather info for mobile-->
+</header>
+<section id="interiorContent" class="bg8">
+<div class="bg9">
+	<div class="row about">
+		<div class="panel">
+			<h1>
+	Mt. Spokane State Park</h1>
+<p>
+	<img alt="" src="/core/files/mtspokane/uploads/images/parksignage.gif" style="width: 442px; height: 330px; float: right; margin-left: 10px; margin-right: 10px;" />Mt. Spokane Ski &amp; Snowboard Park operates within <a href="http://parks.wa.gov/parks/?selectedpark=Mount%20Spokane&amp;subject=all" target="_blank">Mt. Spokane State Park,</a> the largest of Washington&#39;s State Parks at 13,919 acres.&nbsp; In addition to alpine winter recreation, the Park offers year-round recreation including nordic skiing, snowshoeing, snowmobiling, camping, horseback riding, biking and hiking trails, berry picking, sightseeing, and more. &nbsp;</p>
+<p>
+	NEWS: The Discover Pass is now required within Mt. Spokane State Park, excluding the alpine ski area parking lot when the alpine ski area is in normal operation.<br />
+	<a href="http://www.discoverpass.wa.gov/" target="_blank">Click for information</a></p>
+<p>
+	<a href="/core/files/mtspokane/uploads/files/MSSPGeneral.pdf">Click here for a Mt. Spokane State Park Map</a></p>
+<h3>
+	Nordic Ski Area</h3>
+<p>
+	The Park features 25 kilometers of beautifully groomed nordic ski trails that are multi-use in the spring, summer, and fall and for cross-country skiing in the winter.&nbsp; The Park annually hosts the legendary <a href="http://spokanelanglauf.org/" target="_blank">Langlauf cross-country ski race</a>.&nbsp; The trails are groomed regularly, excluding Mondays &amp; Tuesdays.&nbsp; Call the Nordic conditions line at (509) 238-4025 for the most up-to-date weather and grooming information.&nbsp; A Sno-Park permit is required for parking in designated nordic and snowmobile lots from November 1 through May1.&nbsp; A groomed trails permit is additionally required for usage of the groomed trails.&nbsp; Click here to download a nordic trail map, courtesy Spokane Nordic and Tom Frost.&nbsp; See <a href="http://www.spokanenordic.org/" target="_blank">Spokane Nordic</a> for information on children&#39;s programs, races, and more.</p>
+<h3>
+	Snowmobiling</h3>
+<p>
+	Snowmobiling is allowed within the Park on designated trails.&nbsp; A Sno-Park permit is required for parking in designated nordic and snowmobile lots from November 1 through May1.&nbsp; A groomed trails permit is additionally required for usage of the groomed trails.&nbsp; <a href="/core/files/mtspokane/uploads/files/MtSpokaneSnowmobileMap.pdf">Download an unofficial snowmobile trails map</a>, courtesy Friends of Mt. Spokane.</p>
+<h3>
+	Camping</h3>
+<p>
+	The State Park has 8 standard campsites, as well as a larger group campsite.&nbsp; The campground is generally open from mid-May through mid-September.&nbsp; <a href="http://parks.wa.gov/parks/?selectedpark=Mount%20Spokane&amp;subject=all" target="_blank">See Parks website for pricing and availability details</a>.</p>
+<h3>
+	Drive to the Top</h3>
+<p>
+	The Summit Road is generally open from mid-June through mid-October, and is open all the way to the summit of the mountain, the highest point in Spokane County.&nbsp; Enjoy spectacular vistas and wildlife on the road to the summit.&nbsp; Once on top, visit the historic <a href="/lodges">Vista House</a>, as well as other monuments of historical significance.&nbsp; View area lakes with the telescopic viewfinders.&nbsp; Restrooms are available on the summit.</p>
+<p>
+	<br />
+	<strong><img alt="" src="/core/files/mtspokane/uploads/images/ST%20Park%20Logo.GIF" style="width: 128px; height: 161px; float: right;" />Links</strong><br />
+	Mt. Spokane State Park - <a href="http://parks.wa.gov/" target="_blank">http://parks.wa.gov/</a><br />
+	The Friends of Mount Spokane State Park - <a href="http://www.mtspokane.org" target="_blank">http://www.mtspokane.org</a><br />
+	Spokane Nordic Ski Education Foundation - <a href="http://www.spokanenordic.org" target="_blank">http://www.spokanenordic.org</a><br />
+	Spokane Winter Knights - <a href="http://www.winterknights.com" target="_blank">http://www.winterknights.com</a><br />
+	Adventure Sport Rentals - <a href="http://www.mtspokanerentals.com" target="_blank">http://www.mtspokanerentals.com</a></p>
+		</div><!--closing of panel-->
+	</div><!--closing of row-->
+</div><!--closing of bg9-->
+</section><!--closing of bg8 wrapper-->	
+
+<footer>
+	<div class="bgcolor3">
+
+	</div><!--closing of bgcolor3-->
+	<div class="bg6">
+		<div class="row">
+			<div class="panel nm">
+				<div class="columns hide-on-phones hide-on-tablets footerWeather push15">
+					<div class="twelve group">
+						<div class="weatherIcon ">
+							<img src="/?action=img&amp;t&amp;x=60&amp;y=60&amp;src=weather/snowing.png" alt="snowing">
+						</div><!--closing of weatherIcon-->
+						<div class="footerWeatherDegrees bg-weatherline">
+							<div class="six f_left">
+								<div class="f_left push3 ico-thermometer"></div>
+									<h4>Base:<span class="h2"> 26&#176;</span></h4>
+							</div><!--closing of phone-four-->
+							<div class="f_left push5">
+								<img src="/?action=img&amp;t&amp;src=bg/tempLine.png" alt="">
+							</div>
+							<div class="six f_left">
+								<div class="f_left push3 ico-thermometer"></div>
+									<h4>Summit:<span class="h2"> 23&#176;</span></h4>
+							</div><!--closing of phone-four-->
+						</div><!--closing of p10-5-->
+						<div class="f_left footerWeatherTotal">
+							<div class="six f_left">
+								<h3>24 hour snow total:</h3>
+							</div>
+							<div class="four f_left">
+								<h1>4&#34;</h1>
+							</div>
+						</div>
+						<div class="twelve columns tac">
+						<a href="/snowreport" class="tac">See full Weather report  »</a>
+					</div>
+					</div><!--closing of twelve-->
+				</div><!--closing of four columns - left column-->
+				<div class="footerContact">
+					<div class="six columns phone-four">
+						<div class="twelve column phone-four pushd20">
+							<div class="phone-one two column">
+								<img src="/?action=img&amp;t&amp;src=icons/footerLocationIcon.png" alt="Our location">
+							</div>
+							<div class="phone-three ten footercontact column">
+								<p class="nm">29500 N Mt Spokane Park Dr.</p>
+								<p>PO BOX 1659</p>
+								<p class="pushd20">Mead, WA 99021</p>
+							</div>
+						</div>
+						<div class="twelve column phone-four pushd20">
+							<div class="phone-one two column">
+								<img src="/?action=img&amp;t&amp;src=icons/footerPhoneIcon.png" alt="Contact us">
+							</div>
+							<div class="phone-three ten footercontact column">
+								<a class="phone-four twelve column np" href="tel:5092382220">&#183; (509) 238-2220</a>
+								<a class="phone-four twelve column" href="tel:5094431397">&#183; (509) 443-1397 (Ski Report)</a>
+							</div>
+						</div>
+					</div><!--closing of six columns - center column-->
+					<div class="six columns phone-four">
+						<div class="phone-one two columns push10 f_left">
+							<img src="/?action=img&amp;t&amp;src=icons/magniGlassIcon.png" alt="Find us">
+						</div><!--closing of two-->
+						<div class="phone-three nine columns">
+							<a target="_blank" href="http://maps.google.com/maps?q=29500+Mt+Spokane+Park+Rd,+mead,+WA&amp;hl=en&amp;ll=47.917953,-117.095547&amp;spn=0.078116,0.157757&amp;sll=47.882391,-117.134686&amp;sspn=0.07817,0.157757&amp;t=m&amp;hnear=29500+Mt+Spokane+Park+Rd,+Mead,+Washington+99021&amp;z=13"><h6>Directions:</h6></a>
+								<p class="pushd5">Mt. Spokane is located less than a gallon of gas away from Spokane.</p>
+								<a target="_blank" href="http://maps.google.com/maps?q=29500+Mt+Spokane+Park+Rd,+mead,+WA&amp;hl=en&amp;ll=47.917953,-117.095547&amp;spn=0.078116,0.157757&amp;sll=47.882391,-117.134686&amp;sspn=0.07817,0.157757&amp;t=m&amp;hnear=29500+Mt+Spokane+Park+Rd,+Mead,+Washington+99021&amp;z=13">Get directions now!</a>
+						</div><!--closing of ten-->
+					</div><!--closing of six columns - right column-->
+				</div><!--closing of seven-->
+			</div><!--closing of panel-->
+		</div><!--closing of row-->
+		<div class="row">
+			<div class="panel">
+				<div class="row">
+					<div class="five columns bold f_left phone-four">
+						<p>&copy; 2012 Mt. Spokane Ski &amp; Snowboard Park </p>        
+					</div>
+					<div class="six f_left phone-four">
+						<a href="/privacy-policy">Privacy Policy |</a>
+						<a href="/security-policy"> Security Policy</a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="disclaimer twelve phone-four phone-center">
+						<p>All Season Passes and Tickets are subject to Washington State Business and Occupational Tax, State Sales and Use Tax, and Local and Regional taxes. Total taxes are 8.1% of purchase.</p>
+					</div>
+				</div><!--closing of row-->
+			</div><!--closing of panel-->
+		</div><!--closing of row-->
+	</div><!--closing of bg6-->
+</footer>
+	<script>(function(){function getScript(url,success){var script=document.createElement('script');script.src=url;var head=document.getElementsByTagName('head')[0],done=false;script.onload=script.onreadystatechange=function(){if(!done&&(!this.readyState||this.readyState=='loaded'||this.readyState=='complete')){done=true;success();script.onload=script.onreadystatechange=null;head.removeChild(script)}};head.appendChild(script)}getScript('http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js',function(){getScript('/?action=javascript',function(){});});})();</script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+try {
+var pageTracker = _gat._getTracker("UA-7358395-3");
+pageTracker._trackPageview();
+} catch(err) {}
+
+adroll_adv_id = "JVI7GRO4LJDVJO47NMIPCU";
+adroll_pix_id = "PFHQWLKX2NECBKXOC63SUW";
+
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute("async", "true");
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName("head") || [null])[0] ||
+    document.getElementsByTagName("script")[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+</body>
+</html>

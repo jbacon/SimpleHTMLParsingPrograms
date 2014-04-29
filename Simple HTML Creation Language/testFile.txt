@@ -1,0 +1,36 @@
+Header:
+Text=Header Number 1!:
+FontType=times new roman:
+FontSize=300:
+FontColor=blue:
+
+Header:
+Text=Header Number 2!:
+FontType=times new roman:
+FontSize=200:
+FontColor=green:
+
+Header:
+Text=Header Number 3!:
+FontSize=300:
+
+Paragraph:
+Text=Hello World! This is paragraph number 1:
+FontColor=blue:
+
+Image:
+ImageLocation=smiley.gif:
+ImageWidth=100:
+ImageHeight=100:
+
+Link:
+URL=www.google.com/:
+Text=This is a link!:
+FontSize=200:
+
+Header:
+Text=Header Number 4!:
+FontType=times new roman:
+FontSize=200:
+FontColor=green:
+END:

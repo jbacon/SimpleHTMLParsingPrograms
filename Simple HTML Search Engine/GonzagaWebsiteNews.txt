@@ -1,0 +1,1763 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+	<head>
+		
+
+<!-- Start USER_V2 SE -->
+<!-- The server is oma-www65.xosn.com/10.3.8.228-->
+<!-- The time is 12/07/2012 12:19:40 AM EST-->
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://image.cdnllnwnl.xosnetwork.com/pics32/640/RZ/RZVFCBFTUETZSOQ.20121206072228.jpg"/>
+		<meta property="og:site_name" content="Gozags.com"/>
+		<meta property="og:title" content="Pangos Late Lay-in Gives Zags Win At WSU, Perfect 9-0 Start"/>
+		<meta property="og:url" content="http://www.gozags.com/ViewArticle.dbml?ATCLID=205821435&DB_OEM_ID=26400"/>
+		 <meta property="og:description" content="Kevin Pangos had a tough shooting night, until the game was on the  line.  Then the Gonzaga guard drove the length of the court and made a layup with 2 seconds left for a 71-69 victory at Washington State."/>
+		 <meta property="fb:app_id" content=""/>
+	 
+	<title>Pangos Late Lay-in Gives Zags Win At WSU, Perfect 9-0 Start - GoZags.com - The Official Website of Gonzaga Bulldog Athletics</title>
+
+	<meta name="DESCRIPTION" content="Kevin Pangos had a tough shooting night, until the game was on the  line.  Then the Gonzaga guard drove the length of the court and made a layup with 2 seconds left for a 71-69 victory at Washington State.">
+
+	<meta name="KEYWORDS" content="Women's Golf,Men's Soccer,Track & Field,Men's Golf,Men's Tennis,Women's Tennis,Volleyball,Baseball,None,Men's Basketball,Women's Basketball,Student Athlete Leadership Committee,Zag Athletics,Cross Country,Women's Soccer,Men's Rowing,Women's Rowing,Student-Athlete Support Services,C-Hallfame,Compliance,NCAA,Athletic Alumni,Varsity Club,2012-13 Record Book,2011-12 Statistics,Zag of the Month nomination form,2012 Statistics,About Compliance,American Volleyball Coaches Association (AVCA),Polls,Staff,Tickets,2012-13 Statistics,TopDrawerSoccer.com,Mobile,Career Athletes Information,Fund for Excellence Donation Form,Coaches,Harry A. Green Indoor Rowing Facility,Email Coach Gray,Crew Regatta Directions,2011 Zag Volleyball Record Book,NSCAA Top 25 Poll,Event Calendar,Prospect Evaluation,Summer Camp Info,Varsity Club,2012 Women's Basketball Championship,U.S. Soccer Federation,Jr. Zag Club,SASS Staff,Archives,Schedule/Results,About Gonzaga,Prospective Student-Athletes,Soccer Times Top 25 Poll,Staff Directory,Golfweek Rankings,2012 Individual Meet-by-Meet Results,Email Coach Gurule,2012 Quick Facts,Roster,Bulldog Club,Forms,Life Skills,Baseball Camp Info,Student-Athlete Support Services,Charitable Requests,Alumni,Boosters,2011 Individual Meet-by-Meet Results,Academics,SAAC,Facilities,2012 Record Book,GU Women's Basketball Season Tickets,Soccer America - College Soccer Reports,Game Promotions,Prospect Questionnaire,Sports Camp,Harry A. Green Indoor Rowing Facility (Photo Gallery),Photo Gallery,Current Student-Athletes,Cumulative Statistics,Promotions,Traditions,Listen to Bulldog games LIVE on the internet!,Men's Basketball Lockers Project,Golfstat Rankings,News/Events,Update Contact Info,Tutorial,SAOF Application Form,2013 Statistics,2011-12 Record Book,NSCAA Top 25,Student-Athlete Handbook,Statistics,Camps,News,Gonzaga Boathouse,SAOF Instructions,Donate To Women's Rowing,Fee/Benefits,Frequently Asked Questions,Soccer Times Top 25,Record Book,2012-13 Quick Facts,Women's Basketball Lockers Project,">
+
+	<meta name="google-site-verification" content="tHGkz3z0XeOiPGxYSNqzlY98Y3GtNBMRBa4vy7BDbwg" >
+
+<link rel="canonical" href="http://www.gozags.com/ViewArticle.dbml?DB_OEM_ID=26400&ATCLID=205821435" />
+<!-- start jquery -->
+
+<!-- end jquery --><!-- Start List Menu -->
+
+<!-- End List Menu -->
+<link rel="SHORTCUT ICON" href="/fls/26400/site_graphics/FAVICON.ICO"/>
+
+<link rel="stylesheet" href="/css/26400/Custom.css">
+				
+
+<!-- End USER_V2 SE -->
+
+			<base href="http://www.gozags.com/" />
+		
+	</head>
+
+<body class="main sport">
+<div id="topgradient" class="absolute">&nbsp;</div>
+<div id="container">
+	<div id="background-container" class="absolute">
+		<div id="background" class="relative">
+			
+			<div class="absolute sport" id="lowbg">
+				<IMG src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/backgrounds/90846.jpg" border="0">
+				
+			</div>
+			<div class="absolute sport" id="highbg">
+				
+				
+			</div>
+		</div>
+	</div>
+	<div id="leaderboard" class="absolute">
+	
+		<div class="networkad leaderboard">
+			<div class="block left sprite-advertisement"></div>
+			<div class="left">
+				
+					
+			<script type="text/javascript">
+				if (!album_reload_ad_tile || album_reload_ad_tile.constructor !== Array)
+				{ 
+					var album_reload_ad_tile = new Array();
+				}
+				function reloadExternalAd(ad_id) {
+					//console.log('reloadExternalAd loaded');
+					switch(ad_id)
+					{
+						case 1: getNewAd1(); break;    
+						case 2: getNewAd2(); break;
+						case 3: getNewAd3(); break;
+						case 4: getNewAd4(); break;
+						case 5: getNewAd5(); break;
+						case 6: getNewAd6(); break;
+						case 7: getNewAd7(); break;
+						case 8: getNewAd8(); break;
+						case 9: getNewAd9(); break;
+						case 10: getNewAd10();break;
+					}	
+				}
+			</script>
+			
+	<div id="AD_1">
+		
+			<!-- begin ad tag-->
+			<script language="JavaScript" type="text/javascript">
+			
+			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N12906217/adj/jtvs.26400.gonzagabulldogs/sports.m.basketball;oem=26400;lan=en;dcopt=ist;pos=;sec=sports.m.basketball;gen=basketball;c_cou=us;c_reg=north_america;s_sec=;u=con%3Djtvs.26400.gonzagabulldogs%2Fbasketball%7Csize%3D728x90;c_type=;s_type=m.basketball;sz=728x90;tile=1;ord='+ '614758711' + '?" type="text/javascript"><\/script>');
+			</script>
+		
+
+	</div>
+	<!-- hidden ad -->
+	
+	<!-- End ad tag -->
+
+			</div>
+			<div class="clear"></div>
+		</div>
+	
+</div>
+
+	<div id="site" class="relative sport">
+
+		<div id="sitetop">
+			<div id="header">
+	<div class="left">
+		<A HREF="HomePage.dbml?DB_OEM_ID=26400&KEY="><IMG class="block" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/headers/90846.png" border="0">
+		</a>
+	</div>
+	<div class="right relative">
+		<div id="search">
+	<FORM  ACTION="/Search.dbml" NAME="search" METHOD="POST"><INPUT TYPE="HIDDEN" NAME="DB_MENU_ID" VALUE=""><INPUT TYPE="HIDDEN" NAME="SPSID" VALUE="627537"><INPUT TYPE="HIDDEN" NAME="SPID" VALUE="90846"><INPUT TYPE="HIDDEN" NAME="DB_OEM_ID" VALUE="26400">
+		<div>	
+			<div class="left searchbox">
+				<label for="searchInput" class="hide">search</label><input id="searchInput" type="text" name="LIST_STRING" value="Search" onFocus="this.value= '';">
+			</div>
+			<div class="left searchsubmit">
+				<label for="searchSubmit" class="hide">submit</label><input id="searchSubmit" type="submit" class="sprite-searchbtn" value="" />
+			</div>
+			<div class="clear"></div>
+		</div>
+	</form>
+</div><div id="quickbar" class="absolute sprite-quickbarbg">
+	<A CLASS="block item left" HREF="http://shop.gozags.com/?SPSID=627537&amp;SPID=90846&amp;DB_OEM_ID=26400">
+			<div class="image">
+				<div class="sprite-quick1"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					SHOP STORE
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="http://www.gozags.com/mediaPortal/player.dbml?SPSID=627537&amp;SPID=90846&amp;DB_OEM_ID=26400">
+			<div class="image">
+				<div class="sprite-quick2"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					LIVE VIDEO
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="http://www.gozags.com/liveStats/liveStats.dbml?SPSID=627537&amp;SPID=90846&amp;&DB_OEM_ID=26400">
+			<div class="image">
+				<div class="sprite-quick3"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					LIVE STATS
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="http://www.replayphotos.com/gonzagaphotostore/?SPSID=627537&amp;SPID=90846&amp;DB_OEM_ID=26400">
+			<div class="image">
+				<div class="sprite-quick4"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					BUY PHOTOS
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="http://www.gozags.com/ViewArticle.dbml?SPSID=627537&amp;SPID=90846&amp;DB_OEM_ID=26400&ATCLID=205175077">
+			<div class="image">
+				<div class="sprite-quick5"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					BUY TICKETS
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="http://www.gozags.com/ViewArticle.dbml?SPSID=627537&amp;SPID=90846&amp;DB_OEM_ID=26400&ATCLID=205267465">
+			<div class="image">
+				<div class="sprite-quick6"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					ACCESS MOBILE
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="https://www.nmnathletics.com/sellnew/SellHome.dbml?SPSID=627537&amp;SPID=90846&amp;_IN_STORE_=YES&_MODE_=AUCTION&DB_OEM_ID=26400">
+			<div class="image">
+				<div class="sprite-quick7"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					BID ON AUCTIONS
+				</div>
+			</div>
+		</a>
+		<A CLASS="block item left" HREF="http://www.gozags.com/main/NewsMailSetup.dbml?SPSID=627537&amp;SPID=90846&amp;&DB_OEM_ID=26400">
+			<div class="image">
+				<div class="sprite-quick8"></div>
+			</div>
+			<div class="text">
+				<div class="title">
+					GET E-NEWS
+				</div>
+			</div>
+		</a>
+		
+	<div class="clear"></div>
+</div>
+	</div>
+	<div class="clear"></div>
+</div>
+			<div id="menubar">
+				<div class="left sprite-menuleft"></div>
+				<div class="left" id="menu">
+					<!-- list-menu start -->
+
+	<div id="menu-auto-position"></div>
+
+
+<div id="menu-container">
+	
+	<ul id="list-menu" class="horizontal main auto-on-top" style="z-index:1001;" delayhover="0" slidedowntime="fast">
+
+		<li id="lm-parent-1" class="parent first sports sub odd" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Sports</a>
+			
+
+<ul class="subnav box">
+<div class="box" align="center">
+	<div class="mens">
+		<h2>Men's Sports</h2>
+		<div class="mens">
+			
+
+				<div class="first odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90843&SPSID=627525">Baseball</a></div>
+
+				
+
+				<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90846&SPSID=627537">Basketball</a></div>
+
+				
+
+				<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90857&SPSID=627770">Cross Country</a></div>
+
+				
+
+				<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90839&SPSID=627498">Golf</a></div>
+
+				
+
+				<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90996&SPSID=627978">Rowing</a></div>
+
+				
+
+				<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90833&SPSID=627474">Soccer</a></div>
+
+				
+
+				<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90840&SPSID=627507">Tennis</a></div>
+
+				
+
+				<div class="last even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90837&SPSID=627494">Track & Field</a></div>
+
+				
+		</div>
+	</div>
+	<div class="womens">
+		<h2>Women's Sports</h2>
+		<div class="womens">
+			
+
+				<div class="first odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90847&SPSID=627539">Basketball</a></div>
+
+				
+
+				<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90857&SPSID=627770">Cross Country</a></div>
+
+				
+
+				<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90829&SPSID=627452">Golf</a></div>
+
+				
+
+				<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90997&SPSID=627787">Rowing</a></div>
+
+				
+
+				<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90895&SPSID=628008">Soccer</a></div>
+
+				
+
+				<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90841&SPSID=627516">Tennis</a></div>
+
+				
+
+				<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90837&SPSID=627494">Track & Field</a></div>
+
+				
+
+				<div class="last even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90842&SPSID=627517">Volleyball</a></div>
+
+				
+		</div>
+	</div>
+</div>
+</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-2" class="parent schedules sub even" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Schedules</a>
+			
+	<ul class="subnav box">
+		<div class="box" align="center">
+			<div class="mens">
+				<h2>Men's Sports</h2>
+				<div class="mens">
+					
+
+						<div class="first odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90843&SPSID=627521">Baseball</a></div>
+
+						
+
+						<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90846&SPSID=627529">Basketball</a></div>
+
+						
+
+						<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90857&SPSID=627771">Cross Country</a></div>
+
+						
+
+						<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90839&SPSID=627499">Golf</a></div>
+
+						
+
+						<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90996&SPSID=627979">Rowing</a></div>
+
+						
+
+						<div class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90833&SPSID=627481">Soccer</a></div>
+
+						
+
+						<div class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90840&SPSID=627511">Tennis</a></div>
+
+						
+
+						<div class="last even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90837&SPSID=627986">Track & Field</a></div>
+
+						
+				</div>
+			</div>
+			<div class="womens">
+				<h2>Women's Sports</h2>
+				<div class="womens">
+					
+
+						<div  class="first odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90847&SPSID=627540">Basketball</a></div>
+
+						
+
+						<div  class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90857&SPSID=627771">Cross Country</a></div>
+
+						
+
+						<div  class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90829&SPSID=627793">Golf</a></div>
+
+						
+
+						<div  class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90997&SPSID=627993">Rowing</a></div>
+
+						
+
+						<div  class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90895&SPSID=628009">Soccer</a></div>
+
+						
+
+						<div  class=" even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90841&SPSID=627798">Tennis</a></div>
+
+						
+
+						<div  class=" odd"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90837&SPSID=627986">Track & Field</a></div>
+
+						
+
+						<div  class="last even"><A HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90842&SPSID=627989">Volleyball</a></div>
+
+						
+				</div>
+			</div>
+		</div>
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-3" class="parent custom sub odd" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Inside Athletics</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205161101" ONMOUSEOUT="" STYLE="" TARGET="">Staff Directory</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205161102" ONMOUSEOUT="" STYLE="" TARGET="">Athletics Director: Mike Roth</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205161408" ONMOUSEOUT="" STYLE="" TARGET="">Athletic Mission Statement</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205315897" ONMOUSEOUT="" STYLE="" TARGET="">Athletic Alumni</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176814" ONMOUSEOUT="" STYLE="" TARGET="">Charitable Requests</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205177631" ONMOUSEOUT="" STYLE="" TARGET="">Compliance</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/SportArchives.dbml?&amp;DB_OEM_ID=26400&SPID=90854" ONMOUSEOUT="" STYLE="" TARGET="">General News Releases</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176566" ONMOUSEOUT="" STYLE="" TARGET="">Athletic Training Services</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176813" ONMOUSEOUT="" STYLE="" TARGET="">Quick Facts</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/SportSelect.dbml?&amp;DB_OEM_ID=26400&SPID=90998&SPSID=630604" ONMOUSEOUT="" STYLE="" TARGET="">Student-Athlete Services/SAAC</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176567" ONMOUSEOUT="" STYLE="" TARGET="">Student-Athlete Handbook</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gonzaga.edu/campus+resources/offices-and-services-a-z/Human-Resources/Nondiscrimination-Statement.asp?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="">Non-discrimination Statement</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205182918" ONMOUSEOUT="" STYLE="" TARGET="">Traditions</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gonzaga.edu/Athletics/Intramurals/default.asp?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Intramurals</a>
+								
+			</li>
+			
+			
+			<li class="last  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205315917" ONMOUSEOUT="" STYLE="" TARGET="">Varsity Club</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-4" class="parent custom sub even" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Support The Zags</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175512" ONMOUSEOUT="" STYLE="" TARGET="">Ways to Give</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175510" ONMOUSEOUT="" STYLE="" TARGET="">Join the Bulldog Club</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/fls/26400/old_site/pdfs/genrel/auto_pdf/BDCbenefitchart10_11.pdf?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Bulldog Club Levels & Benefits</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175428" ONMOUSEOUT="" STYLE="" TARGET="">Endowments</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175513" ONMOUSEOUT="" STYLE="" TARGET="">Events</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175516" ONMOUSEOUT="" STYLE="" TARGET="">Priority Points</a>
+								
+			</li>
+			
+			
+			<li class="last  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175431" ONMOUSEOUT="" STYLE="" TARGET="">Publications</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-5" class="parent custom sub odd" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Tickets</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175077" ONMOUSEOUT="" STYLE="" TARGET="">Purchase Tickets</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175509" ONMOUSEOUT="" STYLE="" TARGET="">Student Tickets</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175075" ONMOUSEOUT="" STYLE="" TARGET="">Faculty & Staff Tickets</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175516" ONMOUSEOUT="" STYLE="" TARGET="">Priority Points</a>
+								
+			</li>
+			
+			
+			<li class="last  odd" style="">
+				<A ONMOUSEOVER="" HREF="/fls/26400/old_site/pdfs/genrel/auto_pdf/MACSeatingBowl2.pdf?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">McCarthey Athletic Center Seat Map</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-6" class="parent custom sub even" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Shop</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/" ONMOUSEOUT="" STYLE="" TARGET="new">Gonzaga Online Store</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_Mens" ONMOUSEOUT="" STYLE="" TARGET="new">Men's</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_Ladies" ONMOUSEOUT="" STYLE="" TARGET="new">Women's</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_Kids?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Kids</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_Jerseys?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Jerseys</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_Hats?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Hats</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_Sweatshirts_And_Fleece?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Sweatshirts</a>
+								
+			</li>
+			
+			
+			<li class="last  even" style="">
+				<A ONMOUSEOVER="" HREF="http://shop.gozags.com/COLLEGE_Gonzaga_Bulldogs_T-Shirts?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">T-Shirts</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-7" class="parent custom odd" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="/mediaPortal/player.dbml?DB_OEM_ID=26400&amp;&db_oem_id=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Video</a>
+			
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-8" class="parent custom sub even" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Fan Zone</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="/mediaPortal/player.dbml?DB_OEM_ID=26400&amp;&db_oem_id=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Zags Sports Channel</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205717693" ONMOUSEOUT="" STYLE="" TARGET="new">Posters</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176044" ONMOUSEOUT="" STYLE="" TARGET="">Cheerleading</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174361" ONMOUSEOUT="" STYLE="" TARGET="">Fight Song</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176120" ONMOUSEOUT="" STYLE="" TARGET="">IM Icons</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176038" ONMOUSEOUT="" STYLE="" TARGET="">Interact with the Zags</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175483" ONMOUSEOUT="" STYLE="" TARGET="">Jr. Zag Club</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175156" ONMOUSEOUT="" STYLE="" TARGET="">Links</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176573" ONMOUSEOUT="" STYLE="" TARGET="">Promotions Central</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176049" ONMOUSEOUT="" STYLE="" TARGET="">Mascot</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176052" ONMOUSEOUT="" STYLE="" TARGET="">Bulldog Band</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176054" ONMOUSEOUT="" STYLE="" TARGET="">Publications</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205176043" ONMOUSEOUT="" STYLE="" TARGET="">Student Rewards</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175520" ONMOUSEOUT="" STYLE="" TARGET="">Wallpapers</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175432" ONMOUSEOUT="" STYLE="" TARGET="">Zags Toolbar</a>
+								
+			</li>
+			
+			
+			<li class="last  even" style="">
+				<A ONMOUSEOVER="" HREF="/main/NewsMailSetup.dbml?&amp;DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="">Zags Mail</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-9" class="parent custom sub odd" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Facilities</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174360" ONMOUSEOUT="" STYLE="" TARGET="">McCarthey Athletic Center</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174359" ONMOUSEOUT="" STYLE="" TARGET="">Charlotte Y. Martin Centre</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174264" ONMOUSEOUT="" STYLE="" TARGET="">Patterson Baseball Complex & Washington Trust Field</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174358" ONMOUSEOUT="" STYLE="" TARGET="">Gonzaga Soccer Field</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174263" ONMOUSEOUT="" STYLE="" TARGET="">Diedrick/DeLong Athletic Training Room</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174357" ONMOUSEOUT="" STYLE="" TARGET="">Harry A. Green Indoor Rowing Center</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174262" ONMOUSEOUT="" STYLE="" TARGET="">Charlotte Y. Martin Boathouse</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174261" ONMOUSEOUT="" STYLE="" TARGET="">Indoor Tennis/Golf Center</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gonzaga.edu/Athletics/Intramurals/FacilitySchedules/default.asp?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Mulligan Field</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174356" ONMOUSEOUT="" STYLE="" TARGET="">Rudolf Fitness Center</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174260" ONMOUSEOUT="" STYLE="" TARGET="">A.M. Corner Practice Facility</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.spokanecountryclub.com/?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Spokane Country Club</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="http://www.cdacasino.com/golf.html?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Circling Raven Golf Club</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174259" ONMOUSEOUT="" STYLE="" TARGET="">Indoor Baseball Facility</a>
+								
+			</li>
+			
+			
+			<li class="last  odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174355" ONMOUSEOUT="" STYLE="" TARGET="">Josh Burrows Performance Athletic Center</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-10" class="parent custom sub even" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="javascript:void(0)" ONMOUSEOUT="" STYLE="" TARGET="">Camps</a>
+			
+	<ul class="subnav">
+		
+			
+			<li class="first  odd" style="">
+				<A ONMOUSEOVER="" HREF="http://www.zagsbaseballcamps.com/" ONMOUSEOUT="" STYLE="" TARGET="new">Baseball</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gonzagabasketballcamps.com/" ONMOUSEOUT="" STYLE="" TARGET="new">Men's Basketball</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205174988" ONMOUSEOUT="" STYLE="" TARGET="">Women's Basketball</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gonzagamenssocceracademy.com" ONMOUSEOUT="" STYLE="" TARGET="new">Men's Soccer</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gonzagasocceracademy.com/" ONMOUSEOUT="" STYLE="" TARGET="new">Women's Soccer</a>
+								
+			</li>
+			
+			
+			<li class=" even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.ussportscamps.com/campinfo.asp?Vendor=&SubCampType=&State=WA&Region=NONW&Sport=TENN&CampType=8&CampCity=Spokane&RequestType=I&WebReg=1&TotalCT=3&CampNo=3601" ONMOUSEOUT="" STYLE="" TARGET="new">Tennis</a>
+								
+			</li>
+			
+			
+			<li class=" odd" style="">
+				<A ONMOUSEOVER="" HREF="/ViewArticle.dbml?DB_OEM_ID=26400&amp;ATCLID=205175039" ONMOUSEOUT="" STYLE="" TARGET="">Volleyball</a>
+								
+			</li>
+			
+			
+			<li class="last  even" style="">
+				<A ONMOUSEOVER="" HREF="http://www.gozags.com/fls/26400/SpeedAgilityBrochure2012.pdf" ONMOUSEOUT="" STYLE="" TARGET="new">Speed & Agility</a>
+								
+			</li>
+			
+	</ul>
+
+		</li>
+		
+		<li class="divider"></li>
+		
+		<li id="lm-parent-11" class="parent last custom odd" style="">
+			<A CLASS="top-menu-link" ONMOUSEOVER="" HREF="http://www.gonzaga.edu?DB_OEM_ID=26400" ONMOUSEOUT="" STYLE="" TARGET="new">Gonzaga.edu</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+<!-- list-menu end -->
+					<div id="social" class="right">
+						
+		<div class="socialads adspace last">
+		<IMG usemap="#social" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/socialad.png" border="0">
+						<map name="social">                  
+						 	<AREA ALT="Facebook" HREF="http://bit.ly/ZagsFacebook" COORDS="4, 3, 23, 20" TARGET="_NEW"><AREA ALT="Twitter" HREF="http://bit.ly/ZagsTwitter" COORDS="29, 3, 48, 20" TARGET="_NEW"><AREA ALT="RSS" HREF="/RSSFeed.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;db_oem_id=26400" COORDS="53, 3, 71, 20" TARGET="_NEW"><AREA ALT="Youtube" HREF="http://bit.ly/ZagsYouTube" COORDS="77, 3, 95, 20" TARGET="_NEW">      
+						 </map>
+		</div>
+		
+					</div>
+				</div>
+				<div class="left sprite-menuright"></div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="guts">
+			
+		<div class="undermenu adspace last">
+		
+	<!-- new ad rotation -->
+	
+	<style>
+		.ad-rotation {
+			position: relative;	
+		}
+		
+		.ad-rotation .adspace {
+			display: none;	
+			position: absolute;
+			top: 0px;
+			left: 0px;
+		}
+		
+		.ad-rotation .adspace.active {
+			display: block;	
+		}
+	</style>
+	
+	<script>
+		
+		window.onload = function() {
+			
+			
+			jQuery(".ad-rotation .adspace").each(function() {
+				adheight = jQuery(this).height();
+				adwidth = jQuery(this).width();
+				
+				if (jQuery(this).parent().height() < adheight) {
+					jQuery(this).parent().css('height', adheight+'px');
+				}
+
+				if (jQuery(this).parent().width() < adwidth) {
+					jQuery(this).parent().css('width', adwidth+'px');
+				}
+				
+			});
+			
+			jQuery(".ad-rotation").each(function() {
+				
+				//if there is only one ad in the rotation group (.active.first.last), don't rotate.  It looks dumb.
+				if (!(jQuery(this).find(".active.first.last").length > 0)) {
+					
+					jQuery(this).find('.ad-count').val(0);
+					
+					currenttimer = 'adtimer_'+jQuery(this).attr('id').substr(3);
+					currentTimerName = window[currenttimer];
+					
+					adRotate(jQuery(this).attr('id'));
+					
+					jQuery(this).mouseenter(function() {
+						clearTimeout(currentTimerName);
+					}).mouseleave(function() {
+						adRotate(jQuery(this).attr('id'));
+					});
+				}
+			});
+		}
+		
+		function adRotate(adgroupid) {
+			var currentAdGroup = window[adgroupid];
+			//console.log(currentAdGroup);
+			//console.log(jQuery("#"+adgroupid+" .ad-count"));
+			currentAdIndex = parseInt( jQuery.trim(jQuery("#"+adgroupid+" .ad-count").val()) );
+			//console.log('currentAdIndex: '+currentAdIndex);
+			nextAdIndex = currentAdIndex+1;
+			
+			if (jQuery("#"+adgroupid+" .adspace:eq("+nextAdIndex+")").length <= 0)
+				nextAdIndex = 0;
+			
+			//console.log('nextAdIndex: '+nextAdIndex);
+			//console.log('array: '+currentAdGroup[currentAdIndex].order[nextAdIndex]);
+			jQuery("#"+adgroupid+" .ad-count").val(nextAdIndex);
+			
+			
+			//currentAdGroup[currentAdIndex].order[nextAdIndex]
+			currentTimerName = setTimeout('adSwitch("'+adgroupid+'", '+currentAdGroup[currentAdIndex].order[currentAdIndex]+', '+currentAdGroup[currentAdIndex].order[nextAdIndex]+');', currentAdGroup[currentAdIndex].time);
+		}
+		
+		function adSwitch(adgroupid, currentAdIndex, nextAdIndex) {
+			//console.log('adSwitch('+adgroupid+', '+currentAdIndex+', '+nextAdIndex+');');
+			if (page_WINDOW_FOCUS) {
+				jQuery("#"+adgroupid+" .adspace.active").fadeOut(500);
+				jQuery("#"+adgroupid+" .adspace:eq("+nextAdIndex+")").fadeIn(500);
+				
+				jQuery("#"+adgroupid+" .adspace.active").removeClass('active');
+				jQuery("#"+adgroupid+" .adspace:eq("+nextAdIndex+")").addClass('active');
+			}
+			adRotate(adgroupid);
+		}
+	</script>
+
+	<script>
+		var ad_grp1 = new Array();
+		var adtimer_grp1 = null;
+		var adspace = null;
+		
+			adspace = new Object;
+			adspace.id = 682349;
+			adspace.time = 5 * 1000; //set the rotation time for this ad in miliseconds (db stores as seconds)
+			adspace.timer = null;
+			adspace.order = new Array(1,0);
+			ad_grp1[0] = adspace;
+			
+			adspace = new Object;
+			adspace.id = 682544;
+			adspace.time = 5 * 1000; //set the rotation time for this ad in miliseconds (db stores as seconds)
+			adspace.timer = null;
+			adspace.order = new Array(1,0);
+			ad_grp1[1] = adspace;
+			
+	</script>
+
+
+	
+	<div id="ad_grp1" class="ad-rotation" style="width: 978px; height: 60px;">
+		
+			
+			<div class="ad-1 first adspace">
+				<A HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=682349"><img dbnorewrite src="/ads2/682349.jpg?M=201212041833" alt="Gonzaga Women's basketball " border="0" width="978" height="60" /></a>
+			</div>
+			
+			
+			
+			<div class="ad-2 last adspace active">
+				<A HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=682544"><img dbnorewrite src="/ads2/682544.jpg?M=201212041831" alt="Uploaded Ad" border="0" width="978" height="60" /></a>
+			</div>
+			
+			
+		<div class="ad-count" style="display: none;"></div>
+	</div>
+
+		</div>
+		
+			
+			<div id="content">
+
+				
+					<div id="contentLeft" class="left ">
+						
+	<div id="sectionmenu" class="center">
+		
+				<div class="left sportname">Basketball</div>
+			<A CLASS="block left" HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627537&KEY=">News</a>
+			<A CLASS="block left" HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627529&KEY=">Schedule/Results</a>
+			<A CLASS="block left" HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627536&KEY=">Roster</a>
+			<A CLASS="block left" HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627530&KEY=">Coaches</a>
+			<A CLASS="block left last" HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627531&KEY=">Statistics</a>
+			
+		<div class="clear"></div>
+	</div>
+	
+	<div id="breadcrumbs">
+	<A HREF="/HomePage.dbml?DB_OEM_ID=26400&KEY=">Home</a>
+	
+		&gt; <A HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627537&KEY=">Men's Basketball</a>
+		&gt; <A HREF="/SportSelect.dbml?DB_OEM_ID=26400&SPID=90846&SPSID=627537&KEY=">News</a>
+	
+</div>
+						<div class="contents">
+				
+
+<style>
+#GlobalArticleContainer ul{
+list-style-position:inside;
+}
+</style>
+
+<div id="GlobalArticleContainer">
+
+<div id="article">
+	<div id="articleVideoContainer">
+		
+				<div id="NeulionVidContainer">
+					
+
+	<div id="user_v2_neulionPlayer" class="neulionVid-inner" style="position:relative; height:100%; width:100%;">
+		<IFRAME SRC="/siteMediaPlayer/headlineEmbed/slp.htm?w=683&h=412" STYLE="position:absolute;top:0px;left:-10px;z-index:100;width:1px;height:1px" FRAMEBORDER="0" BORDER="0" ID="slpane"></iframe>
+	</div>
+
+					<div id="videoStop" onclick="hideNeuLionVidArticle();">
+						<IMG alt="stop" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/xbutton.png">
+					</div>
+				</div>
+			
+	</div>
+	
+	<div id="ArticleImage" class="relative">
+		<IMG class="image" alt="Article Image" src="http://image.cdnllnwnl.xosnetwork.com/pics32/640/RZ/RZVFCBFTUETZSOQ.20121206072228.jpg">
+	</div>
+	<div id="captionbar" class="relative">
+		
+		<div class="right courtesy">
+			
+				Courtesy: Associated Press
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div class="ArticleText">
+		
+		<div class="ArticleTitle">
+		      <h1>Pangos Late Lay-in Gives Zags Win At WSU, Perfect 9-0 Start</h1>
+		</div>
+		
+		<div class="ArticleCopyright">
+			
+
+
+<table class="artReleaseIcons" width="100%" border="0" cellspacing="1" cellpadding="1">
+<tr>
+	
+	<td align="left" valign="top">
+	
+		<table border="0" cellspacing="2" cellpadding="0">
+		<tr>
+			
+				<td align="left" valign="top" class="articlecopy">
+					Courtesy: Associated Press<BR>
+				</td>
+				<td align="left" valign="top" class="articlecopy">
+					&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+				</td>
+				
+				<td align="center" valign="top" class="articlecopy">
+				Release: 12&#47;05&#47;2012<br>
+				
+				</td>
+		</tr>
+		</table>
+		
+	</td>
+	<td align="right" valign="top">
+	<table border="0" cellspacing="2" cellpadding="0">
+	<tr>
+		<td align="center" valign="top" class="articlecopy">
+			
+		</td>
+		
+		<td align="right" valign="top" class="articlecopy">
+			<A TITLE="Send this article to a friend" HREF="/EmailArticle.dbml?SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;ATCLID=205821435"><IMG alt="Send this article to a friend" height="20" src="http://image.cdnllnwnl.xosnetwork.com/images/26400/SendMail.gif" width="20" border="0"></a>
+		</td>
+		
+			<td align="right" valign="top" class="articlecopy">
+				<A TITLE="Print" HREF="ViewArticle.dbml?PRINTABLE_PAGE=YES&amp;SPSID=627537&ATCLID=205821435&SPID=90846&DB_OEM_ID=26400&DB_LANG=C"><IMG alt="Print" height="20" src="http://image.cdnllnwnl.xosnetwork.com/images/26400/PrinterIcon.gif" width="20" border="0"></a>
+			</td>
+
+
+			<td align="right" valign="top" class="articlecopy" style="padding-top:3px;">
+				<A TITLE="RSS" HREF="RSSFeed.dbml?ATCLID=2058214358&DB_OEM_ID=26400"><IMG alt="RSS" src="images/0/rss.gif" border="0"></a>
+			</td>
+
+
+			<td>
+			
+
+	<script type="text/javascript">
+		var addthis_config = {
+		     ui_delay: 200
+		}
+		
+		var addthis_share =
+		{
+			title : "Pangos Late Lay-in Gives Zags Win At WSU, Perfect 9-0 Start"
+		}
+		
+	</script>
+	
+    <!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_default_style"  style="width:328px;height:24px;margin-right:4px;">
+        <A CLASS="addthis_button_compact" STYLE="width:25px;padding-top:2px;"></a>
+		<A CLASS="addthis_button_google_plusone" G:PLUSONE:SIZE="medium" STYLE="width:65px;"></a>
+		<A CLASS="addthis_button_tweet" TW:WIDTH="97" STYLE="width:97px;"></a>
+		<A CLASS="addthis_button_facebook_like" FB:LIKE:LAYOUT="button_count" FB:LIKE:WIDTH="80" STYLE="width:80px;"></a>
+		
+	</div>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4db734281fbe2b24"></script>
+	<!-- AddThis Button END -->
+	
+	
+			</td>
+		
+		
+	</tr>
+	</table>
+	</td>
+</tr>
+</table>
+
+		</div>
+		
+		<div class="content">
+			
+
+<div id="articleRelated" class="right">
+	<div class="header">
+		RELATED CONTENT
+	</div>
+	
+	<div class="content">
+		<!-- Photo Galleries -->
+		
+	
+		<!-- Links (that do not have article ids) -->	
+		
+					<div class="link item">
+						<IMG class="left block" alt="" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/linkicon.png"><A TITLE="Complete Box in HTML" CLASS="left block" HREF="http://www.gozags.com/ViewContent.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&CONTENT_ID=280681" TARGET="">Complete Box in HTML</a>
+						
+						
+						<div class="clear"></div>
+					</div>
+				
+		
+		<!-- PDFs -->
+		
+					<div class="pdf item">
+						<IMG class="left block" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/pdficon.png" border="0"><A CLASS="left block" HREF="/pdf8/1021595.pdf" TARGET="PDFWIN">Complete Box in PDF</a>
+							
+						<div class="clear"></div>
+					</div>
+				
+		
+		<!-- Downloads -->
+		
+
+	
+		<!-- Clips -->
+		
+	</div>
+</div>
+
+<p><strong>PULLMAN, Wash. (AP) -</strong> Kevin Pangos had a tough shooting night, until the game was on the line.</p>
+<p>Then the Gonzaga guard drove the length of the court and made a layup with 2 seconds left for a 71-69 victory over Washington State on Wednesday night, giving the Bulldogs (9-0) the best start in their Division I history.</p>
+<p>Pangos made just 1 of 11 shots before the game-winner.</p>
+<p>``My thought process was to just get to the rim,'' Pangos said.</p>
+<p>``It wasn't my best shooting night, to say the least,'' he said. ``But I've struggled offensively before. I forgot about the misses and just kept shooting.''</p>
+<p>Elias Harris scored 23 points and Kelly Olynyk had 22, all in the second half, for Gonzaga, which had been tied with the 1994-95 team for best start.</p>
+<p>``We gave game balls to both of these guys,'' Gonzaga coach Mark Few said of Harris and Olynyk. ``These two players down the stretch were big for us.''</p>
+<p>Olynyk, who redshirted last season, made 10 of 14 shots to keep Gonzaga in the game in the second half.</p>
+<p>``Olynyk couldn't have made these plays a year ago,'' Few said. ``He's turning into a strong player.''</p>
+<p>Brock Motum had 23 points and DaVonte Lacy added 22 for Washington State (5-4), which saw its three-game winning streak snapped.</p>
+<p>Motum hit a 3-pointer with 14 seconds left to bring WSU within 68-67.</p>
+<p>Gary Bell Jr. made a free throw for Gonzaga, and Lacy made a layup to tie the score at 69.</p>
+<p>That set up Pangos' drive that gave him eight points.</p>
+<p>``It was a great college basketball game,'' Washington State coach Ken Bone said. ``It was a fun game to be involved in, a stressful game to coach.</p>
+<p>``Gonzaga is very good,'' Bone said. ``There is a reason they are the No. 10 team in the country.''</p>
+<p>Olynyk, who had 10 points in the first 8 minutes of the second half, scored three straight baskets as Gonzaga built a 41-36 lead.</p>
+<p>Consecutive 3-pointers by Harris and Mike Hart gave Gonzaga a 56-45 lead with 7:26 left.</p>
+<p>Lacy hit two 3-pointers to bring WSU within 58-51 with 6 minutes left and consecutive 3-pointers by Motum cut Gonzaga's lead to 60-57 with 3:31 left.</p>
+<p>Lacy's 3-pointer tied the score at 60, but Olynyk made a putback and the free throw for a 63-60 lead. Two free throws by Motum cut Gonzaga's lead to one.</p>
+<p>Lacy was fouled on a drive and made both free throws to put WSU up 64-63 with 1:29 left. Olynyk made a layup for a 65-64 lead. He missed the free throw, but Gonzaga got the rebound and Olynyk hit a 3-pointer for a 68-64 lead with 33.5 seconds left.</p>
+<p>``This was a very enthusiastic effort down the stretch,'' Few said of his team.</p>
+<p>Bone praised Lacy, who scored 17 points in the second half.</p>
+<p>``There is a level of toughness and confidence and the other guys feed off his confidence,'' Bone said of Lacy. ``If he is on the floor, it raises our team's confidence.''</p>
+<p>Washington State leads the all-time series between the eastern Washington rivals 98-49.</p>
+		</div>
+		
+		<div id="BackbuttonContainer">
+			<A TITLE="Back" HREF="javascript:history.back()" TARGET=""><IMG alt="Back" height="18" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/BackButton.gif" width="45" border="0"></a>
+		</div>
+	</div>
+</div>
+	    <div>
+			
+			<div style="padding:2px"></div>
+	   </div>
+	
+	<style>
+		#articleFooter {
+			padding: 0px 10px;
+		}
+	</style>
+	
+	<div id="article-bottom-icons-container" align="right" style="padding-top:5px;padding-bottom:5px;">
+		
+	</div>
+
+</div>
+							</div>
+							<IMG class="block" alt="" src="http://image.cdnllnwnl.xosnetwork.com/fls/26400/site_graphics/leftbottom.png">
+						</div>
+						<div id="contentRight" class="left">
+							<div id="rightcolumn">
+	<div class="sprite-righttop"></div>
+	<div class="middle">
+		
+		<div class="sport righttop adspace last">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=537468" TARGET="new"><img dbnorewrite src="/ads2/537468.gif?M=201211261723" alt="WCC Men's Basketball Standings" border="0" width="300" height="59" /></A>
+							
+		</div>
+		
+	<div id="sportlinks" class="sprite-sportlinks">
+		<div class="header">Basketball Links</div>
+		<div class="content">
+			<A CLASS="block" HREF="/SportArchives.dbml?DB_OEM_ID=26400&SPID=90846">
+					<div class="sprite-blackarrow left"></div>Archives
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block gray" HREF="https://admin.xosn.com/fls/26400//MEN'S%20BASKETBALL/CoSIDA%202013%20MBX.pdf">
+					<div class="sprite-blackarrow left"></div>2012-13 Quick Facts
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block" HREF="fls/26400//MEN'S%20BASKETBALL/2012-13%20MBB%20RECORD%20BOOK.pdf">
+					<div class="sprite-blackarrow left"></div>2012-13 Record Book
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block gray" HREF="http://www.gozags.com/fls/26400/MBBSTATS/2012%20MBX%20STATISTICS.pdf">
+					<div class="sprite-blackarrow left"></div>2012 Statistics
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block" HREF="https://admin.xosn.com/fls/26400//MBBSTATS/2013%20MBX%20STATISTICS.pdf">
+					<div class="sprite-blackarrow left"></div>2013 Statistics
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block gray" HREF="/fls/26400/old_side/pdfs/m-baskbl/auto_pdf/mensbasketballlockerroom.pdf">
+					<div class="sprite-blackarrow left"></div>Men's Basketball Lockers Project
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block" HREF="http://www.gonzagabasketballcamps.com/">
+					<div class="sprite-blackarrow left"></div>Sports Camp
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block gray" HREF="/mediaPortal/player.dbml?&db_oem_id=26400">
+					<div class="sprite-blackarrow left"></div>Listen to Bulldog games LIVE on the internet!
+					<div class="clear"></div>
+				</a>
+				<A CLASS="block" HREF="http://www.sportsline.com/collegebasketball/polls">
+					<div class="sprite-blackarrow left"></div>Polls
+					<div class="clear"></div>
+				</a>
+				
+		</div>
+	</div>
+
+		<div class="underslinks adspace last">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=572711" TARGET="new"><img dbnorewrite src="/ads2/572711.jpg?M=201210231725" alt="Online Store zag shop" border="0" width="300" height="57" /></A>
+							
+		</div>
+		
+				
+		<div class="networkad news300">
+			advertisement
+			
+	<div id="AD_2">
+		
+			<!-- begin ad tag-->
+			<script language="JavaScript" type="text/javascript">
+			
+			document.write('<script language="JavaScript" src="http://ad.doubleclick.net/N12906217/adj/jtvs.26400.gonzagabulldogs/sports.m.basketball;oem=26400;lan=en;dcopt=null;pos=;sec=sports.m.basketball;gen=basketball;c_cou=us;c_reg=north_america;s_sec=;u=con%3Djtvs.26400.gonzagabulldogs%2Fbasketball%7Csize%3D300x250;c_type=;s_type=m.basketball;sz=300x250;tile=2;ord='+ '614758711' + '?" type="text/javascript"><\/script>');
+			</script>
+		
+
+	</div>
+	<!-- hidden ad -->
+	
+	<!-- End ad tag -->
+
+		</div>
+		
+		
+		<div class="rightbottom adspace ">
+		<A HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=535519"><img dbnorewrite src="/ads2/535519.jpg?M=201106301517" alt="Uploaded Ad" border="0" width="300" height="107" /></A>
+								
+		</div>
+		
+		<div class="rightbottom adspace ">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=535555" TARGET="new"><img dbnorewrite src="/ads2/535555.jpg?M=201107151551" alt="University News & Events" border="0" width="300" height="68" /></A>
+							
+		</div>
+		
+		<div class="rightbottom adspace last">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=632741" TARGET="new"><img dbnorewrite src="/ads2/632741.jpg?M=201209141722" alt="Battle in Seattle tickets " border="0" width="300" height="107" /></A>
+							
+		</div>
+		
+	</div>
+	<div class="sprite-rightbottom"></div>
+</div>
+						</div>
+						<div class="clear"></div>
+						
+				</div> 
+			</div> 
+
+			<div id="sitebottom">
+				<div id="footer">
+	
+
+<div id="drippan">
+	<div class="item sports left">
+		<div class="header">
+			<div class="sprite-bulldogsports"></div>
+		</div>
+		
+		<div class="mens left">
+			<div class="sportsheader">
+				MEN'S
+			</div>
+			<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90843&SPSID=627525">Baseball</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90846&SPSID=627537">Basketball</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90857&SPSID=627770">Cross Country</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90839&SPSID=627498">Golf</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90996&SPSID=627978">Rowing</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90833&SPSID=627474">Soccer</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90840&SPSID=627507">Tennis</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90837&SPSID=627494">Track & Field</a>
+				
+		</div>
+		
+		
+		<div class="womens right">
+			<div class="sportsheader">
+				WOMEN'S
+			</div>
+			<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90847&SPSID=627539">Basketball</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90857&SPSID=627770">Cross Country</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90829&SPSID=627452">Golf</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90997&SPSID=627787">Rowing</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90895&SPSID=628008">Soccer</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90841&SPSID=627516">Tennis</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90837&SPSID=627494">Track & Field</a>
+				<A CLASS="block" HREF="/SportSelect.dbml?ATCLID=205821435&amp;DB_LANG=C&amp;DB_OEM_ID=26400&SPID=90842&SPSID=627517">Volleyball</a>
+				
+		</div>
+		<div class="clear"></div>
+	</div>
+
+	<div class="item info left">
+		<div class="header">
+			<div class="sprite-athleticsdept"></div>
+		</div>
+		<A CLASS="block" HREF="http://www.gozags.com/SportSelect.dbml?&DB_OEM_ID=26400&SPID=90998&SPSID=630604" TARGET="">Academic Services</a>
+				<A CLASS="block" HREF="http://www.gozags.com/ViewArticle.dbml?DB_OEM_ID=26400&ATCLID=205177631" TARGET="">Compliance</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="http://www.gozags.com/ViewArticle.dbml?DB_OEM_ID=26400&ATCLID=205161101" TARGET="">Directory</a>
+				<A CLASS="block" HREF="http://www.nmnathletics.com/ViewArticle.dbml?DB_OEM_ID=26400&ATCLID=205175077" TARGET="">Ticket Office</a>
+				
+	</div>
+	<div class="item media left">
+		<div class="header">
+			<div class="sprite-extras"></div>
+		</div>
+		<A CLASS="block" HREF="http://www.gozags.com/CreateTicket.dbml?db_oem_id=26400" TARGET="">Contact Us</a>
+				<A CLASS="block" HREF="http://www.facebook.com/GonzagaBulldogs" TARGET="_NEW">Facebook</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="http://bit.ly/ZagsTwitter" TARGET="_NEW">Twitter</a>
+				<A CLASS="block" HREF="http://bit.ly/ZagsYouTube" TARGET="_NEW">YouTube</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="http://www.nmnathletics.com/subs/Landing.dbml?DB_LANG=C&DB_OEM_ID=26400" TARGET="">Zags Sports Channel</a>
+				<A CLASS="block" HREF="http://www.gozags.com/liveEvents/liveEvents.dbml?&DB_OEM_ID=26400" TARGET="">Live Events Schedule</a>
+				
+						<div class="clear"></div>
+					<A CLASS="block" HREF="http://www.gozags.com/SiteMap.dbml?db_oem_id=26400" TARGET="">Site Map</a>
+				<A CLASS="block" HREF="http://www.magnetstreet.com/" TARGET="_NEW">Custom Magnets</a>
+				
+	</div>
+	<div class="ads left">
+		
+		<div class="drippanads adspace ">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=535556" TARGET="new"><img dbnorewrite src="/ads2/535556.png?M=201208201919" alt="Gonzaga University" border="0" width="102" height="128" /></A>
+							
+		</div>
+		
+		<div class="drippanads adspace ">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=535477" TARGET="new"><img dbnorewrite src="/ads2/535477.png?M=201108160020" alt="West Coast Conference" border="0" width="102" height="83" /></A>
+							
+		</div>
+		
+		<div class="drippanads adspace last">
+		<A REL="nofollow" HREF="/AdMonitor.dbml?ATCLID=205821435&amp;SPSID=627537&amp;SPID=90846&amp;DB_LANG=C&amp;DB_OEM_ID=26400&amp;MONITOR_AD_ID=535478" TARGET="new"><img dbnorewrite src="/ads2/535478.png?M=201106151914" alt="IMG" border="0" width="102" height="46" /></A>
+							
+		</div>
+		
+	</div>
+	<div class="clear"></div>
+
+</div>
+	
+	<div id="neulion">
+		<!--[if lt IE 7]>
+<style type="text/css">
+#corporate-logo span {
+	display: block;
+	height: 26px ;
+	width: 182px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/NeulionPowered_Black.png',sizingMethod='scale');
+}
+#corporate-logo img {
+	display: none;
+}
+</style>
+<![endif]--><A HREF="http://www.neulion.com" TARGET="_blank" ID="corporate-logo">
+<span>
+	<IMG alt="Internet TV Powered by Neulion" src="http://image.cdnllnwnl.xosnetwork.com/images/NeulionPowered_Black.png" border="0" id="CorporateLogo">
+</span>
+</a>
+
+
+	</div>
+	<div id="copyright">
+		Copyright 2012 Gonzaga University. All rights reserved
+	</div>
+	<div id="footerLinks">
+		<A TITLE="Privacy &amp; Terms" HREF="/TermsAndConditions.dbml?db_oem_id=26400">Privacy Policy</a>
+		&nbsp;|&nbsp;
+		<A TITLE="Privacy &amp; Terms" HREF="/TermsAndConditions.dbml?db_oem_id=26400">Terms of Use</a>
+		&nbsp;|&nbsp;
+		<A TITLE="Contact Us" HREF="/CreateTicket.dbml?db_oem_id=26400">Feedback</a>
+		&nbsp;|&nbsp;
+		<A TITLE="FAQ" HREF="/SiteMap.dbml?db_oem_id=26400">Site Map</A>
+		&nbsp;|&nbsp;
+		<A TITLE="Contact Us" HREF="/CreateTicket.dbml?db_oem_id=26400">Customer Care</a>
+		&nbsp;|&nbsp;
+		<A TITLE="Site Map" HREF="/RSSFeed.dbml?db_oem_id=26400">RSS Feeds</a>
+	</div>
+</div>
+			</div>
+		</div> 
+	</div> 
+</body><!-- Start USER_V2 VB -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-23941649-1");
+	
+pageTracker._trackPageview();
+	
+var secondTracker = _gat._getTracker("UA-11697686-1");
+secondTracker._trackPageview();
+	
+</script>
+		
+	<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
+	<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
+	<script type="text/javascript">
+		var _rsCI="us-xostech";
+		var _rsCG="26400";
+		var _rsDN="//secure-us.imrworldwide.com/";
+		var _rsCC=0;
+		
+			var _rsSE=1;
+			var _rsSM=1.0;
+		
+	</script>
+	<script type="text/javascript" src="//secure-us.imrworldwide.com/v52.js"></script>
+	<noscript>
+		<IMG alt="" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-xostech&amp;cg=26400">
+	</noscript>
+	<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
+
+
+	<!-- Begin comScore Tag -->
+	<script type="text/javascript">
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "6035349", c3: "", c4: "http://www.gozags.com/ViewArticle.dbml" });
+
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+	</script>
+	<noscript>
+		<IMG src="http://b.scorecardresearch.com/p?c1=2&c2=6035349&c3=&c4=http%3A%2F%2Fwww.gozags.com%2FViewArticle.dbml&c5=&c6=&c15=&cv=2.0&cj=1">
+	</noscript>
+	<!-- End comScore Tag -->
+
+<script type="text/javascript">
+		
+var page_ON_DEMAND_VIEWER_HEIGHT = 640;	
+			
+var page_ON_DEMAND_VIEWER_WIDTH = 860;	
+			
+var page_ONDEMANDVIEWERSCROLLBARS = 'no';	
+					
+var page_MP_MEDIAPLAYER = 'V3PLAYER';	
+				
+var page_MP_TAB = 'vod';	
+				
+var page_LIVEEVENTVIEWERSCROLLBARS = 'no';	
+					
+var page_MP_EXTRA_SPORTONLY = 'N';	
+				
+var page_MP_GAMECENTER_VERSION = '2';	
+				
+var page_MP_EXTRA_SPORTONLY_SPORTKEYLIST = '';
+					
+var page_WRITEFLEXPLAYER_ID = null;	
+			
+var page_WRITEFLEXPLAYER_OEM_ID = '26400';	
+				
+var page_WRITEFLEXPLAYER_IS_PRODUCTION = true;	
+			
+var page_WRITEFLEXPLAYER_SITE_NAME = 'jtvs.26400.gonzagabulldogs';	
+				
+var page_WRITEFLEXPLAYER_AD_SPORT_ID = 'sports.m.basketball';	
+				
+var page_WRITEFLEXPLAYER_COMPANION_DURATION = 0;	
+			
+var page_WRITEFLEXPLAYER_LOC_SERVER = 'http://www.gozags.com/';	
+				
+var page_WRITEFLEXPLAYER_LOC_IMAGE = 'http://image.cdnllnwnl.xosnetwork.com/siteMediaPlayer/headlineEmbed/';	
+				
+var page_WRITEFLEXPLAYER_ADPATH = 'N12906217';	
+				
+var page_REPLAYPHOTOS_BASE_URL = 'http://www.replayphotos.com/';	
+				
+var page_REPLAYPHOTOS_PROVIDER_ID = 'gonzagaphotostore';	
+				
+var page_REPLAY_PHOTO_WIDTH = '1000';	
+				
+var page_DB_OEM_ID = '26400';	
+					
+var page_SPSID = '627537';	
+					
+var page_KEY = '';
+					
+var page_DB_KEY = '';
+					
+var page_DB_ACCOUNT_TYPE = 'USER';	
+					
+var page_IS_HOME_PAGE = 'NO';	
+					
+var page_SPID = '90846';	
+					
+var page_HTTP_REQUEST_PATH = '/ViewArticle.dbml';	
+					
+var page_SAVE_TEMPLATE = 'templates/ArticleTopCenter.tmpl';	
+					
+var page_TMPL_PAGE_NAME = 'templates/ArticleTopCenter.tmpl';	
+					
+var page__MODE_ = '';
+					
+var page_SHOW_ALL_OEMS = '';
+					
+var page_DBREWRITEVARS = '&ATCLPID=&ATCLID=205821435&DB_MENU_ID=&SPSID=627537&SPID=90846&DB_LANG=C&DB_OEM_ID=26400';	
+				
+var page_GOOGLE_ANALYTICS = 'UA-23941649-1';	
+				
+var page_SITE_BASE_SERVER = 'http://www.gozags.com/';	
+				
+var page_SECURE_BASE_SERVER = 'https://www.nmnathletics.com/';	
+				
+var page_GOOGLE_ROLL_UP_ANALYTICS = 'https://www.nmnathletics.com/';	
+				
+var page_HTTP_IMAGE_CACHE_SERVER = 'http://image.cdnllnwnl.xosnetwork.com';	
+				
+var page_HTTPS_IMAGE_CACHE_SERVER = '';
+					
+</script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+				
+<script type="text/javascript" src="/oemjs/0/articleBioRollover.js"></script>
+				
+<script type="text/javascript">jQuery.noConflict();</script>
+				
+<script type="text/javascript" src="/oemjs/26400/oem26400.js"></script>
+				
+<script type="text/javascript" src="/oemjs/0/ie6Update.js"></script>
+				
+<script type="text/javascript" src="/oemjs/0/Menu.js"></script>
+				
+<script type="text/javascript" src="/oemjs/0/global-user-v2.js"></script>
+				
+		<!-- Start DeepWidgets Manual -->
+		
+			<script type="text/javascript">
+				var dwOemId = 26400;
+				var dwCountdownDataPath = 'http://image.cdnllnwnl.xosnetwork.com/xmlCache/26400/countdown.json';
+			</script>
+			<script src="/DeepWidgets/javascripts/dwmswi.js" type="text/javascript"></script>
+		
+
+<!-- End USER_V2 VB -->
+
+</body>
+</html>

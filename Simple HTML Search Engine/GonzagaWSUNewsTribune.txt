@@ -1,0 +1,2093 @@
+<!DOCTYPE html>
+
+
+<html class="no-js" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+ <head>
+ 
+
+
+
+<script>
+
+var gomez={ 
+	gs: new Date().getTime(), 
+	acctId:'D3FD89', 
+	pgId:'story-detail', 
+	grpId:'Tacoma' 
+};
+
+/*Gomez tag version: 7.0*/var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}return d;};gomez.h3(gomez,{b3:function(r){if(r<=0)return false;return Math.random()<=r&&r;},b0:function(n){var c=document.cookie;var v=c.match(new RegExp(';[ ]*'+n+'=([^;]*)'));if(!v)v=c.match(new RegExp('^'+n+'=([^;]*)'));if(v)return unescape(v[1]);return '';},c2:function(n,v,e,p,d,s){try{var t=this,a=t.domain?t.domain:location.hostname;var c=n+'='+escape(v)+(e?';expires='+e.toGMTString():'')+(p?';path='+p:';path=/')+(d?';domain='+d:';domain='+a)+(s?';secure':'');document.cookie=c;}catch(e){}},z0:function(n){var t=this;if(n){var s =t.b0("__g_c");if(!s)return '';var v=s.match(new RegExp(n+':([^\|]*)'));if(v)return unescape(v[1]);return '';}else return '';},z1:function(n,m){var t=this;if(n){var s=t.b0("__g_c");if(s){if(s.indexOf(n+':')!=-1)s=s.replace(new RegExp('('+n+':[^\|]*)'),n+':'+m);else s=s==' '?n+':'+m:s+'|'+n+':'+m;t.c2("__g_c",s);}else t.c2("__g_c",n+':'+m);};},b2:function(v,s){var t=this,f=new Date(t.gt()+946080000000),g=''+v+'_'+s;t.c2('__g_u',g,f);t.gc.c=v;t.gc.d=s;t.z1('c',v);t.z1('d',s);},gt:function(){return new Date().getTime()},b5:function(){return new Date().getTime()-gomez.gs},j1:function(h){if(h){if(h.indexOf('<')!=-1||h.indexOf('%3C')!=-1||h.indexOf('%3c')!=-1)return null;if(window.decodeURIComponent)return decodeURIComponent(h);else return unescape(h);}return null;},f1:function(u,t){try{if(u){if(!/(^http|^https)/.test(u)){if(t==1)return gomez.j1(location.hostname);else return u;}var p=new RegExp('(^http|^https|):\/{2}([^\?#;]*)');if(t==1)p=new RegExp('(^http|^https|):\/{2}([^\/\?]*)');var r=u.match(p);if(r&&t==1)return gomez.j1(r[2]);else if(r)return r[0];}return null;}catch(e){return null;}},j3:function(n){try{var t =this,key=escape((window.location+n).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}if(window.localStorage){window.localStorage.setItem(key, t.gt());}else{t.z1('r',key+'___'+t.gt());}}catch(e){return ;}}, j2:function(){try{var m,t =this,key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}if(window.localStorage){m=window.localStorage.getItem(key);}if(!m){var c=t.z0("r");if(c){var r=c.split('___');if(r &&r[0]==key){m=r[1];}};};t.j4();return m;}catch(e){return ;}}, j4:function(){try{var t =this;if(window.localStorage){var key=escape((document.referrer+window.location).replace(new RegExp("([:\/\.])","gm"),""));if(key&&key.length>100){key=key.substring(0,100);}window.localStorage.removeItem(key);}else{t.z1('r', '');}}catch(e){return ;}}, j5:function(){var ret='';for(var i=0;i<3;i++){ret =ret +(((1+Math.random())*0x10000)|0).toString(16).substring(1);}ret =parseInt(ret, 16);return ret;},j6:function(){var t =this;var g=t.b0("__g_u");if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r =g.split("_");if(r.length>5){if(parseInt(r[5])<new Date().getTime()){return undefined;}else{return parseFloat(r[2]);}}}return undefined;},nameEvent:function(){},startInterval:function(){},endInterval:function(){},customValue:function(){}});gomez.P=function(){};gomez.P.prototype={hash:function(o){if(!o)return '';var t=this,s='{n:'+t.f9(o['n'])+'|';for(var i in o){if(i=='n')continue;if(typeof(o[i])=='string'||typeof(o[i])=='number')s +=i+':'+t.f9(o[i])+'|';};s=s.substring(0,s.length-1);return s+'}';},f9:function(s){s=''+s;s=s.replace('|','#$#').replace(':','$*$').replace('{','@#@').replace('}','*@*').replace('&','!*!');return s;},g0:function(){var t=this,z=gomez;if(z.grpIds)z.h3(z.gc,z.grpIds);if(z.wrate)z.gc.r=z.wrate;z.gc.e=z.grpId;for(var i=1;i<5;i++){if(z["grpId"+i]!=undefined){z.gc["e"+i]=z["grpId"+i];}}z.gc.b=z.pgId;z.gc.l=z.f1(z.m,2);if(self.screen){z.gc.m=screen.width;z.gc.o=screen.height;}else if(self.java){var j=java.awt.Toolkit.getDefaultToolkit();var s=j.getScreenSize();z.gc.m=s.width;z.gc.o=s.height;};z.gc.p=navigator.platform;if(navigator.cpuClass)z.gc.q=navigator.cpuClass;if(!z.gc.f&&!z.gc.g){try{var a=new Array("MSIE","Firefox","Opera","Safari","Chrome"),b=document.createElement('div');if(b.addBehavior&&document.body){b.addBehavior('#default#clientCaps');z.gc.k=b.connectionType;}}catch(e){};for(var i=0;i<a.length;i++){if(navigator.userAgent.indexOf(a[i])!=-1){z.gc.g=a[i];z.gc.f=(new String(navigator.userAgent.substring(navigator.userAgent.indexOf(a[i])).match(/[\d.]+/))).substring(0);}}if(!z.gc.f&&!z.gc.g){z.gc.g=navigator.vendor||navigator.appName;z.gc.f=(new String(navigator.appVersion.match(/[\d.]+/))).substring(0);}}return t.hash(z.gc);}};try{gomez.gc={'n':'c'};var iU=gomez.b0('__g_u');if(iU==undefined||iU==''){gomez.b2(gomez.j5(), 0);}var sR=gomez.j6();if(sR==undefined){sR=1;gomez.isFirstVi=true;}else{gomez.isFirstVi=false;}var wR=gomez.wrate?parseFloat(gomez.wrate):(gomez.wrate==0?0:1);wR=wR<0?0:(wR>1?1:wR);gomez.inSample=gomez.z0('a');if(!gomez.inSample||gomez.inSample==''){if(gomez.b3(wR*sR)){gomez.inSample=1;}else{gomez.inSample=0;}gomez.z1('a', gomez.inSample);}else{gomez.inSample=parseInt(gomez.inSample);}gomez.runFlg=gomez.inSample>0;if(gomez.runFlg){gomez.clickT=gomez.j2();gomez.h1=function(v,d){return v?v:d};gomez.gs=gomez.h1(gomez.gs,new Date().getTime());gomez.acctId=gomez.h1(gomez.acctId,'');gomez.pgId=gomez.h1(gomez.pgId,'');gomez.grpId=gomez.h1(gomez.grpId, '');gomez.E=function(c){this.s=c;};gomez.E.prototype={g1:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();}};gomez.L=function(m){this.a=m;};gomez.L.prototype={g2:function(m){var t=gomez,n=t.b5();var s=document.getElementsByTagName(m);var e=t.k;if(m=='script')e=t.j;if(m=='iframe')e=t.l;if(s){var l=s.length;for(var i=0;i<l;i++){var u=s[i].src||s[i].href;if(u &&!e[u]){var r =new gomez.E(e);t.grm[u]=r;e[u]=new t.c7(u, n);if(t.gIE&&m=='script')t.e2(s[i],'readystatechange',t.d2,false);else t.e2(s[i],'load',r.g1,false);}}}}};gomez.L.m=new Object;gomez.S=function(){var t=this,h=gomez.acctId+".r.axf8.net";t.x=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/b.gif?';t.pvHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/e.gif?';t.abHttpUrl=('https:'==location.protocol?'https:':'http:')+'//'+h+'/mr/f.gif?';};gomez.h2=function(){var t=this;t.gIE=false;t.f=new Object;t._h=0;t.j=new Object;t.k=new Object;t.l=new Object;t.m=location.href;t.p=-1;t.q=-1;t.u=new Array;t._w=false;t.gSfr=/KHTML|WebKit/i.test(navigator.userAgent);t.grm=new Object;t.b;t.d=false;t.x=false;t.s=new gomez.S;t._a=false;t.h6=false;t.n1=0;t.c=false;};gomez.h3(gomez,{h5:function(u){try{var s=document.createElement('script');s.async=true;if(navigator.userAgent.indexOf('Firefox/3.5')!=-1){s.defer=true;}s.src=u;s.type='text/javascript';if(document.body)document.body.appendChild(s);else if(document.documentElement.getElementsByTagName('head')[0])document.documentElement.getElementsByTagName('head')[0].appendChild(s);}catch(e){var t=gomez;if(t.gSfr)document.write("<scr"+"ipt src='"+u+"'"+"><\/scr"+"ipt>");}},a9:function(){var t=gomez,i=t.z0('a'),g=t.b0('__g_u'),h=t.z0('h'), b=t.z0('b');t.gc.h=b;if(h)t.n1=parseInt(h);if(!t.gc.h)t.gc.h=1;t.z1('b',parseInt(t.gc.h)+1);if(i){t.a=parseInt(i);if(t.a==1){t._w=true;}else if(t.a==3){t.x=true;t._w=true;};t.d=true;}if(!t.gc.a)return;if(b){t.gc.c=t.z0('c');t.gc.i=t.z0('e');t.gc.j=t.z0('f');t.iFS=false;}else {var s='v=1';t.c2('__g_u','1',new Date(t.gt()+1000));t.iFS=true;if(t.b0('__g_u')&&g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){s='v=0';var r=g.split('_');t.b2(parseInt(r[0]),parseInt(r[1])+1);if(r[4]&&r[4]!='0'&&t.gt()<parseInt(r[5])&&r[2]&&r[2]!='0'){t.b1(parseFloat(r[2]),parseFloat(r[3]),parseFloat(r[4]),parseInt(r[5]));if(r[6])t.n0(parseInt(r[6]));};};t.h6=true;};t.gc.d=t.z0('d');if(!t.gc.d||(t.gc.d&&t.gc.d==0)){t.z1('d',1);t.gc.d=1;}t.b=t.z0('g');t.j8();if(i &&!t.isFirstVi&&t._w&&!t._a){t.h7();t._a=true;};},h7:function(){var t=gomez,u=t.tloc?t.tloc:('https:'==location.protocol?'https:':'http:')+'//'+t.acctId+'.t.axf8.net/js/gtag7.0.js';t.h5(u);},n0:function(h){var t=gomez,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');t.n1=h;t.z1('h',h);if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_');g=''+r[0]+'_'+r[1]+'_'+r[2]+'_'+r[3]+'_'+r[4]+'_'+r[5]+'_'+h;t.c2('__g_u',g,f);};},b1:function(v,s,q,f){var t=this;if(s ==undefined)s =1;t.d=true;t.z1('e',v);t.z1('f',s);t.gc.i=v;t.gc.j=s;t.h4(v,s,q,f);},b3:function(i, v, s){var t =this;t.d=true;if(s ==undefined)s =1;if(i==0||i==1){t.a=i;if(i==1){t._w=true;if(!t._a){t.h7();t._a=true;};}else{t.d=false;}t.z1('a',t.a);if(v !=undefined){t.b1(v, s);}}else if(i==2){t.h4(v, s);}},h4:function(o,p,q,d){var t=this,f=new Date(t.gt()+946080000000),g=t.b0('__g_u');if(g&&g!='1'&&g.indexOf('NaN')==-1&&g.indexOf('undefined')==-1){var r=g.split('_'),s;if(d)s=d;else if(q&&q>=0)s=new Date(t.gt()+parseInt(q*86400000)).getTime();else{q=5;s=new Date(t.gt()+432000000).getTime();};g=''+r[0]+'_'+r[1]+'_'+o+'_'+p+'_'+q+'_'+s;t.c2('__g_u',g,f);};},b6:function(){var t=gomez;t.p=t.b5();},f8:function(){var t=this;if(t.pollId1)clearInterval(t.pollId1);},b7:function(){var t =gomez;t.f8();t.q=t.b5();},c7:function(u, s){var t=this;t.m=u;t.s=s;},c8:function(){var t=gomez,n=t.b5(),l=document.images.length;if(l>t._h){for(var i=t._h;i<l;++i){var u=document.images[i].src;if(u){var r =new gomez.E(t.f);t.grm[u]=r;t.f[u]=new t.c7(u, n);t.e2(document.images[i],'load',t.c4,false);t.e2(document.images[i],'error',t.c5,false);t.e2(document.images[i],'abort',t.c6,false);}}}t._h=l;},c4:function(e){var t=gomez,i=t.g6(e);if(i)i.e=t.b5();},c5:function(e){var t=gomez,i=t.g6(e);if(i){i.e=t.b5();i.b=1;}},c6:function(e){var t=gomez,i=t.g6(e);if(i)i.a=t.b5();},g6:function(e){var t=gomez,e=window.event?window.event:e,a=t.d8(e),i;if(t.grm[a.src||a.href]&&t.grm[a.src||a.href].s)i=t.grm[a.src||a.href].s[a.src||a.href];return i;},d2:function(){var t=gomez;var e=window.event?window.event:e,s=t.d8(e);if(s.readyState=='loaded'||s.readyState=='complete'){var o=t.j[s.src];if(o)o.e=t.b5();}},nameEvent:function(n){var t=this;t.f6(n,1);},startInterval:function(n){var t=this;t.f6(n,2,1);},endInterval:function(n){var t=this;t.f6(n,2,2);},f6:function(n,p,b){if(n&&n.length>20)n=n.substring(0,20);var t=this,f=t.u;if(p==3){f[f.length]={'n':'a','a':n,'b':b,'e':p,'f':undefined};}else{f[f.length]={'n':'a','a':n,'b':t.b5(),'e':p,'f':b};}},customValue:function(n,v){var t=this;if(typeof(v)!='number'){return;}t.f6(n,3,v);},d8:function(e){if(gomez.gIE)return e.srcElement||{};else return e.currentTarget||e.target||{};},e2:function(e,p,f,c){var n='on'+p;if(e.addEventListener)e.addEventListener(p,f,c);else if(e.attachEvent)e.attachEvent(n, f);else{var x=e[n];if(typeof e[n]!='function')e[n]=f;else e[n]=function(a){x(a);f(a);};}},i1:function(){var d =window.document, done=false,i2=function (){if(!done){done=true;gomez.b6();gomez.a9();}};(function (){try{d.documentElement.doScroll('left');}catch(e){setTimeout(arguments.callee, 50);return;}i2();})();d.onreadystatechange=function(){if(d.readyState=='complete'){d.onreadystatechange=null;i2();}};},j7:function(s, toUrl){try{var t=this,z=gomez;if(!s)return;s+="{n:u|e:1}";var p ='';if(t.isFirstVi){p='&a='+z.acctId+'&r=1&s=1';}else if(t.iFS){p='&a='+z.acctId+'&r='+t.j6();}if(window.encodeURIComponent)s=encodeURIComponent(s);else s=escape(s);z.h5(z.e(toUrl)+'info='+s+p);}catch(err){}return;},e:function(u){if(!/\?|&/.test(u))if(!/\?/.test(u))u +='?';else u +='&';return u;},j8:function(){var t=gomez, p=new gomez.P();var s=p.g0();t.j7(s, t.s.pvHttpUrl);},g7:function(){try{var t=gomez;t.gc.a=t.acctId;t.gIE=!-[1,];if(t.gIE){t.i1();window.attachEvent('onload', t.b7);}else if(window.addEventListener){window.addEventListener('DOMContentLoaded', t.b6, false);window.addEventListener('load', t.b7, false);}else if(t.gSfr){var m=setInterval(function(){if(/loaded|complete/.test(document.readyState)){clearInterval(m);delete m;t.b6();t.b7();}}, 10);}else return;if(!t.jbo){t.c8();t.pollId1=setInterval(t.c8, 10);}if(!t.gIE)t.a9();}catch(e){return;}}});gomez.h2();gomez.g7();}}catch(e){};</script>
+ 
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Scrappy Cougs, Lacy nearly derail Zags | WSU Cougars - The News Tribune</title> 
+<meta name="description" content="PULLMAN - PULLMAN &amp;ndash; Washington State coach Ken Bone is one of many college basketball observers who maintain that the current edition of the Gonzaga Bulldogs has the potential to be the best team in school history." />
+<meta name="author" content="HOWIE STALWICK"/> 
+    
+<meta name="keywords" content="WSU Cougars Scrappy Cougs, Lacy nearly derail Zags" />
+
+<meta property="fb:app_id" content="178810216508"/>
+<meta property="og:site_name" content="Tacoma News Tribune"/>
+
+<meta property="og:title" content="Scrappy Cougs, Lacy nearly derail Zags"/>
+<meta property="og:description" content="PULLMAN &amp;ndash; Washington State coach Ken Bone is one of many college basketball observers who maintain that the current edition of the Gonzaga Bulldogs has the potential to be the best team in school history."/>
+<meta property="og:url" content="http://www.thenewstribune.com//2012/12/06/2392531/scrappy-cougs-lacy-nearly-derail.html?storylink=fb" />
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://media.thenewstribune.com/smedia/2012/12/06/00/13/Kts0v.Em.5.jpeg" />    
+<meta name="verify-v1" content="tzjPfoByEn4ywuBUR6dXk1iJ58L+bes8PN1P4uURlao=" />
+<meta name="google-site-verification" content="qE3iIneJBx-2yWeRxnwULFzVATpmTm5DCnNt_ZSZ3-U" />
+
+
+
+        <link rel="canonical" href="http://www.thenewstribune.com/2012/12/06/2392531/scrappy-cougs-lacy-nearly-derail.html" />
+              
+
+<link rel="shortcut icon" href="http://media.thenewstribune.com/images/favicon.ico" /><link rel="apple-touch-icon" href="http://media.thenewstribune.com/images/apple-touch-icon.png" />
+<link rel="stylesheet" href="http://media.thenewstribune.com/static/styles/thickbox.css" />
+<link rel="stylesheet" href="http://media.thenewstribune.com/styles/sitestyles-min.css" />
+<link rel="stylesheet" href="http://media.thenewstribune.com/styles/tnt-style-min.css" />
+
+<!--[if gte IE 6]><link rel="stylesheet" href="http://media.thenewstribune.com/styles/ie_Hacks.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="http://media.thenewstribune.com/styles/ie7_Hacks.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="http://media.thenewstribune.com/styles/ie6_Hacks.css" /><![endif]-->
+
+
+
+<!-- no css specified for this template -->
+
+
+<!-- support/ads/dart_init.ett :start -->
+<script>
+  var mi__dart_ord = Math.floor(Math.random()*1000000000000000);
+</script>
+<!-- support/ads/dart_init.ett :end -->
+
+
+ 
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script src="http://media.thenewstribune.com/scripts/head.load.min.js"></script>
+<script src="http://media.thenewstribune.com/scripts/tnt-universal-min.js"></script>
+<script src="http://media.thenewstribune.com/static/scripts/mi/mi_script_scheduler.js"></script>
+<script src="http://media.thenewstribune.com/static/scripts/mi/insite/insite_cookie_manager.js"></script>
+
+<script src="http://media.thenewstribune.com/static/scripts/Date.js"></script>
+
+
+
+<script type="text/javascript">
+<!--
+    mi_is_live = 1;
+
+    miyahoo = {};
+    miyahoo.tax = "Sports|College|";
+    miyahoo.tax_id = 20361001;
+    miyahoo.content_type = "fn_news";
+    miyahoo.cstm_sctn_list = "story";
+    miyahoo.cstm_content_cat = "WSU Cougars";
+
+    miyahoo.slots = {};
+
+    miyahoo.slots.slot_1 = {};
+    miyahoo.slots.slot_1.ad_size_list = ["100x25"];
+    miyahoo.slots.slot_1.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_1.ad_marker = "";
+    miyahoo.slots.slot_2 = {};
+    miyahoo.slots.slot_2.ad_size_list = ["600x255"];
+    miyahoo.slots.slot_2.ad_delivery_mode = "ipbtf";
+    miyahoo.slots.slot_2.ad_marker = "";
+    miyahoo.slots.slot_3 = {};
+    miyahoo.slots.slot_3.ad_size_list = ["285x70"];
+    miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_3.ad_marker = "";
+
+
+-->
+</script>
+<script type="text/javascript" src="http://media.thenewstribune.com/misites/defaults.js"></script>
+<script type="text/javascript" src="http://media.thenewstribune.com/misites/tnt/thenewstribune.js"></script>
+<script type="text/javascript" src="http://media.thenewstribune.com/miads/yahoo.js"></script>
+<script type="text/javascript">
+<!--
+ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){ // 'live' or 'preview' is set during page build
+        document.write('<'+'script type="text/javascript" src="http://e.yieldmanager.net/script.js"></script'+'>');
+    }
+-->
+</script>
+
+
+
+<script src="http://media.thenewstribune.com/scripts/tnt-story-min.js"></script>
+<script type="text/javascript">
+var rscriptloaded = 0;
+function displayEmailForm() {
+  if(rscriptloaded) {
+    mi_story_tool.storyTool("email", "/2012/12/06/v-email_form/2392531/scrappy-cougs-lacy-nearly-derail.html");
+  } else {
+    $.getScript("http://api.recaptcha.net/js/recaptcha_ajax.js", function() {
+      mi_story_tool.storyTool("email", "/2012/12/06/v-email_form/2392531/scrappy-cougs-lacy-nearly-derail.html");
+      rscriptloaded = 1;
+    });
+  }
+}
+</script>
+    
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+    
+
+
+<!-- is_commenting_enabled:  -->
+<!-- story_commenting_enabled: 1 -->
+<!-- asset_commenting_enabled: 0 -->
+
+
+        
+            
+        
+
+
+<script>
+// set a javascript variable to be used in an external script for overrides
+var miCommentingEnabled = 1;
+</script>
+
+ 
+
+<script>
+  	/**
+	 * miAppControler contains master settings that can be used to quickly disable
+	 * javascript applications. For each supported app there is an attribute containing
+	 * an integer value. The meaning of the value is application specific, except 
+	 * for 0 and 1.
+	 * 0 = disable the entire app
+	 * 1 = enable the entire app
+	 * Any additional values should be noted in this file.
+	 *
+	 * The controller is instantiated in the MI object and should be interfaced with
+	 * there. 
+	 */
+
+	var miAppControler = function() {};
+
+	/* Commenting
+	 2 = disable comment submission & display
+	 3 = enable comment submission & display only
+	 4 = disable popular threads widget
+	*/
+	miAppControler.prototype.commenting = 1;
+
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 0;
+  miAppControler.prototype.dealsaver = 1;
+
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
+	*/  
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
+
+  var pageInfo = {'version':1.0};
+pageInfo.section = {};
+pageInfo.section.id = 993;
+pageInfo.asset = {};
+pageInfo.asset.id = 2392531;
+pageInfo.asset.title = "Scrappy Cougs, Lacy nearly derail Zags";
+
+</script>
+
+<script src="http://media.thenewstribune.com/static/scripts/mi/insite/insite.js"></script>
+
+<script src="http://media.thenewstribune.com/static/scripts/siteresources-min.js"></script>
+
+<script>
+  var disqus_developer = 0;
+  mi.search = new mi.Search();
+</script>
+
+ 
+<!-- RSS -->
+<link rel="alternate" title="RSS" type="application/rss+xml" href="/993/index.rss">
+<!-- end RSS -->
+
+<!--[if lte IE 7]>
+<link href="http://media.thenewstribune.com/static/includes/browserupgrade/browserupgrade.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://media.thenewstribune.com/static/includes/browserupgrade/jquery.cookie.js"></script>
+
+<![endif]-->
+ 
+ <!-- start: support/hnews/apregistry_init.ett  -->
+
+
+
+<!-- end: support/hnews/apregistry_init.ett  -->
+ 
+
+
+
+</head>
+
+
+<body class="story_detail">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=178810216508";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--[if lte IE 7]>
+
+
+<div id="miub_container">    
+    <div id="miub_close">
+        <a href="#">
+            <img src="http://media.thenewstribune.com/static/includes/browserupgrade/cornerx.jpg" alt="Close this notice" />
+        </a>
+    </div>
+    <div id="miub_info">
+        <div id="miub_alert">
+            <img src="http://media.thenewstribune.com/static/includes/browserupgrade/warning.jpg" alt="Warning!" />
+        </div>
+        <div id="miub_info_box">        
+            <h2>You are using an outdated browser</h2>
+            <p>For a better experience using this site, please upgrade to a modern web browser.</p>
+        </div>
+        <div class="miub_alt_browser">
+            
+            <a href="http://www.firefox.com" target="_blank">
+            
+                <img src="http://media.thenewstribune.com/static/includes/browserupgrade/firefox.jpg" alt="Get Firefox 3.5"/>
+            </a>
+        </div>
+        <div class="miub_alt_browser">
+            
+            <a href="http://www.browserforthebetter.com/download.html" target="_blank">
+            
+                <img src="http://media.thenewstribune.com/static/includes/browserupgrade/ie8.jpg" alt="Get Internet Explorer 8"/>
+            </a>
+        </div>
+        <div class="miub_alt_browser">
+            
+            <a href="http://www.apple.com/safari/download/" target="_blank">
+            
+            <img src="http://media.thenewstribune.com/static/includes/browserupgrade/safari.jpg" alt="Get Safari 4"/>
+            </a>
+        </div>
+        <div class="miub_alt_browser">
+            
+            <a href="http://www.google.com/chrome" target="_blank">
+            
+            <img src="http://media.thenewstribune.com/static/includes/browserupgrade/chrome.jpg" alt="Get Google Chrome"/>
+            </a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+
+  $(document).ready(function() {
+      $("#miub_close a").click(function() {
+          $(this).parent().parent().hide();
+      });
+      if(!$.cookie("miub_timer")) { // no cookie, show the warning
+          $("#miub_container").show();
+
+          $.cookie("miub_timer","You need to upgrade your browser", { expires: 14});
+
+      }
+  });
+</script>
+<![endif]-->
+
+
+<div id="pagecontainer">
+          
+ 
+ 
+<center><div class="advertisement ts_shared_ads_local_billbo_sections dart3" id="dart_960x30_ats_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=960x30;tile=1;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=960x30;tile=1;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=960x30;tile=1;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement ts_shared_ads_local_billbo_sections -->
+
+ 
+     <!-- MEMBER CENTER -->
+<div id="membercenter" class="clearfix">
+<div id="registereduserlinks">
+   
+<div id="userTemplate" class="currentUser">
+  Welcome <a id="loggedInUser" class="pluckUser" href="/reg-bin/tint.cgi?mode=edit"></a> | 
+  <a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Logout</a> | 
+  <a href="/reg-bin/tint.cgi?mode=edit">My Account</a>
+</div> <!-- #userTemplate -->
+
+
+<div id="anonTemplate" class="currentUser">
+  Welcome <span class="pluckUser">Guest</span> | 
+  <a id="login_link" href="/reg-bin/int.cgi?mode=login">Log In</a> |
+  <a href="/reg-bin/int.cgi?mode=register">Register</a>
+
+  <div class="loginbox grad_ltgray_to_white clearfix">
+    <div class="loginpointer"></div>
+    <div class="loginclose">x</div>
+
+    <form method="post" action="http://www.thenewstribune.com/reg-bin/int.cgi" name="login">
+      <input type="hidden" value="login_done" name="mode">
+      <input type="hidden" value="http://www.thenewstribune.com/" name="rurl">
+      <input type="hidden" value="/login/" name="error_url">
+
+      <label for="user_name">Member ID</label>
+      <input type="text" value="" name="user_name" />
+
+      <label for="password">Password</label>
+      <input type="password" value="" name="password" />
+
+      <div class="loginremember">
+        <label for="remember">Remember me</label>
+        <input type="checkbox" name="remember" value="1" checked />
+      </div>
+
+      <input class="loginsubmit grad_tntblue" type="submit" value="Login" />
+    </form>    
+  </div> <!-- #loginbox -->
+
+</div>
+
+ </div> <!-- #registereduserlinks -->
+
+<div id="memberlinks">
+
+<ul class="dropDown">
+
+  <!-- READER SERVICES DROPDOWN -->
+  <li class="dropDownItem ie_membernavfix msDropDown first">
+  <a class="menuLink" href="/aboutus">Services <img src="http://media.thenewstribune.com/static/images/blank.gif" width="15" height="8" alt="" class="down_arrow_blue sprite_icon" /></a>
+  <div class="subMenu1Column">
+    <div class="subMenuContent">
+      <div class="subMenuCol">
+        <ul>
+          <li>
+            <ul>
+              <li><a href="http://www.thenewstribune.com/placead/">Place a classified ad</a></li>
+              <li><a href="https://secure.thenewstribune.com/obits/placeobit/">Place an obituary</a></li>
+              <li><a href="http://www.thenewstribune.com/reg-bin/tint.cgi?mode=edit">Manage your online account</a></li>
+              <li><a href="https://iservices.thenewstribune.com/cgi/cgiip.wsc/custservice/web/login.html">Manage your subscription</a></li>
+              <li><a href="http://www.thenewstribune.com/archives/">Archives</a></li>
+              <li><a href="http://thenewstribune.mycapture.com/">Order photo reprints</a></li>
+              <li><a href="http://www.thenewstribune.com/faq">FAQs</a></li>
+              <li><a href="http://www.thenewstribune.com/aboutus/contact">Contact us</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  </li>
+  <!-- end READER SERVICES -->
+
+
+  <!-- SUBSCRIBE DROPDOWN -->
+  <li class="dropDownItem ie_membernavfix msDropDown">
+  <a class="menuLink" href="http://wwwb.thenewstribune.com/adv/microsite/Circulation/TheNewsTribune/TNTsubscribeSplash.html">Subscribe <img src="http://media.thenewstribune.com/static/images/blank.gif" width="15" height="8" alt="" class="down_arrow_blue sprite_icon" /></a>
+  <div class="subMenu1Column">
+    <div class="subMenuContent">
+      <div class="subMenuCol">
+        <ul>
+          <li>
+            <ul>
+              <li><a href="http://wwwb.thenewstribune.com/adv/microsite/Circulation/TheNewsTribune/TNTsubscribeSplash.html">Subscribe to the paper</a></li>
+              <li><a href="https://iservices.thenewstribune.com/cgi/cgiip.wsc/custservice/web/login.html">Manage your subscription</a></li>
+              <li><a href="http://digital.olivesoftware.com/Olive/ODE/TheNewsTribune/?">eEdition</a></li>
+              <li><a href="http://www.thenewstribune.com/signup">Email Newsletters and Alerts</a></li>
+              <li><a href="http://www.thenewstribune.com/aboutus/mobile/#text">Mobile Text Alerts</a></li>
+              <li><a href="http://m.thenewstribune.com">Mobile Site</a></li>
+              <li><a href="http://www.thenewstribune.com/tablet/" onClick="localStorage.removeItem('tnt_no_tablet');">Tablet Site</a></li>
+              <li><a href="http://www.thenewstribune.com/aboutus/rss">RSS Feeds</a></li>
+              <li><a href="http://www.thenewstribune.com/twitter">Twitter</a></li>
+              <li><a href="http://www.thenewstribune.com/aboutus/contact">Contact us</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  </li>
+  <!-- end SUBSCRIBE DROPDOWN -->
+
+
+  <!-- PARTNERS DROPDOWN -->
+  <li class="dropDownItem ie_membernavfix msDropDown">
+  <a class="menuLink" href="/partners">Partners <img src="http://media.thenewstribune.com/static/images/blank.gif" width="15" height="8" alt="" class="down_arrow_blue sprite_icon" /></a>
+  <div class="subMenu1Column lastmenu">
+    <div class="subMenuContent">
+      <div class="subMenuCol">
+        <ul>
+          <li>
+            <ul>
+              <li><a href="http://www.theolympian.com" target="_blank">TheOlympian.com</a></li>
+              <li><a href="http://www.gatewaygigharbor.com" target="_blank">GatewayGigHarbor.com</a></li>
+              <li><a href="http://www.puyallupherald.com" target="_blank">PuyallupHerald.com</a></li>
+ <li><a href="http://www.nwguardian.com" target="_blank">NWGuardian.com</a></li>
+ <li><a href="http://www.kirotv.com" target="_blank">KIRO 7</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  </li>
+  <!-- end PARTNERS DROPDOWN -->
+
+</ul>
+
+<a href="http://wwwb.thenewstribune.com/adv/microsite/eEdition/" target="_blank" id="nav_eedition"><img src="http://media.thenewstribune.com/static/images/blank.gif" width="56" height="25" alt="" class="eedition_icon sprite_icon" /></a>
+
+</div> <!-- #memberlinks -->
+</div>
+<!-- end MEMBER CENTER -->  
+     <!-- HEADER ADS -->
+<div id="header_ads" class="clearfix">
+
+  <div id="sm_weather" class="clearfix">
+
+    
+  <!--START HomePageFct.cst-->
+  <img src="http://www.thenewstribune.com/images/weather/sm_radar.gif" width="75" height="75" alt="" class="radar_map" />
+  <div class="weathericon">
+  <a href="http://weather.thenewstribune.com/US/WA/98401.html"><img src="http://media.thenewstribune.com/static/images/blank.gif" alt="Mostly Cloudy" width="75" height="52" id="weather-mostlycloudy"></a>
+  </div>
+  <div class="weather_container clearfix">
+  <div class="currenttemp"><a href="http://weather.thenewstribune.com/US/WA/98401.html">43&deg;</a></div>
+  </div> <!-- .weather_container -->
+<!--END HomePageFct.cst-->
+
+
+    <a href="http://wwwb.thenewstribune.com/adv/microsite/LesSchwab/index.html" id="lesschwab">
+      <img src="http://www.thenewstribune.com/static/images/weathersponsor/LesSchwabLogoTireBig.png" width="90" height="69" alt="" />
+    </a>
+
+  </div> <!-- #sm_weather -->
+
+  <div id="ntl2_header">
+     
+ 
+ 
+<center><div class="advertisement ts_pubsys_production_shared_header_ads dart3" id="dart_728x90_ats_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=728x90;tile=2;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=728x90;tile=2;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=728x90;tile=2;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement ts_pubsys_production_shared_header_ads -->
+
+ 
+
+  </div>
+</div> <!-- #header_ads -->      
+<!-- end HEADER ADS -->         <!-- Component: Tacoma : pubsys/production/shared/headers/masthead.comp -->
+
+
+<div id="masthead_inside" class="grad_tntblue">
+
+<div id="logo">
+<a href="http://www.thenewstribune.com"><img src="http://media.thenewstribune.com/images/shared/logo_transparent_inside.gif" height="62" width="324" border="0" alt="The News Tribune / Tacoma, WA"></a>
+</div>
+
+<div id="section_name"><a href="/993/index.html">WSU Cougars</a></div>
+
+</div>
+
+<div id="searchbar" class="clearfix grad_white_to_ltgray">
+<div id="dateline">
+
+<span id="tntCurrentDate"></span>
+<script>
+    var mastheadCurrentDate = new Date();
+    $( 'span#tntCurrentDate' ).html( mastheadCurrentDate.toFormattedString( '%A, %B %e, %Y' ) + ' - Tacoma, WA' );
+</script>
+</div>
+<div id="yahoosearch">    <!-- START OF YAHOO SEARCH CODE -->
+      <form action="/search_results" method="get" name="miSearchForm" id="search_form">
+
+        <div id="search_controller" class="clearfix">           
+          
+          <div class="search_left">
+            <input name="aff" type="radio" value="1100" id="search_tnt" class="radio" checked="checked" />
+            <label for="search_tnt" class="search_options" id="search_tnt_label">thenewstribune.com</label>
+            <input name="aff" type="radio" value="archives" id="search_archives" class="radio" />
+            <label for="search_archives" class="search_options" id="search_archives_label">archives</label>
+            <input name="aff" type="radio" value="web_search" id="search_web" class="radio" />
+            <label for="search_web" class="search_options" id="search_web_label">web</label>
+          </div> <!-- .search_left -->
+          
+          <img src="http://media.thenewstribune.com/static/images/blank.gif" width="23" height="17" alt="close" id="search_close" class="sprite_icon" />
+          
+          <p id="search_popular">
+            <span>Top Searches: </span>
+            <a href="http://www.thenewstribune.com/horoscope/">Horoscopes</a> | 
+            <a href="http://www.thenewstribune.com/soundinfo/#government">Salaries</a> | 
+            <a href="http://www.thenewstribune.com/washam/">Washam</a> | 
+            <a href="http://www.thenewstribune.com/archives/">Archives</a>
+          </p> <!-- #search_popular -->
+          
+        </div> <!-- #search_controller -->
+      
+<span id="searchInputContainer">
+        <input type="text" size="20" name="q" id="search_field" class="sprite_icon" />
+</span>
+        
+        <input type="image" id="search_submit" class="sprite_icon" src="http://media.thenewstribune.com/static/images/blank.gif" value="Search" />
+        
+        <span id="mi_yahoo_preamble">Web Search powered by </span><span class="yahoo">YAHOO!</span> <span id="mi_yahoo_post">SEARCH</span>
+      </form>
+
+      <script>
+        head.ready(function() {
+          mi.search.searchParamConfig();
+          mi.search.checkOption();
+          document.miSearchForm.onsubmit = function () {
+            return mi.search.submitForm();
+          }
+        });
+      </script>
+      
+    <!-- END OF YAHOO SEARCH CODE --></div>
+</div>
+
+<!-- Component: Tacoma : pubsys/production/shared/headers/masthead.comp -->     <!-- BEGIN TNT NAVIGATION -->
+<div id="navigation" class="clearfix">
+
+  <ul id="newsNav" class="dropDown clearfix">
+ 
+    <li class="dropDownItemHome">
+      <a href="http://www.thenewstribune.com"><img width="12" height="14" border="0" src="http://media.thenewstribune.com/images/header/home_icon.png" class="sectionMenuImg1"/></a>
+    </li>
+
+    <!-- NEWS DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/news/#navlink=navbar">News</a>
+      <div class="subMenu">
+        <div class="subMenuContent">
+          <div class="subMenu1Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>SECTIONS</li>
+                  <li><a href="http://www.thenewstribune.com/local/#navlink=navdrop">South Sound</a></li>
+                  <li><a href="http://www.thenewstribune.com/soundinfo/#navlink=navdrop">SoundInfo</a></li>
+                  <li><a href="http://www.thenewstribune.com/news/crime/#navlink=navdrop">Crime &amp; Safety</a></li>
+                  <li><a href="http://www.thenewstribune.com/local/#navlink=navdrop">Local</a></li>
+                  <li><a href="http://www.thenewstribune.com/nationandworld/#navlink=navdrop">Nation &amp; World</a></li>
+                  <li><a href="http://www.thenewstribune.com/news/northwest/#navlink=navdrop">Northwest</a></li>
+                  <!-- <li><a href="http://www.thenewstribune.com/news/environment/#navlink=navdrop">Environment</a></li> -->
+                  <li><a href="http://www.thenewstribune.com/elections/#navlink=navdrop">2012 Elections</a></li>
+                  <li><a href="http://www.thenewstribune.com/gasprices/#navlink=navdrop">Gas Prices</a></li>
+                  <li><a href="http://www.thenewstribune.com/lookingback/#navlink=navdrop">Looking Back</a></li>
+                  <li><a href="http://www.thenewstribune.com/news/government/#navlink=navdrop">Government</a></li>
+                  <li><a href="http://www.thenewstribune.com/news/military/#navlink=navdrop">Military</a></li>
+                  <li><a href="http://www.thenewstribune.com/news/education/#navlink=navdrop">Education</a></li>
+                  <!-- <li><a href="http://www.thenewstribune.com/health/#navlink=navdrop">Health</a></li>
+                  <li><a href="http://www.thenewstribune.com/projects/#navlink=navdrop">Projects</a></li> -->
+                  <li><a href="http://www.thenewstribune.com/traffic/#navlink=navdrop">Traffic</a></li>
+                  <li><a href="http://www.legacy.com/tribnet/#navlink=navdrop">Obituaries</a></li>
+                  <li><a href="http://www.thenewstribune.com/vitals/#navlink=navdrop">Births, Deaths, Marriages</a></li>
+                  <li><a href="http://www.thenewstribune.com/Tacoma/24hour/weird/#navlink=navdrop">Weird News</a></li>
+                  <li><a href="http://www.thenewstribune.com/weather/#navlink=navdrop">Weather</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="subMenu2Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>COLUMNISTS</li>
+                  <li><a href="http://www.thenewstribune.com/callaghan/#navlink=navdrop">Peter Callaghan</a></li>
+<li><a href="http://www.thenewstribune.com/larue/#navlink=navdrop">Larry LaRue</a></li>
+                  <li><a href="http://www.thenewstribune.com/peterson/#navlink=navdrop">Karen Peterson</a></li>
+                 <!-- <li><a href="http://www.thenewstribune.com/zeeck/#navlink=navdrop">David Zeeck</a></li> -->
+                  <li><a href="http://www.thenewstribune.com/nose/#navlink=navdrop">The Nose</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul><li>&nbsp;</li></ul>
+            <ul>
+              <li>
+                <ul>
+                  <li>BLOGS</li>
+                  <li><a href="http://blog.thenewstribune.com/crime/#navlink=navdrop">Lights &amp; Sirens</a></li>
+                  <li><a href="http://blog.thenewstribune.com/street/#navlink=navdrop">Local: Word on the Street</a></li>
+                  <li><a href="http://blog.thenewstribune.com/politics/#navlink=navdrop">Political Buzz</a></li>
+                  <li><a href="http://blog.thenewstribune.com/military/#navlink=navdrop">Military: FOB Tacoma</a></li>
+                  <li><a href="http://blog.thenewstribune.com/traffic/#navlink=navdrop">Traffic: Slowdown Lowdown</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul><li>&nbsp;</li></ul>
+            <ul>
+              <li>
+                <ul>
+                  <li>MULTIMEDIA</li>
+                  <li><a href="http://blog.thenewstribune.com/photo/#navlink=navdrop">News Tribune Photo</a></li>
+                  <li><a href="http://www.thenewstribune.com/reprints/#navlink=navdrop">Photo Reprints</a></li>
+                  <li><a href="http://www.thenewstribune.com/videos/#navlink=navdrop">Videos</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end NEWS DROPDOWN -->
+
+
+
+    <!-- SPORTS DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/sports/#navlink=navbar">Sports</a>
+      <div class="subMenu">
+        <div class="subMenuContent">
+          <div class="subMenu1Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>SECTIONS</li>
+                  <li><a href="http://www.thenewstribune.com/sports/stats/#navlink=navdrop">Scores and stats</a></li>
+                  <li><a href="http://www.thenewstribune.com/seahawks/#navlink=navdrop">Seahawks/NFL</a></li>
+                  <li><a href="http://www.thenewstribune.com/mariners/#navlink=navdrop">Mariners/MLB</a></li>
+                  <li><a href="http://www.thenewstribune.com/rainiers/#navlink=navdrop">Rainiers/PCL</a></li>
+                  <li><a href="http://www.thenewstribune.com/colleges/#navlink=navdrop">College sports</a></li>
+                  <li><a href="http://www.thenewstribune.com/huskies/#navlink=navdrop">UW Huskies</a></li>
+                  <li><a href="http://www.thenewstribune.com/cougars/#navlink=navdrop">WSU Cougars</a></li>
+                  <li><a href="http://www.thenewstribune.com/sounders/#navlink=navdrop">Sounders/MLS</a></li>
+                  <li><a href="http://www.thenewstribune.com/highschools/#navlink=navdrop">High Schools</a></li>
+                  <li><a href="http://preps.thenewstribune.com/#navlink=navdrop">Preps Stats</a></li>
+                  <li><a href="http://www.thenewstribune.com/sports/golf/#navlink=navdrop">Golf</a></li>
+                  <li><a href="http://www.thenewstribune.com/nba/#navlink=navdrop">NBA</a></li>
+                  <li><a href="http://www.thenewstribune.com/sports/storm/#navlink=navdrop">Storm/WNBA</a></li>
+                  <li><a href="http://www.thenewstribune.com/motorsports/#navlink=navdrop">NASCAR/Motorsports</a></li>
+                  <li><a href="http://www.thenewstribune.com/ski/#navlink=navdrop">Skiing</a></li>
+                  <li><a href="http://www.thenewstribune.com/olympics/#navlink=navdrop">Olympics</a></li>
+                  <li><a href="http://www.thenewstribune.com/sports/other/#navlink=navdrop">Other Sports</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="subMenu2Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>COLUMNISTS</li>
+                  <li><a href="http://www.thenewstribune.com/sports/columnists/mcgrath/#navlink=navdrop">John McGrath</a></li>
+                  <li><a href="http://www.thenewstribune.com/sports/columnists/boling/#navlink=navdrop">Dave Boling</a></li>
+                </ul>
+              </li>
+            </ul>
+            <ul><li>&nbsp;</li></ul>
+            <ul>
+              <li>
+                <ul>
+                  <li>BLOGS</li>
+                  <li><a href="http://blog.thenewstribune.com/seahawks/#navlink=navdrop">Seahawks Insider</a></li>
+                  <li><a href="http://blog.thenewstribune.com/mariners/#navlink=navdrop">Mariners Insider</a></li>
+                  <li><a href="http://blog.thenewstribune.com/uwsports/#navlink=navdrop">Huskies Insider</a></li>
+                  <li><a href="http://blog.thenewstribune.com/preps/#navlink=navdrop">The Preps Blog</a></li>
+                  <li><a href="http://blog.thenewstribune.com/soccer/#navlink=navdrop">Sounders Insider</a></li>
+                  <li><a href="http://blog.thenewstribune.com/golf/#navlink=navdrop">Golf: Green Scene</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end SPORTS DROPDOWN -->
+
+
+
+    <!-- BUSINESS DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/business/#navlink=navbar">Business</a>
+      <div class="subMenu">
+        <div class="subMenuContent">
+          <div class="subMenu1Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>SECTIONS</li>
+                  <li><a href="http://www.thenewstribune.com/business/aerospace/#navlink=navdrop">Aerospace</a></li>
+                  <!-- <li><a href="http://www.thenewstribune.com/business/consumer/#navlink=navdrop">Consumer news</a></li> -->
+                  <li><a href="http://studio-5.financialcontent.com/mi?Account=newstribune&amp;Page=MarketSummary/#navlink=navdrop">Markets</a></li>
+                  <li><a href="http://wwwb.thenewstribune.com/business/new_business/#navlink=navdrop">New Businesses</a></li>
+                  <li><a href="http://wwwb.thenewstribune.com/business/people_business/#navlink=navdrop">People in Business</a></li>
+                  <li><a href="http://www.thenewstribune.com/business/portoftacoma/#navlink=navdrop">Port of Tacoma</a></li>
+                  <li><a href="http://www.thenewstribune.com/business/realestate/#navlink=navdrop">Real estate</a></li>
+                  <li><a href="http://www.thenewstribune.com/905/#navlink=navdrop">Technology</a></li>
+                  <li><a href="http://online.wsj.com/public/page/0,,sundayjournal,00.html?partner=thenewstribune">Wall Street Journal Sunday</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="subMenu2Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>BLOGS</li>
+                  <li><a href="http://blog.thenewstribune.com/business/#navlink=navdrop">Biz Buzz</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end BUSINESS DROPDOWN -->
+
+
+
+    <!-- OPINION DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/opinion/#navlink=navbar">Opinion</a>
+      <div class="subMenu">
+        <div class="subMenuContent">
+          <div class="subMenu1Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>SECTIONS</li>
+                  <li><a href="http://www.thenewstribune.com/opinion/columnists/#navlink=navdrop">Columnists</a></li>
+                  <li><a href="http://www.thenewstribune.com/opinion/editorials/#navlink=navdrop">Editorials</a></li>
+                  <li><a href="http://www.thenewstribune.com/aboutus/editorialboard/#navlink=navdrop">Editorial board</a></li>
+                  <li><a href="http://www.thenewstribune.com/static/photo/editorialcartoongallery/cartoon.html#navlink=navdrop">Editorial cartoons</a></li>
+                  <li><a href="http://www.thenewstribune.com/opinion/endorsements/#navlink=navdrop">Endorsements</a></li>
+                  <li><a href="http://www.thenewstribune.com/opinion/regionalvoices/#navlink=navdrop">Regional voices</a></li>
+                  <li><a href="http://www.thenewstribune.com/opinion/othervoices/#navlink=navdrop">Other voices</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="subMenu2Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>BLOGS</li>
+                  <li><a href="http://blog.thenewstribune.com/opinion/#navlink=navdrop">Inside Opinion</a></li>
+                  <li><a href="http://blog.thenewstribune.com/letters/#navlink=navdrop">Letters to the Editor</a></li>
+                  <li><a href="http://blog.thenewstribune.com/bluebyline/#navlink=navdrop">Blue Byline</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end OPINION DROPDOWN -->
+
+
+
+        <!-- LIFESTYLES DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/soundlife/#navlink=navbar">Soundlife</a>
+      <div class="subMenu">
+        <div class="subMenuContent">
+          <div class="subMenu1Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>SECTIONS</li>
+                  <li><a href="http://www.thenewstribune.com/adventure/#navlink=navdrop">Adventure</a></li>
+                  <li><a href="http://wwwb.thenewstribune.com/gmaps/world/#navlink=navdrop">Around the World</a></li>
+                  <li><a href="http://www.thenewstribune.com/adventure/columnists/#navlink=navdrop">Columnists</a></li>
+                  <li><a href="http://www.thenewstribune.com/soundlife/family/#navlink=navdrop">Family</a></li>
+                  <li><a href="http://www.thenewstribune.com/fishingreport/#navlink=navdrop">Fishing report</a></li>
+                  <li><a href="http://www.thenewstribune.com/fitness/#navlink=navdrop">Fitness</a></li>
+                  <li><a href="http://www.thenewstribune.com/food/#navlink=navdrop">Food</a></li>
+                  <li><a href="http://wwwb.thenewstribune.com/hikes/#navlink=navdrop">NW Hiking Guide</a></li>
+                  <li><a href="http://www.thenewstribune.com/soundlife/home/#navlink=navdrop">Home &amp; garden</a></li>
+                  <li><a href="http://www.thenewstribune.com/horoscopes/#navlink=navdrop">Horoscopes</a></li>
+                  <li><a href="http://www.thenewstribune.com/rainier/#navlink=navdrop">Mount Rainier guide </a></li>
+                  <li><a href="http://www.thenewstribune.com/wine/#navlink=navdrop">Northwest Wine</a></li>
+                  <li><a href="http://www.thenewstribune.com/adventure/outdoors/#navlink=navdrop">Outdoors</a></li>
+                  <!-- <li><a href="http://www.thenewstribune.com/ski/#navlink=navdrop">Skiing</a></li> -->
+                  <li><a href="http://www.thenewstribune.com/soundlife/#navlink=navdrop">Soundlife</a></li>
+                  <li><a href="http://www.thenewstribune.com/travel/#navlink=navdrop">Travel</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="subMenu2Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>BLOGS</li>
+                  <li><a href="http://blog.thenewstribune.com/adventure/#navlink=navdrop">Adventure Guys</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end LIFESTYLES DROPDOWN -->
+
+
+
+    <!-- ENTERTAINMENT DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/ae/#navlink=navbar">ENTERTAINMENT</a>
+      <div class="subMenu">
+        <div class="subMenuContent">
+          <div class="subMenu1Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>SECTIONS</li>
+                  <li><a href="http://calendar.thenewstribune.com/#navlink=navdrop">Go &amp; Do events calendar </a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/artmuseums/#navlink=navdrop">Art/museums </a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/books/#navlink=navdrop">Books</a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/columnists/#navlink=navdrop">Columnists</a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/comics/#navlink=navdrop">Comics</a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/puzzles/#navlink=navdrop">Sudoku, puzzles and games</a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/movies/#navlink=navdrop">Movies</a></li>
+                  <li><a href="http://www.thenewstribune.com/movies/theater/index.html#navlink=navdrop">Movie theaters</a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/music/#navlink=navdrop">Music</a></li>
+                  <li><a href="http://www.thenewstribune.com/ae/restaurants/#navlink=navdrop">Restaurants</a></li>
+                  <!-- <li><a href="http://www.thenewstribune.com/ae/theater/#navlink=navdrop">Stage/theater</a></li> -->
+                  <li><a href="http://www.thenewstribune.com/ae/tv/#navlink=navdrop">Television</a></li>
+                  <li><a href="http://affiliate.zap2it.com/tvlistings/ZCTVHome.do?aid=tnt/#navlink=navdrop">TV listings</a></li>
+                  <li><a href="http://www.thenewstribune.com/movies/front/#navlink=navdrop">Top movies</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div class="subMenu2Col">
+            <ul>
+              <li>
+                <ul>
+                  <li>BLOGS</li>
+                  <li><a href="http://blog.thenewstribune.com/getout/#navlink=navdrop">Get Out</a></li>
+                  <li><a href="http://blog.thenewstribune.com/arts/#navlink=navdrop">GO Arts</a></li>
+                  <li><a href="http://blog.thenewstribune.com/tntdiner/#navlink=navdrop">TNT Diner</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end ENTERTAINMENT DROPDOWN -->
+
+
+
+    <!-- OBITUARIES DROPDOWN -->
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.legacy.com/obituaries/tribnet/#navlink=navbar">Obits</a>
+      <div class="subMenu1Column">
+        <div class="subMenuContent">
+          <div class="subMenuCol">
+            <ul>
+              <li>
+                <ul>
+                  <li><a href="http://www.legacy.com/obituaries/tribnet/obituary-search.aspx?daterange=1&amp;countryid=1&amp;stateid=61&amp;affiliateid=1380/#navlink=navdrop">Today's obituaries</a></li>
+                  <li><a href="http://www.southsoundclassifieds.com/obits/listing.asp?searchtype=current&amp;classtext=01/#navlink=navdrop">Obituary archives</a></li>
+                  <li><a href="http://secure.thenewstribune.com/obits/charities/#navlink=navdrop">Charities</a></li>
+                  <li><a href="http://wwwb.thenewstribune.com/vitals/deaths/#navlink=navdrop">Death certificates</a></li>
+                  <li><a href="http://secure.thenewstribune.com/obits/florists/#navlink=navdrop">Flowers &amp; gifts</a></li>
+                  <li><a href="https://secure.thenewstribune.com/obits/placeobit/#navlink=navdrop">Place an obituary</a></li>
+                  <li><a href="https://secure.thenewstribune.com/obits/placememoriam/#navlink=navdrop">Place an In Memoriam</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end OBITUARIES DROPDOWN -->
+
+  </ul> <!-- #newsNav -->
+
+  <ul id="adServicesNav" class="dropDown clearfix">
+
+    <!-- CLASSIFIEDS DROPDOWN -->
+    <li class="dropDownItem first">
+      <a class="menuLink" href="http://www.thenewstribune.com/classified-ads/#navlink=navbar">Classifieds</a>
+      <div class="subMenu1Column lastmenu">
+        <div class="subMenuContent">
+          <div class="subMenuCol">
+            <ul>
+              <li>
+                <ul>
+                  <li><a href="http://www.thenewstribune.com/placead/#navlink=navdrop">Place an ad</a> </li>
+                  <li><a href="http://www.thenewstribune.com/static/garagesales/#navlink=navdrop" target="_blank">Garage &amp; Estate Sale Locator</a></li>
+                  <li><a href="http://www.legalnotice.org/pl/thenewstribune/#navlink=navdrop">Legal notices </a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- END subMenu -->
+    </li>
+    <!-- end CLASSIFIEDS DROPDOWN -->
+
+
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.thenewstribune.com/jobs/#navlink=navbar">Jobs</a>
+    </li>
+
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.southsoundcars.com/#navlink=navbar">Cars</a>
+    </li>
+
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.southsoundhomes.com/#navlink=navbar">Homes</a>
+    </li>
+
+    <li class="dropDownItem">
+      <a class="menuLink" href="http://www.southsoundrentals.com/#navlink=navbar">Rentals</a>
+    </li>
+
+    <li class="dropDownItem last">
+      <a class="menuLink findnsave" href="http://findnsave.thenewstribune.com/">Find<span>n</span>Save</a>
+    </li>
+
+    <li id="nav_ad_wrap" class="dropDownItem">
+      
+          <!-- start: nav ad -->
+                     
+ 
+ 
+<center><div class="advertisement nav_ad dart3" id="dart_100x25_ats_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=100x25;tile=3;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=100x25;tile=3;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=100x25;tile=3;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement nav_ad -->
+ 
+
+<div class="advertisement nav_ad yahoo" id="yahoo_100x25_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1");}
+--></script>
+
+</div><!-- /.advertisement nav_ad -->
+
+ 
+
+          <!-- end: nav ad -->
+
+
+    </li>
+
+  </ul> <!-- #adServicesNav -->
+
+</div> <!-- /#navigation -->
+<!-- END TNT NAVIGATION -->
+
+    
+
+<!-- MAIN CONTENT -->
+<div id="maincontent" class="clearfix">
+     
+     <!-- CONTENT WELL -->
+     <div id="contentwell" class="clearfix">
+
+           
+
+          <!-- LEFT RAIL -->
+          <div id="main_rail">
+          <!-- STORY CONTENT -->
+<div class="content">
+
+  <!-- STORY TOOLS -->
+  
+
+<script type="text/javascript" src="http://media.thenewstribune.com/static/scripts/mi/pubsys/story_tools_oo.js"></script>
+
+<!-- MOST POPULAR PAGES -->
+<script language="JavaScript" type="text/javascript"><!-- var
+measure_popularity=true; // --> </script>
+
+<div id="toolbox">
+        <div id="toolbar">
+                <h3 id="toolname">tool name</h3>
+                <a href="javascript:mi_story_tool.closeTool();">close</a>
+        </div>
+        <div id="tool">
+                tool goes here
+        </div>
+</div>
+
+<ul class="tntstory_tools tools_top clearfix">
+
+
+
+
+<li>
+  <a title="View story with a bigger text size" href="#" class="bigger_font">
+    <img width="21" height="17" class="tntst_bigger sprite_icon" alt="" src="http://media.thenewstribune.com/static/images/blank.gif">
+    Bigger text
+  </a>
+</li>
+
+<li>
+  <a title="View this story with a smaller text size" href="#" class="smaller_font">
+    <img width="21" height="17" class="tntst_smaller sprite_icon" alt="" src="http://media.thenewstribune.com/static/images/blank.gif">
+    Smaller text
+  </a>
+</li>
+
+<!-- LINK FOR E-MAILING A STORY -->
+
+<li>
+  <a title="Email this story" onMouseOver="window.status='E-mail story'; return true" onMouseOut="window.status=' '; return true" href="mailto:?subject=Scrappy Cougs, Lacy nearly derail Zags&body=http://www.thenewstribune.com/2012/12/06/2392531/scrappy-cougs-lacy-nearly-derail.html">
+    <img width="21" height="17" class="tntst_email sprite_icon" alt="" src="http://media.thenewstribune.com/static/images/blank.gif">
+    E-mail
+  </a>
+</li>
+
+<!-- LINK FOR PRINTING A STORY -->
+
+<li>
+  <a title="Print this story" onMouseOver="window.status='Print story'; return true" onMouseOut="window.status=' '; return true" href="/2012/12/06/v-printerfriendly/2392531/scrappy-cougs-lacy-nearly-derail.html">
+    <img width="21" height="17" class="tntst_print sprite_icon" alt="" src="http://media.thenewstribune.com/static/images/blank.gif">
+    Print
+  </a>
+</li>
+
+<!-- GRAPHICS LITE LINK -->
+
+<li>
+  <a title="View this story as regular text" onMouseOver="window.status='Low-bandwidth version'; return true" onMouseOut="window.status=' '; return true" href="/2012/12/06/v-lite/2392531/scrappy-cougs-lacy-nearly-derail.html">
+    <img width="21" height="17" class="tntst_lite sprite_icon" alt="" src="http://media.thenewstribune.com/static/images/blank.gif">
+    Text
+  </a>
+</li>
+
+<!-- PARS Reprints -->
+
+<li>
+  <a title="Order reprints or licensing" onMouseOver="window.status='Order reprints'; return true" onMouseOut="window.status=' '; return true" href="http://www.mcclatchyreprints.com/">
+    <img width="21" height="17" class="tntst_reprint sprite_icon" alt="" src="http://media.thenewstribune.com/static/images/blank.gif">
+    Reprints
+  </a>
+</li>
+
+<li class="addthis_toolbox addthis_default_style">
+  <a class="addthis_button_facebook"></a>
+  <a class="addthis_button_preferred_1"></a>
+  <a class="addthis_button_preferred_2"></a>
+  <a class="addthis_button_compact"></a>
+  <a class="addthis_counter addthis_bubble_style"></a>
+</li>
+
+</ul> <!-- .tntstory_tools -->
+  <!-- end STORY TOOLS -->
+
+  <div class="hnews hentry item">
+
+    <!-- HEADLINE -->
+    <h1 class="storyhed entry-title">Scrappy Cougs, Lacy nearly derail Zags </h1>
+    <!-- end HEADLINE -->
+
+
+    <!-- SUB HEADLINE -->
+    <p class="storysubhed">PULLMAN &ndash; Washington State coach Ken Bone is one of many college basketball observers who maintain that the current edition of the Gonzaga Bulldogs has the potential to be the best team in school history.</p>    <!-- end SUB HEADLINE -->
+
+
+    <!-- BYLINE -->
+    <div class="byline">HOWIE STALWICK; Contributing writer</div> <!-- .byline --><div id="hnews-vcard" style="display:none;">      <span class="byline author vcard"><span class="fn">HOWIE STALWICK      </span></span> <span class="creditline source-org vcard"><span class="org fn">      </span></span></div>
+
+
+
+
+<div class="updates_timestamp_story">
+  <span class="published" title="2012-12-06T08:13:39Z"><b>Published:</b> Dec. 6, 2012 at 12:05 a.m. PST</span>
+
+    &mdash; <span class="updated" title="2012-12-06T21:42:13Z"><b>Updated:</b> Dec. 6, 2012 at 1:42 p.m. PST</span>
+  
+</div>
+    <!-- end BYLINE -->
+
+
+    <!-- SOCIAL BUTTONS -->
+    <div id="story_social_connections" class="clearfix">
+  <div class="story_pluckactivity">
+
+  <div id="story_activity_count">
+     <div id="story_comments_count">
+         <a href="#user_comments"><span class="storycomments"> 
+
+<a id="commentCount" href="http://www.thenewstribune.com/2012/12/06/2392531/scrappy-cougs-lacy-nearly-derail.html">0 comments</a>
+
+<script>mi.commenting.displayCommentCount();</script>
+
+ </span></a>
+      </div>
+  </div>
+
+
+  </div>
+
+  <div class="twitter_share_button">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="thenewstribune">&nbsp;</a>
+  </div>
+
+  <div class="facebook_like_button">
+    <div class="fb-like" data-href="http://www.thenewstribune.com/2012/12/06/2392531/scrappy-cougs-lacy-nearly-derail.html?storylink=fb" data-send="false" data-layout="button_count" data-width="55" data-show-faces="true" data-font="arial"></div>
+  </div>
+</div> <!-- #story_social_connections -->
+    <!-- end SOCIAL BUTTONS -->
+
+
+    <!-- FEATURED ASSET -->
+    
+
+    <!-- end FEATURED ASSET -->
+
+
+    <!-- STORY BODY -->
+    <div class="storytext" id="storyBody">
+
+  <div class="entry-content">
+    
+    <p><span class="storydateline">PULLMAN &mdash;</span> Washington State coach Ken Bone is one of many college basketball observers who maintain that the current edition of the Gonzaga Bulldogs has the potential to be the best team in school history.</p><p>The Bulldogs often failed to live up to Bone&rsquo;s assessment &ndash; or their No. 10 national ranking &ndash; Wednesday night. However, Gonzaga point guard Kevin Pangos drove for a lay-in with 2.2 seconds remaining to lift the Bulldogs past the scrappy Cougars, 71-69, in front of 9,367 fans at Beasley Coliseum.</p><p>&ldquo;They (the Cougars) played inspired,&rdquo; said Gonzaga guard Gary Bell Jr., a former Kentridge High School star.</p><p>&ldquo;I think we can play with anybody in the country,&rdquo; said WSU guard DaVont&#xE9; Lacy, a Curtis High graduate. &ldquo;We proved it, but too bad we couldn&rsquo;t win.&rdquo;</p><p>A sensational, hard-fought game featured brilliant second-half performances by Lacy and Gonzaga forward Kelly Olynyk. Both players came off the bench.</p><p>Lacy, back in action after missing four games with a knee injury, poured in 17 of his career-high 22 points in the final half, including 4-of-9 shooting from 3-point range.</p><p>&ldquo;If Lacy can shoot like that, he&rsquo;s going to help them a ton,&rdquo; Gonzaga coach Mark Few said.</p><p>Olynyk, a 7-foot junior who redshirted last season because of Gonzaga&rsquo;s abundance of talent and depth on the front line, scored all of his 22 points in the second half.</p><p>&ldquo;He&rsquo;s a pro,&rdquo; Lacy said. &ldquo;He&rsquo;s 7-foot, can handle the ball, not opposed to contact. He&rsquo;ll be playing for a lot of money.&rdquo;</p><p>Olynyk and Lacy both hit clutch baskets down the stretch. Lacy blew past Bell, a fine defender, for a lay-in that tied the score at 69-69 with 7.8 seconds to play.</p><p>Bell sank the second of two free throws with 14 seconds to go. He finished with 14 points.</p><p>Senior forwards Elias Harris of Gonzaga and Brock Motum of Washington State shared game-high honors with 23 points. Both players battled ferociously, often against one another, at both ends of the court.</p><p>Pangos, who set career highs with 33 points and nine treys in a win over WSU last season, hit just 2 of 12 shots (1 of 5 treys) and scored eight points Wednesday.</p><p>&ldquo;He played very poorly,&rdquo; Few said.</p><p>Still, Few said he was plenty confident with the ball in Pangos&rsquo; hands at the end.</p><p>&ldquo;He&rsquo;s always clutch when it counts,&rdquo; Bell said.</p><p>Motum nailed back-to-back 3-pointers to narrow Gonzaga&rsquo;s lead to 60-57 with 3:31 to play. Lacy then drilled a 3-pointer to tie the game with 2:56 remaining.</p><p>As time was running out, Lacy heaved the ball from the top of the arc at the far end of the court. Motum made a futile attempt to tip in the ball when it fell short of the basket.</p><p>The Bulldogs, who started the day leading the nation in field-goal shooting percentage at 53.3, hit 50.9 percent against WSU. The Cougars had not allowed an opponent to shoot better than 45.5 percent this season.</p><p>The Cougars had been 5-0 at home, but those wins came against teams ranked 187th to 337th out of 347 NCAA Division I teams in the latest Pomeroy Ratings. Those ratings had Gonzaga at No. 7 and WSU at No. 104.</p><p>Gonzaga, loaded with size, athleticism, depth, experience and balanced scoring, improved to 9-0. The Bulldogs next face No. 13 Illinois, also 9-0, on Saturday at home (7 p.m., ESPN2).</p><p>The Cougars (5-4) face visiting Fresno State on Sunday (noon, Pac-12 Networks).</p><p>Brian Quinnett was honored at halftime with the first Honor the Past award. WSU plans to honor one former Cougars basketball standout every season.</p><p>Quinnett, a Cheney native who spent three seasons in the NBA, ranks ninth in WSU history with 1,408 points. He was honored on the 26th anniversary of his school-record, 45-point game against Loyola Marymount on Dec. 5, 1986.</p>
+  </div><!-- end entry-content div -->
+<!-- start: support/hnews/itemlicense.ett  --><div id="item-license" style="display:none;" >
+    <a rel="item-license" href="http://www.thenewstribune.com/terms-of-service">
+    Copyright 2012 . All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a>
+</div><!-- end: support/hnews/itemlicense.ett  -->
+<!-- start: support/hnews/usage_tag.ett  -->
+
+<!-- no hnews usage tag beacon: apregistry.story.owner ==  -->
+<!-- end: support/hnews/usage_tag.ett -->
+
+  <!-- AP COPYRIGHT -->
+  <!-- Component: Tacoma : pubsys/production/story/asset/ap_copyright.comp -->
+
+
+
+
+
+<!-- Component: Tacoma : pubsys/production/story/asset/ap_copyright.comp -->
+  <!-- end AP COPYRIGHT -->
+
+</div><!-- #storyBody -->
+    <!-- end STORY BODY -->
+
+  </div> <!-- end hnews hentry item div -->
+  
+  <!-- pubsys/production/story/default_story.html :start v.15690 -->
+<div id='adblade' style='margin: 0 auto; padding-bottom: 5px; width: 600px;'>
+ 
+ 
+ 
+<center><div class="advertisement ts-shared-ads-national-blade-dart dart3" id="dart_600x250_bts_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=N;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=600x250;tile=4;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=N;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=600x250;tile=4;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=N;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=600x250;tile=4;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement ts-shared-ads-national-blade-dart -->
+
+ 
+
+ 
+ 
+ 
+ 
+
+<div class="advertisement ts-shared-ads-national-blade-yahoo yahoo" id="yahoo_600x255_ipbtf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2");}
+--></script>
+
+</div><!-- /.advertisement ts-shared-ads-national-blade-yahoo -->
+
+ 
+
+</div>
+<!-- pubsys/production/story/default_story.html :end v.15690 -->
+
+  <!-- STORY COMMENTS -->
+  
+     
+
+<div id="comments" class="storytext">
+  <p><b>JOIN THE DISCUSSION</b> | <a href="http://www.thenewstribune.com/reg-bin/int.cgi?mode=register" target="_blank">Register here</a></p>
+  <p>We welcome comments. Please keep them civil, short and to the point. ALL CAPS, spam, obscene, profane, abusive and off topic comments will be deleted. Repeat offenders will be blocked. Thanks for taking part &mdash; and abiding by <a href="http://www.thenewstribune.com/1242/" target="_blank">these simple rules</a>. A thorough explanation of rules of conduct can be found in our <a href="http://www.thenewstribune.com/terms-of-service/" target="_blank">Terms of Service</a>. If you have any questions, including why your comment may not be showing immediately after you submit it, be sure to visit the <a href="http://www.thenewstribune.com/2010/09/07/1331298/new-commenting-platform-for-the.html">commenting FAQ</a>.</p>
+</div> <!-- #comments -->
+
+<div id="commentingStage" class="clearfix"></div>
+<script>mi.commenting.display();</script>
+
+ 
+  
+  <!-- end STORY COMMENTS -->
+
+
+  
+  
+
+
+  <!-- INTRALINKS -->
+  <div class="sbintralinks_mask threecol"><div class="sbintralinks_mid"><div class="sbintralinks_left">
+      
+  
+
+ 
+<div class="sbintralinks_1">
+  <div class="webkicker">
+    <a href="http://blog.thenewstribune.com/"><strong>SPORTS</strong></a>
+  </div> <!-- .webkicker -->
+
+  <ul class="sbintralinks_list">          
+            
+        
+        
+    
+                          <li><a href="/2012/12/06/2392531/scrappy-cougs-lacy-nearly-derail.html">Scrappy Cougs, Lacy nearly derail Zags</a></li>                   <li><a href="/2012/12/06/2392528/bay-appears-certain-to-join-mariners.html">Jason Bay appears certain to join Mariners</a></li>                   <li><a href="/2012/12/06/2392527/browner-gives-in-to-suspension.html">Hawks' Brandon Browner gives in to suspension</a></li>                   <li><a href="/2012/12/06/2392534/wedge-touts-seattles-plan.html">Wedge touts Seattle&rsquo;s plan</a></li>             
+            
+        
+        
+    
+                          <li><a href="/2012/12/06/2393786/hamilton-greinke-remain-on-market.html">Hamilton, Greinke remain on market after meetings</a></li>             
+            
+        
+        
+    
+        <li>                  <a href="/2012/12/06/2392524/browners-out-next-man-up.html"><b>Boling:</b> Browner&rsquo;s out? Next man up</a>         </li>    
+            
+        
+        
+    
+        <li>                  <a href="/2012/12/05/2391003/murphy-mattingly-get-my-vote-bonds.html"><b>McGrath:</b> Murphy, Mattingly get my vote; Bonds, Sosa, Clemens don&rsquo;t</a>         </li>    
+  </ul>
+</div> <!-- .sbintralinks_1 -->
+
+
+
+<div class="sbintralinks_2">
+  <div class="webkicker">
+    <a href="http://blog.thenewstribune.com/"><strong>SOUTH SOUND</strong></a>
+  </div> <!-- .webkicker -->
+
+  <ul class="sbintralinks_list">          
+            
+        
+        
+    
+                          <li><a href="/2012/12/06/2392893/first-marriage-licenses-for-same.html">First marriage licenses for same-sex couples issued as crowd cheers</a></li>                   <li><a href="/2012/12/06/2393215/fife-police-seize-drugs-and-cash.html">Fife police seize drugs and cash in raid</a></li>                   <li><a href="/2012/12/05/2392391/buddy-says-hell-care-for-staff.html">Buddy says he&#x92;ll care for Staff Sgt. Rayvon Battle's family; Soldier who died in Afghanistan remembered at JBLM</a></li>                   <li><a href="/2012/12/06/2392521/rank-and-records-error-meant-difference.html">Rank and records error meant difference between life and death in 1952 plane crash</a></li>             
+            
+        
+        
+    
+        <li>                  <a href="/2012/12/06/2392476/same-sex-marriage-backers-took.html"><b>Callaghan:</b> Same-sex marriage backers took small steps to victory</a>         </li>    
+            
+        
+        
+    
+        <li>                  <a href="/2012/12/04/2390865/angels-fulfill-a-wifes-christmas.html"><b>LaRue:</b> Graham family&#x92;s holiday season brightened in the midst of &#x91;devastating&#x92; health crisis</a>         </li>    
+  </ul>
+</div> <!-- .sbintralinks_2 -->
+
+
+ 
+
+  <div class="sbintralinks_3">
+
+    <div class="webkicker">
+      <a href="http://blog.thenewstribune.com/"><strong>BLOGS</strong></a>
+    </div> <!-- .webkicker -->
+
+    <ul class="sbintralinks_list">          
+      <li><a href="http://blog.thenewstribune.com/crime/"><strong>Lights &amp; Sirens:</strong> <span>Tacoma man charged with murder in shooting at storage facility</span><br/>
+</a></li>
+      <li><a href="http://blog.thenewstribune.com/politics/"><strong>Political Buzz:</strong> <span>Feds break silence on I-502; U.S. Attorney Jenny Durkan says marijuana still illegal</span><br/>
+</a></li>
+      <li><a href="http://blog.thenewstribune.com/seahawks/"><strong>Seahawks Insider:</strong> <span>Chancellor added to injury report</span><br/>
+</a></li>
+      <li><a href="http://blog.thenewstribune.com/mariners/"><strong>Mariners Insider:</strong> <span>Winter meetings live blog day 4 — Chuck Armstrong downplays Hamilton rumors</span><br/>
+</a></li>
+      <li><a href="http://blog.thenewstribune.com/preps/"><strong>Preps:</strong> <span>Preseason all-state basketball teams: McPhee, Fletcher, Meikle, Dorsey headline</span><br/>
+</a></li>
+      <li><a href="http://blog.thenewstribune.com/tntdiner/"><strong>TNT Diner:</strong> <span>Harbor move: Gourmet Burger Shop finds new home in downtown Gig Harbor</span><br/>
+</a></li>
+    </ul>
+
+  </div> <!-- .sbintralinks_3 -->
+
+</div></div></div> <!-- .sbintralinks_mask -->
+  <!-- end INTRALINKS -->
+
+
+</div> <!-- .content -->
+<!--end STORY BODY -->
+          </div>
+          <!-- end LEFT RAIL -->
+
+           <!-- RIGHT RAIL -->
+          <div id="insetrail">
+          
+          </div>
+          <!-- end RIGHT RAIL -->
+          
+                    </div>
+          <!-- end CONTENT WELL -->
+
+     
+
+
+<div id="rightrail">
+
+  
+
+<figure>
+
+  <a href="http://media.thenewstribune.com/smedia/2012/12/06/00/13/Kts0v.St.5.jpeg?height=422&width=396" title="Gonzaga forward Elias Harris, right, steals the ball from Washington State forward Brock Motum (12) during the first half of the Bulldogs&rsquo; 71-69 victory over the Cougars. Harris and Motum led all scorers with 23 points apiece. (DEAN HARE/THE ASSOCIATED PRESS)" class="modal" style="width:400px;"> <img src="http://media.thenewstribune.com/smedia/2012/12/06/00/13/Kts0v.Em.5.jpeg" width="300" alt="" /></a> </a>
+
+  <figcaption class="caption">Gonzaga forward Elias Harris, right, steals the ball from Washington State forward Brock Motum (12) during the first half of the Bulldogs&rsquo; 71-69 victory over the Cougars. Harris and Motum led all scorers with 23 points apiece. (DEAN HARE/THE ASSOCIATED PRESS)</figcaption>
+
+</figure>  
+
+
+
+  <!-- ADVERTISMENT -->
+   
+ 
+ 
+<center><div class="advertisement ts_pubsys_production_shared_rail_c dart3" id="dart_300x250_ats_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=300x250;tile=5;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=300x250;tile=5;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=300x250;tile=5;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement ts_pubsys_production_shared_rail_c -->
+
+ 
+
+  <!-- end ADVERTISMENT -->
+
+
+
+  
+    
+      
+<div class="sidebar_content story_more_photos"><h5 class="label clearfix grad_tntyellow"> MORE PHOTOS </h5><a href="http://media.thenewstribune.com/smedia/2012/12/06/00/13/zLGOd.St.5.jpeg?height=450&width=333" class="modal" title="Gonzaga forward Kelly Olynyk, right, who scored 22 points, drives against WSU forward Brock Motum, who scored 23, Wednesday night in Pullman. Tenth-ranked Gonzaga won, 71-69. (DEAN HARE/THE ASSOCIATED PRESS)"><img src="http://media.thenewstribune.com/smedia/2012/12/06/00/13/zLGOd.MoTh.5.jpeg" width="90" height="90" alt="" class="img_border" /></a></div>
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <!-- ADVERTISMENT --> 
+   
+ 
+ 
+<center><div class="advertisement ts_pubsys_production_shared_rail_c dart3" id="dart_300x100_ats_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=300x100;tile=6;dcopt=ist;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=300x100;tile=6;dcopt=ist;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=300x100;tile=6;dcopt=ist;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement ts_pubsys_production_shared_rail_c -->
+
+ 
+
+  <script>$('#dart_300x100_ats_1').adCollapse();</script>
+  <!-- end ADVERTISMENT -->  
+
+
+
+  <!-- MOST POPULAR -->
+  <div id="most_popular_box"><h5 class="label clearfix grad_tntyellow"> MOST POPULAR </h5>
+  <ul id="most_popular_tabs" class="clearfix tnt_tabs">
+    <li class="tnt_tab_active"><a href="#most_popular">Popular</a></li>                                    
+    <li class="tnt_tab_disabled"><a href="#most_commented">Commented</a></li>
+  </ul> <!-- most_popular_tabs -->
+
+  <div id="most_popular_tab_boxes">
+
+    <ol class="tnt_tab_content" id="most_popular"><li><a href="http://www.thenewstribune.com/2012/12/06/2393007/double-slaying-reported-in-summit.html#storylink=mostpopular">Summit-area homeowner shoots two intruders </a></li><li><a href="http://www.thenewstribune.com/2012/12/06/2392478/new-law-helps-little-if-you-want.html#storylink=mostpopular">Pot now legal, but where do you buy it? </a></li><li><a href="http://www.thenewstribune.com/2012/12/05/2391903/3-women-sentenced-for-helping.html#storylink=mostpopular">3 women sentenced for helping Puyallup banker with bad mortgage loans </a></li><li><a href="http://blog.thenewstribune.com/street/2012/12/06/first-marriage-licenses-for-same-sex-couples-issued-as-crowd-cheers/#storylink=mostpopular">First marriage licenses for same-sex couples issued as crowd cheers</a></li><li><a href="http://www.thenewstribune.com/2012/12/06/2392493/former-principal-no-longer-has.html#storylink=mostpopular">Former Gig Harbor principal no longer has job </a></li></ol>
+
+    <ul id="most_commented" class="discResults tnt_tab_content">
+      
+        <li>
+          <a class="pluckDiscoCount" href="http://www.thenewstribune.com/2012/12/06/2393007/double-slaying-reported-in-summit.html">121</a>
+          <a class="pluckDiscoComImg" href="http://www.thenewstribune.com/2012/12/06/2393007/double-slaying-reported-in-summit.html">
+            <img src="http://media.thenewstribune.com/static/images/blank.gif" width="16" height="15" alt="" class="sprite_icon" />
+          </a>
+          <a class="pluckDiscoTitle" href="http://www.thenewstribune.com/2012/12/06/2393007/double-slaying-reported-in-summit.html">Summit-area homeowner shoots two intruders</a>
+        </li>
+      
+        <li>
+          <a class="pluckDiscoCount" href="http://www.thenewstribune.com/2012/12/05/2391469/taking-a-number-for-a-place-in.html">100</a>
+          <a class="pluckDiscoComImg" href="http://www.thenewstribune.com/2012/12/05/2391469/taking-a-number-for-a-place-in.html">
+            <img src="http://media.thenewstribune.com/static/images/blank.gif" width="16" height="15" alt="" class="sprite_icon" />
+          </a>
+          <a class="pluckDiscoTitle" href="http://www.thenewstribune.com/2012/12/05/2391469/taking-a-number-for-a-place-in.html">Pierce County couples take number for place in history</a>
+        </li>
+      
+        <li>
+          <a class="pluckDiscoCount" href="http://www.thenewstribune.com/2012/12/06/2392478/new-law-helps-little-if-you-want.html">51</a>
+          <a class="pluckDiscoComImg" href="http://www.thenewstribune.com/2012/12/06/2392478/new-law-helps-little-if-you-want.html">
+            <img src="http://media.thenewstribune.com/static/images/blank.gif" width="16" height="15" alt="" class="sprite_icon" />
+          </a>
+          <a class="pluckDiscoTitle" href="http://www.thenewstribune.com/2012/12/06/2392478/new-law-helps-little-if-you-want.html">Pot now legal, but where do you buy it?</a>
+        </li>
+      
+        <li>
+          <a class="pluckDiscoCount" href="http://www.thenewstribune.com/2012/12/06/2393663/washam-finds-one-last-argument.html">8</a>
+          <a class="pluckDiscoComImg" href="http://www.thenewstribune.com/2012/12/06/2393663/washam-finds-one-last-argument.html">
+            <img src="http://media.thenewstribune.com/static/images/blank.gif" width="16" height="15" alt="" class="sprite_icon" />
+          </a>
+          <a class="pluckDiscoTitle" href="http://www.thenewstribune.com/2012/12/06/2393663/washam-finds-one-last-argument.html">Washam finds one last argument - over Pierce County foreclosure auction</a>
+        </li>
+      
+        <li>
+          <a class="pluckDiscoCount" href="http://www.thenewstribune.com/2012/12/06/2393577/alls-quiet-on-first-day-of-legal.html">7</a>
+          <a class="pluckDiscoComImg" href="http://www.thenewstribune.com/2012/12/06/2393577/alls-quiet-on-first-day-of-legal.html">
+            <img src="http://media.thenewstribune.com/static/images/blank.gif" width="16" height="15" alt="" class="sprite_icon" />
+          </a>
+          <a class="pluckDiscoTitle" href="http://www.thenewstribune.com/2012/12/06/2393577/alls-quiet-on-first-day-of-legal.html">All&#39;s quiet on first day of legal pot</a>
+        </li>
+      
+    </ul> <!-- #most_commented -->
+
+  </div> <!-- #most_popular_tab_boxes -->
+
+</div> <!-- #most_popular_box -->
+  <!-- end MOST POPULAR -->
+
+
+
+  
+
+<!-- <a href="http://tacoma.dealsaver.com/engine/Splash.aspx?contestid=32770">
+    <img src="http://www.thenewstribune.com/static/images/marketing/dealsaverCyberMonday.jpg" style="margin:0 0 12px;" />
+</a> -->
+
+  <!-- DEAL SAVER -->
+    <!-- /pubsys/production/shared/findnsave_widget_big.comp -->
+   <!-- end DEAL SAVER -->
+
+
+
+  
+
+
+
+  
+
+
+
+<!-- CONTESTS -->
+<div id="contests_box"><h5 class="label clearfix grad_tntyellow"> CONTESTS </h5>  <a href="http://southsound.upickem.net/engine/Welcome.aspx?contestid=76959"> <img src="http://www.thenewstribune.com/static/images/marketing/santaRuler.jpg" /> </a> <a href="http://southsound.upickem.net/engine/Welcome.aspx?contestid=76600"> <img src="http://www.thenewstribune.com/static/holidayhub/images/uglySweater_rr.jpg" /> </a> <a href="http://southsound.profootball.upickem.net/profootball/registration/login.asp"> <img src="http://www.thenewstribune.com/static/images/marketing/TNT-GridIronSportsRuler.jpg" /> </a>
+</div>
+<!-- end CONTESTS -->
+
+
+
+
+  <!-- ADVERTISMENT -->
+   
+ 
+ 
+<center><div class="advertisement ts_pubsys_production_shared_rail_c dart3" id="dart_300x250_bts_2">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=N;dcove=d;pl=story;sect=WSUCougars;pos=2;sz=300x250;tile=7;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=N;dcove=d;pl=story;sect=WSUCougars;pos=2;sz=300x250;tile=7;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=N;dcove=d;pl=story;sect=WSUCougars;pos=2;sz=300x250;tile=7;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement ts_pubsys_production_shared_rail_c -->
+
+ 
+  <!-- end ADVERTISMENT -->
+
+
+
+  
+    <!-- TOP STUFF -->
+    <!-- TOP JOBS -->
+<aside id="topjobs" class="topstuff clearfix">
+  <h5><a href="http://www.southsoundcareerbuilder.com"><img src="http://media.thenewstribune.com/images/blank.gif" width="157" height="30" alt="Career Builder" /></a></h5>
+  <h6><a href="http://www.thenewstribune.com/careerbuilder/#jobs_list_widget">VIEW ALL</a></h6>
+
+  <dl class="topstuff_content">
+    
+<dt>Government</dt>
+  <dd><a href="http://www.careerbuilder.com/JobSeeker/Jobs/RedirectNewspaperJob.aspx?partnerid=Tacoma&jobid=0001349435_01&lr=cbmc_nt&siteid=cbmc_nt060"> HCRN seeks licensed Social Worker w/MSW and min 2 years experien</a>
+  <br />Anonymous Business</dd>
+
+
+<dt>Healthcare</dt>
+  <dd><a href="http://www.careerbuilder.com/JobSeeker/Jobs/RedirectNewspaperJob.aspx?partnerid=Tacoma&jobid=0001349929_01&lr=cbmc_nt&siteid=cbmc_nt060"> AtHome Care has IMMEDIATE 24 hr shifts avail. in Tacoma and Shel</a>
+  <br />Anonymous Business</dd>
+
+
+<dt>Distribution - Shipping</dt>
+  <dd><a href="http://www.careerbuilder.com/JobSeeker/Jobs/RedirectNewspaperJob.aspx?partnerid=Tacoma&jobid=0001353967_01&lr=cbmc_nt&siteid=cbmc_nt060"> Class A CDL Driver w/ TWIC endorsement. Local. Full benefits, 40</a>
+  <br />Anonymous Business</dd>
+
+
+
+  </dl>
+
+  <h6><a href="http://www.thenewstribune.com/careerbuilder/#vendor">ADVANCED SEARCH</a> &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/careerbuilder/#vendor">PLACE AN AD</a></h6>
+
+  <form id="topjobsform" method="get" action="http://www.CareerBuilder.com/PLI/QuickSrchV2.asp">
+    <input type="hidden" value="cbmc_nt060" name="SiteID" />
+    <input type="hidden" value="20" name="jlrd" />
+    <input type="hidden" value="cbmc_nt" name="lr" />
+    <input type="hidden" value="Tacoma" name="qscty" />
+    <input type="hidden" value="WA" name="qssid" />
+    <input type="hidden" value="US" name="qscid" />
+    <input type="hidden" value="WA, US" name="qssts" />
+    <label for="mxjobsrchcriteria_rawwords"><span class="placeholder-hide">Search for a job</span></label>
+    <input type="text" placeholder="SEARCH FOR A JOB" id="topjobssearch" name="mxjobsrchcriteria_rawwords" maxlength="256" class="full" />
+    <input type="submit" value="FIND A JOB" name="submit" />
+  </form>
+</aside>
+<!-- end TOP JOBS -->
+
+
+<!-- TOP HOMES -->
+<aside id="tophomes" class="topstuff clearfix">
+
+  <form id="tophomesform" name="tophomesform" class="clearfix" action="http://www.homefinder.com/search" method="post" onSubmit="tophomesPriceCheck();">
+    <label for="minPrice"><span class="placeholder-hide">Min Price</span></label>
+    <input type="text" placeholder="MIN PRICE" id="tophomesminprice" name="minPrice" />
+
+    <label for="area"><span class="placeholder-hide">ZIP code</span></label>
+    <input type="text" placeholder="ZIP CODE" id="tophomeszipcode" name="area" class="end" />
+
+    <label for="maxPrice"><span class="placeholder-hide">Max Price</span></label>
+    <input type="text" placeholder="MAX PRICE" id="tophomesmaxprice" name="maxPrice" />
+
+    <input type="submit" value="FIND A HOME" name="submit" />
+  </form>
+
+  <h5><a href="http://www.southsoundhomes.com/"><img src="http://media.thenewstribune.com/images/blank.gif" width="127" height="35" alt="Home Finder" /></a></h5>
+  <h6><a href="http://www.homefinder.com/search">ADVANCED SEARCH</a><br /><a href="http://www.homefinder.com/WA/Seattle--Tacoma_Metro_Area/map-search/">SEARCH BY REGION</a></h6>
+</aside>
+<!-- end TOP HOMES -->
+
+
+
+<!-- TOP CARS -->
+<aside id="topcars" class="topstuff clearfix">
+
+  <div>
+    <a href="#" id="topcars_new" class="topcars_button active">NEW</a>
+    <a href="#" id="topcars_used" class="topcars_button">USED</a>
+  </div>
+
+  <form id="topcarsform" method="get" action="http://www.cars.com/go/search/search.jsp" onSubmit="topcarsPriceCheck();">
+    <input type="hidden" value="tribnet" name="aff" />
+    <input type="hidden" value="newcc" name="tracktype" id="topcarstrack" />
+    <input type="hidden" value="85" name="searchType" id="topcarssearch" />
+    <input type="hidden" value="adlocator" name="srv" />
+    <input type="hidden" value="search" name="act" />
+    <input type="hidden" value="ftr" name="sb" />
+    <input type="hidden" value="zr,n_ms,used" name="flt" />
+    <input type="hidden" value="desc" name="so" />
+    <input type="hidden" value="richmedia" name="referrer" />
+    <input type="hidden" value="30" name="rd" />
+
+    <select placeholder="MAKE" id="topcarsmake" class="topcars_new" name="mknm" />
+      <option value="1">Acura</option><option value="3">Aston Martin</option><option value="4">Audi</option><option value="6">Bentley</option><option value="5">BMW</option><option value="7">Buick</option><option value="8">Cadillac</option><option value="9">Chevrolet</option><option value="10">Chrysler</option><option value="12">Dodge</option><option value="51">Ferrari</option><option value="56">Fiat</option><option value="723">Fisker</option><option value="14">Ford</option><option value="15">GMC</option><option value="18">Honda</option><option value="19">Hyundai</option><option value="20">Infiniti</option><option value="22">Jaguar</option><option value="23">Jeep</option><option value="24">Kia</option><option value="25">Lamborghini</option><option value="26">Land Rover</option><option value="27">Lexus</option><option value="28">Lincoln</option><option value="29">Lotus</option><option value="72">Maserati</option><option value="403">Maybach</option><option value="30">Mazda</option><option value="31">Mercedes-Benz</option><option value="303">MINI</option><option value="34">Mitsubishi</option><option value="36">Nissan</option><option value="41">Porsche</option><option value="783">RAM</option><option value="52">Rolls-Royce</option><option value="423">Scion</option><option value="563">Smart</option><option value="823">SRT</option><option value="45">Subaru</option><option value="46">Suzuki</option><option value="47">Toyota</option><option value="48">Volkswagen</option><option value="49">Volvo</option>
+    </select>
+
+    <label for="zc"><span class="placeholder-hide">ZIP Code</span></label>
+    <input type="text" placeholder="ZIP CODE" id="topcarszipcode" class="end" name="zc" />
+
+    <select placeholder="MODEL" id="topcarsmodel" class="topcars_new" name="mdnm"></select>
+
+    <label for="maxp"><span class="placeholder-hide">Max Price</span></label>
+    <input type="text" placeholder="MAX PRICE" id="topcarsmaxprice" class="end" name="maxp" />
+
+    <input type="submit" value="FIND A CAR" id="topcarssubmit" name="submit" />
+  </form>
+
+  <h5><a href="http://www.southsoundcars.com/"><img src="http://media.thenewstribune.com/images/blank.gif" width="82" height="35" alt="Home Finder" /></a></h5>
+</aside>
+<!-- end TOP CARS -->
+
+
+
+<!-- TOP RENTALS -->
+<aside id="toprentals" class="topstuff clearfix">
+
+  <form id="toprentalsform" name="toprentalsform" action="http://www.apartments.com/partner/Rent.aspx" method="get" class="clearfix" onSubmit="toprentalsPriceCheck();">
+    <input type="hidden" value="city" name="stype" />
+    <input type="hidden" value="WA" name="state" />
+    <input type="hidden" value="tribnet" name="frontdoor" />
+    <input type="hidden" value="tribnet" name="partner" />
+
+    <label for="RentMinTextBox"><span class="placeholder-hide">Min Price</span></label>
+    <input type="text" placeholder="MIN PRICE" id="toprentalsminprice" name="RentMinTextBox" />
+
+    <label for="city"><span class="placeholder-hide">City</span></label>
+    <input type="text" placeholder="CITY" id="toprentalszipcode" name="city" class="end" />
+
+    <label for="RentMaxTextBox"><span class="placeholder-hide">Max Price</span></label>
+    <input type="text" placeholder="MAX PRICE" id="toprentalsmaxprice" name="RentMaxTextBox" />
+    <input type="submit" value="FIND A RENTAL" name="submit" />
+  </form>
+
+  <h5><a href="http://www.southsoundrentals.com/"><img src="http://media.thenewstribune.com/images/blank.gif" width="127" height="35" alt="Apartments" /></a></h5>
+  <h6><a href="http://www.thenewstribune.com/southsound/rentals/">SEARCH BY REGION</a></h6>
+</aside>
+<!-- end TOP RENTALS -->
+
+<script>
+var topcars_new = {"1":{"Make":"Acura","Models":{"MDX":"1","RDX":"1","RL":"1","TL":"1","TSX":"1","ZDX":"1"}},"3":{"Make":"Aston Martin","Models":{"DB9":"3","DBS":"3","Rapide":"3","V12 Vantage":"3","V8 Vantage":"3","V8 Vantage S":"3","Virage":"3"}},"4":{"Make":"Audi","Models":{"A3":"4","A4":"4","A5":"4","A6":"4","A7":"4","A8":"4","allroad":"4","Q5":"4","Q7":"4","R8":"4","S4":"4","S5":"4","S6":"4","S8":"4","TT":"4","TT RS":"4","TTS":"4"}},"6":{"Make":"Bentley","Models":{"Continental Flying Spur":"6","Continental GT":"6","Continental GTC":"6","Continental Supersports":"6","Mulsanne":"6"}},"5":{"Make":"BMW","Models":{"128":"5","135":"5","328":"5","335":"5","528":"5","535":"5","535 Gran Turismo":"5","550":"5","550 Gran Turismo":"5","640":"5","640 Gran Coupe":"5","650":"5","740":"5","750":"5","760":"5","ActiveHybrid 5":"5","ActiveHybrid 750":"5","Alpina B7":"5","M3":"5","M5":"5","M6":"5","X3":"5","X5":"5","X5 M":"5","X6":"5","X6 M":"5","Z4":"5"}},"7":{"Make":"Buick","Models":{"Enclave":"7","LaCrosse":"7","Regal":"7","Verano":"7"}},"8":{"Make":"Cadillac","Models":{"CTS":"8","Escalade":"8","Escalade ESV":"8","Escalade EXT":"8","Escalade Hybrid":"8","SRX":"8"}},"9":{"Make":"Chevrolet","Models":{"Avalanche":"9","Camaro":"9","Colorado":"9","Corvette":"9","Cruze":"9","Equinox":"9","Express 1500":"9","Express 2500":"9","Express 3500":"9","Impala":"9","Malibu":"9","Silverado 1500":"9","Silverado 1500 Hybrid":"9","Silverado 2500":"9","Silverado 3500":"9","Sonic":"9","Suburban":"9","Tahoe":"9","Tahoe Hybrid":"9","Traverse":"9","Volt":"9"}},"10":{"Make":"Chrysler","Models":{"200":"10","300":"10","300C":"10","Town & Country":"10"}},"12":{"Make":"Dodge","Models":{"Avenger":"12","Caliber":"12","Challenger":"12","Charger":"12","Dart":"12","Durango":"12","Grand Caravan":"12","Journey":"12"}},"51":{"Make":"Ferrari","Models":{"458 Italia":"51","458 Spider":"51","California":"51","FF":"51"}},"56":{"Make":"Fiat","Models":{"500":"56","500C":"56"}},"723":{"Make":"Fisker","Models":{"Karma":"723"}},"14":{"Make":"Ford","Models":{"E150":"14","E250":"14","E350 Super Duty":"14","Edge":"14","Escape":"14","Escape Hybrid":"14","Expedition":"14","Expedition EL":"14","Explorer":"14","F150":"14","F250":"14","F350":"14","F450":"14","Fiesta":"14","Flex":"14","Focus":"14","Focus Electric":"14","Fusion":"14","Fusion Hybrid":"14","Mustang":"14","Taurus":"14","Transit Connect":"14"}},"15":{"Make":"GMC","Models":{"Acadia":"15","Canyon":"15","Savana 1500":"15","Savana 2500":"15","Savana 3500":"15","Sierra 1500":"15","Sierra 1500 Hybrid":"15","Sierra 2500":"15","Sierra 3500":"15","Terrain":"15","Yukon":"15","Yukon Hybrid":"15","Yukon XL":"15"}},"18":{"Make":"Honda","Models":{"Accord":"18","Civic":"18","Civic Hybrid":"18","CR-V":"18","CR-Z":"18","Crosstour":"18","Fit":"18","Insight":"18","Odyssey":"18","Pilot":"18","Ridgeline":"18"}},"19":{"Make":"Hyundai","Models":{"Accent":"19","Azera":"19","Elantra":"19","Elantra Touring":"19","Equus":"19","Genesis":"19","Genesis Coupe":"19","Santa Fe":"19","Sante Fe Sport":"19","Sonata":"19","Sonata Hybrid":"19","Tucson":"19","Veloster":"19","Veracruz":"19"}},"20":{"Make":"Infiniti","Models":{"EX35":"20","FX35":"20","FX50":"20","G25":"20","G37":"20","JX35":"20","M35h":"20","M37":"20","M56":"20","QX56":"20"}},"22":{"Make":"Jaguar","Models":{"XF":"22","XJ":"22","XK":"22"}},"23":{"Make":"Jeep","Models":{"Compass":"23","Grand Cherokee":"23","Liberty":"23","Patriot":"23","Wrangler":"23","Wrangler Unlimited":"23"}},"24":{"Make":"Kia","Models":{"Forte":"24","Forte Koup":"24","Optima":"24","Optima Hybrid":"24","Rio":"24","Rio5":"24","Sedona":"24","Sorento":"24","Soul":"24","Sportage":"24"}},"25":{"Make":"Lamborghini","Models":{"Aventador":"25","Gallardo":"25"}},"26":{"Make":"Land Rover","Models":{"LR2":"26","LR4":"26","Range Rover":"26","Range Rover Evoque":"26","Range Rover Sport":"26"}},"27":{"Make":"Lexus","Models":{"CT 200h":"27","ES 350":"27","GS 350":"27","GS 450h":"27","GX 460":"27","HS 250h":"27","IS 250":"27","IS 250C":"27","IS 350":"27","IS 350C":"27","IS-F":"27","LS 460":"27","LS 600h L":"27","LX 570":"27","RX 350":"27","RX 450h":"27"}},"28":{"Make":"Lincoln","Models":{"MKS":"28","MKT":"28","MKX":"28","MKZ":"28","MKZ Hybrid":"28","Navigator":"28"}},"29":{"Make":"Lotus","Models":{"Evora":"29"}},"72":{"Make":"Maserati","Models":{"GranTurismo":"72","Quattroporte":"72"}},"403":{"Make":"Maybach","Models":{"Landaulet":"403","Type 57":"403","Type 62":"403"}},"30":{"Make":"Mazda","Models":{"CX-5":"30","CX-7":"30","CX-9":"30","Mazda2":"30","Mazda3":"30","Mazda5":"30","Mazda6":"30","MazdaSpeed3":"30","Miata MX-5":"30"}},"31":{"Make":"Mercedes-Benz","Models":{"C-Class":"31","CL-Class":"31","CLS-Class":"31","E-Class":"31","G-Class":"31","GL-Class":"31","GLK-Class":"31","M-Class":"31","R-Class":"31","S-Class":"31","SL-Class":"31","SLK-Class":"31","SLS AMG":"31","Sprinter":"31"}},"303":{"Make":"MINI","Models":{"Cooper":"303","Cooper Clubman":"303","Cooper Countryman":"303","Cooper S":"303","Cooper S Clubman":"303","Cooper S Countryman":"303"}},"34":{"Make":"Mitsubishi","Models":{"Eclipse":"34","Galant":"34","i-MiEV":"34","Lancer":"34","Lancer Evolution":"34","Lancer Sportback":"34","Outlander":"34","Outlander Sport":"34"}},"36":{"Make":"Nissan","Models":{"370Z":"36","Altima":"36","Armada":"36","Cube":"36","Frontier":"36","GT-R":"36","Juke":"36","Leaf":"36","Maxima":"36","Murano":"36","Murano CrossCabriolet":"36","NV 1500":"36","NV 2500":"36","NV 3500":"36","Pathfinder":"36","Quest":"36","Rogue":"36","Sentra":"36","Titan":"36","Versa":"36","Xterra":"36"}},"41":{"Make":"Porsche","Models":{"911":"41","Boxster":"41","Cayenne":"41","Cayenne Hybrid":"41","Cayman":"41","Panamera":"41"}},"783":{"Make":"RAM","Models":{"1500":"783","2500":"783","3500":"783","Cargo":"783"}},"52":{"Make":"Rolls-Royce","Models":{"Ghost":"52","Phantom Coupe":"52","Phantom Drophead Coupe":"52","Phantom VI":"52"}},"423":{"Make":"Scion","Models":{"iQ":"423","tC":"423","xB":"423","xD":"423"}},"563":{"Make":"Smart","Models":{"ForTwo":"563"}},"823":{"Make":"SRT","Models":{"Viper":"823"}},"45":{"Make":"Subaru","Models":{"Forester":"45","Impreza":"45","Impreza WRX STi":"45","Legacy":"45","Outback":"45","Tribeca":"45"}},"46":{"Make":"Suzuki","Models":{"Equator":"46","Grand Vitara":"46","Kizashi":"46","SX4":"46"}},"47":{"Make":"Toyota","Models":{"4Runner":"47","Avalon":"47","Camry":"47","Camry Hybrid":"47","Corolla":"47","FJ Cruiser":"47","Highlander":"47","Highlander Hybrid":"47","Land Cruiser":"47","Matrix":"47","Prius":"47","Prius Plug-in":"47","Prius v":"47","RAV4":"47","Sequoia":"47","Sienna":"47","Tacoma":"47","Tundra":"47","Venza":"47","Yaris":"47"}},"48":{"Make":"Volkswagen","Models":{"Beetle":"48","CC":"48","Eos":"48","Golf":"48","Golf R":"48","GTI":"48","Jetta":"48","Passat":"48","Routan":"48","Tiguan":"48","Touareg":"48","Touareg Hybrid":"48"}},"49":{"Make":"Volvo","Models":{"C30":"49","C70":"49","S60":"49","S80":"49","XC60":"49","XC70":"49","XC90":"49",}}};
+var topcars_used = {"1":{"Make":"Acura","Models":{"CL":"1","Integra":"1","Legend":"1","MDX":"1","NSX":"1","RDX":"1","RL":"1","RSX":"1","SLX":"1","TL":"1","TSX":"1","Vigor":"1","ZDX":"1"}},"2":{"Make":"Alfa Romeo","Models":{"164":"2","8c Competizione":"2","Graduate":"2","GTV-6":"2","Milano":"2","Quadrifoglio":"2","Spider":"2"}},"61":{"Make":"Am General","Models":{"Hummer":"61"}},"60":{"Make":"American Motors","Models":{"Alliance":"60","Concord":"60","Eagle":"60","Encore":"60","Spirit":"60"}},"3":{"Make":"Aston Martin","Models":{"DB7":"3","DB7 Vantage":"3","DB9":"3","DBS":"3","Lagonda":"3","Rapide":"3","V12 Vanquish":"3","V12 Vantage":"3","V8 Vantage":"3","V8 Vantage S":"3","Vantage":"3","Virage":"3","Zagato":"3"}},"4":{"Make":"Audi","Models":{"100":"4","200":"4","4000":"4","5000":"4","80":"4","90":"4","A3":"4","A4":"4","A5":"4","A6":"4","A7":"4","A8":"4","allroad":"4","Cabriolet":"4","GT":"4","Q5":"4","Q7":"4","quattro":"4","R8":"4","RS 4":"4","RS6":"4","S4":"4","S5":"4","S6":"4","S8":"4","TT":"4","TT RS":"4","TTS":"4"}},"463":{"Make":"Avanti Motors","Models":{" ":"463","Avanti":"463","Avanti II":"463"}},"6":{"Make":"Bentley","Models":{"Arnage":"6","Azure":"6","Brooklands":"6","Continental":"6","Continental Flying Spur":"6","Continental GT":"6","Continental GTC":"6","Continental Supersports":"6","Eight":"6","Mulsanne":"6","Mulsanne S":"6","Mulsanne Turbo":"6","Turbo R":"6","Turbo RL":"6","Turbo RT":"6","Turbo S":"6"}},"5":{"Make":"BMW","Models":{"1 Series M":"5","128":"5","135":"5","318":"5","320":"5","323":"5","325":"5","328":"5","330":"5","335":"5","524":"5","525":"5","528":"5","530":"5","533":"5","535":"5","535 Gran Turismo":"5","540":"5","545":"5","550":"5","550 Gran Turismo":"5","633":"5","635":"5","640":"5","640 Gran Coupe":"5","645":"5","650":"5","733":"5","735":"5","740":"5","745":"5","750":"5","760":"5","840":"5","850":"5","ActiveHybrid 5":"5","ActiveHybrid 750":"5","Alpina B7":"5","L6":"5","L7":"5","M":"5","M3":"5","M5":"5","M6":"5","X3":"5","X5":"5","X5 M":"5","X6":"5","X6 ActiveHybrid":"5","X6 M":"5","Z3":"5","Z4":"5","Z4 M":"5","Z8":"5"}},"683":{"Make":"Bugatti","Models":{"Veyron 16.4":"683"}},"7":{"Make":"Buick","Models":{"Century":"7","Electra":"7","Enclave":"7","Estate Wagon":"7","LaCrosse":"7","LeSabre":"7","Lucerne":"7","Park Avenue":"7","Rainier":"7","Reatta":"7","Regal":"7","Rendezvous":"7","Riviera":"7","Roadmaster":"7","Skyhawk":"7","Skylark":"7","Somerset":"7","Terraza":"7","Verano":"7"}},"8":{"Make":"Cadillac","Models":{"Allante":"8","Brougham":"8","Catera":"8","Cimarron":"8","CTS":"8","DeVille":"8","DTS":"8","Eldorado":"8","Escalade":"8","Escalade ESV":"8","Escalade EXT":"8","Escalade Hybrid":"8","Fleetwood":"8","Seville":"8","Sixty Special":"8","SRX":"8","STS":"8","XLR":"8"}},"9":{"Make":"Chevrolet","Models":{"1500 (pre-2000)":"9","2500 (pre-2000)":"9","3500 (pre-2000)":"9","Astro":"9","Avalanche":"9","Aveo":"9","Beretta":"9","Blazer":"9","C10/K10":"9","C20/K20":"9","C30/K30":"9","Camaro":"9","Caprice":"9","Caprice Classic":"9","Cavalier":"9","Celebrity":"9","Chevette":"9","Citation":"9","Classic":"9","Cobalt":"9","Colorado":"9","Corsica":"9","Corvette":"9","Cruze":"9","El Camino":"9","Equinox":"9","Express 1500":"9","Express 2500":"9","Express 3500":"9","HHR":"9","Impala":"9","Lumina":"9","Lumina APV":"9","Luv":"9","Malibu":"9","Malibu Classic":"9","Malibu Hybrid":"9","Malibu Maxx":"9","Metro":"9","Monte Carlo":"9","Nova":"9","Pickup":"9","Prizm":"9","S-10":"9","S-10 Blazer":"9","Silverado 1500":"9","Silverado 1500 Hybrid":"9","Silverado 2500":"9","Silverado 3500":"9","Sonic":"9","Spectrum":"9","Sportvan":"9","Sprint":"9","SSR":"9","Suburban":"9","Tahoe":"9","Tahoe Hybrid":"9","Tracker":"9","TrailBlazer":"9","TrailBlazer EXT":"9","Traverse":"9","Uplander":"9","V20":"9","V30":"9","Van":"9","Venture":"9","Volt":"9"}},"10":{"Make":"Chrysler","Models":{"200":"10","300":"10","300C":"10","300M":"10","Aspen":"10","Aspen Hybrid":"10","Cirrus":"10","Concorde":"10","Conquest":"10","Cordoba":"10","Crossfire":"10","E Class":"10","Executive":"10","Fifth Avenue":"10","Grand Voyager":"10","Imperial":"10","Laser":"10","LeBaron":"10","LHS":"10","New Yorker":"10","Pacifica":"10","Prowler":"10","PT Cruiser":"10","Sebring":"10","TC by Maserati":"10","Town & Country":"10","Voyager":"10"}},"62":{"Make":"Daewoo","Models":{"Lanos":"62","Leganza":"62","Nubira":"62"}},"11":{"Make":"Daihatsu","Models":{"Charade":"11","Rocky":"11"}},"66":{"Make":"Delorean","Models":{"DMC-12":"66"}},"80":{"Make":"DeTomaso","Models":{"Mangusta":"80","Pantera":"80"}},"12":{"Make":"Dodge","Models":{"400":"12","600":"12","Aries":"12","Avenger":"12","Caliber":"12","Caravan":"12","Challenger":"12","Charger":"12","Colt":"12","Conquest":"12","D100":"12","D150":"12","D250":"12","D350":"12","Dakota":"12","Dart":"12","Daytona":"12","Diplomat":"12","Durango":"12","Durango Hybrid":"12","Dynasty":"12","Grand Caravan":"12","Intrepid":"12","Journey":"12","Lancer":"12","Magnum":"12","Mini Ram":"12","Mirada":"12","Monaco":"12","Neon":"12","Nitro":"12","Omni":"12","Pickup":"12","Raider":"12","Ram 1500":"12","Ram 2500":"12","Ram 3500":"12","Ram 50":"12","Ram Van":"12","Ram Wagon":"12","Ramcharger":"12","Rampage":"12","Shadow":"12","Spirit":"12","Sprinter":"12","Stealth":"12","Stratus":"12","Van":"12","Viper":"12","W100":"12","W150":"12","W250":"12","W350":"12"}},"13":{"Make":"Eagle","Models":{"Medallion":"13","Premier":"13","Summit":"13","Talon":"13","Vision":"13"}},"51":{"Make":"Ferrari","Models":{"308":"51","328":"51","348":"51","360 Modena":"51","360 Spider":"51","456":"51","456 GT":"51","458 Italia":"51","458 Spider":"51","512 M":"51","512 TR":"51","550":"51","550 Barchetta":"51","575 M":"51","599 GTB Fiorano":"51","612 Scaglietti":"51","California":"51","Challenge Stradale":"51","Enzo":"51","F355":"51","F40":"51","F430":"51","F50":"51","FF":"51","GTB":"51","GTO":"51","Mondial":"51","Mondial t":"51","Superamerica":"51","Testarossa":"51"}},"56":{"Make":"Fiat","Models":{"500":"56","500C":"56","Pininfarina":"56","Spider 2000":"56","X1/9":"56"}},"14":{"Make":"Ford","Models":{"Aerostar":"14","Aspire":"14","Bronco":"14","Bronco II":"14","Club Wagon":"14","Contour":"14","Crown Victoria":"14","E100":"14","E150":"14","E250":"14","E350":"14","E350 Super Duty":"14","Edge":"14","Escape":"14","Escape Hybrid":"14","Escort":"14","Excursion":"14","EXP":"14","Expedition":"14","Expedition EL":"14","Explorer":"14","Explorer Sport":"14","Explorer Spt Trc":"14","F100":"14","F150":"14","F250":"14","F350":"14","F450":"14","Fairmont":"14","Festiva":"14","Fiesta":"14","Five Hundred":"14","Flex":"14","Focus":"14","Focus Electric":"14","Freestar":"14","Freestyle":"14","Fusion":"14","Fusion Hybrid":"14","GT":"14","LTD":"14","Mustang":"14","Pickup":"14","Probe":"14","Ranger":"14","Roadster":"14","Taurus":"14","Taurus X":"14","Tempo":"14","Thunderbird":"14","Transit Connect":"14","Van":"14","Windstar":"14","ZX2":"14"}},"17":{"Make":"Geo","Models":{"Metro":"17","Prizm":"17","Spectrum":"17","Storm":"17","Tracker":"17"}},"15":{"Make":"GMC","Models":{"1500 (before 1992)":"15","2500 (before 1992)":"15","3500 (before 1992)":"15","Acadia":"15","Caballero":"15","Canyon":"15","Envoy":"15","Envoy XL":"15","Envoy XUV":"15","Jimmy":"15","Pickup":"15","Rally":"15","S-15 Jimmy":"15","S-15 Pickup":"15","Safari":"15","Savana 1500":"15","Savana 2500":"15","Savana 3500":"15","Sierra 1500":"15","Sierra 1500 Hybrid":"15","Sierra 2500":"15","Sierra 3500":"15","Sonoma":"15","Suburban":"15","Terrain":"15","Vandura":"15","Yukon":"15","Yukon Hybrid":"15","Yukon XL":"15"}},"18":{"Make":"Honda","Models":{"Accord":"18","Accord Crosstour":"18","Accord Hybrid":"18","Civic":"18","Civic Hybrid":"18","CR-V":"18","CR-Z":"18","Crosstour":"18","CRX":"18","del Sol":"18","Element":"18","Fit":"18","Insight":"18","Odyssey":"18","Passport":"18","Pilot":"18","Prelude":"18","Ridgeline":"18","S2000":"18"}},"363":{"Make":"Hummer","Models":{"H1":"363","H1 Alpha":"363","H2":"363","H3":"363","H3T":"363"}},"19":{"Make":"Hyundai","Models":{"Accent":"19","Azera":"19","Elantra":"19","Elantra Touring":"19","Entourage":"19","Equus":"19","Excel":"19","Genesis":"19","Genesis Coupe":"19","Santa Fe":"19","Sante Fe Sport":"19","Scoupe":"19","Sonata":"19","Sonata Hybrid":"19","Tiburon":"19","Tucson":"19","Veloster":"19","Veracruz":"19","XG300":"19","XG350":"19"}},"20":{"Make":"Infiniti","Models":{"EX35":"20","FX35":"20","FX45":"20","FX50":"20","G20":"20","G25":"20","G35":"20","G37":"20","I30":"20","I35":"20","J30":"20","JX35":"20","M30":"20","M35":"20","M35h":"20","M37":"20","M45":"20","M56":"20","Q45":"20","QX4":"20","QX56":"20"}},"186":{"Make":"International","Models":{"CXT":"186","MXT":"186","RXT":"186"}},"21":{"Make":"Isuzu","Models":{"Amigo":"21","Ascender":"21","Axiom":"21","Hombre":"21","i-280":"21","i-290":"21","i-350":"21","i-370":"21","I-Mark":"21","Impulse":"21","Oasis":"21","Pickup":"21","Rodeo":"21","Rodeo Sport":"21","Stylus":"21","Trooper":"21","VehiCROSS":"21"}},"22":{"Make":"Jaguar","Models":{"S-Type":"22","Super V8":"22","Super V8 Portfolio":"22","Vanden Plas":"22","X-Type":"22","XF":"22","XJ":"22","XJ12":"22","XJ6":"22","XJ8":"22","XJR":"22","XJR-S":"22","XJS":"22","XK":"22","XK8":"22","XKR":"22"}},"23":{"Make":"Jeep","Models":{"Cherokee":"23","CJ":"23","CJ-7":"23","Comanche":"23","Commander":"23","Compass":"23","Grand Cherokee":"23","Grand Wagoneer":"23","J10 Truck":"23","J20 Truck":"23","Liberty":"23","Patriot":"23","Scrambler":"23","Wagoneer":"23","Wrangler":"23","Wrangler Unlimited":"23"}},"24":{"Make":"Kia","Models":{"Amanti":"24","Borrego":"24","Forte":"24","Forte Koup":"24","Optima":"24","Optima Hybrid":"24","Rio":"24","Rio5":"24","Rondo":"24","Sedona":"24","Sephia":"24","Sorento":"24","Soul":"24","Spectra":"24","Spectra5":"24","Sportage":"24"}},"685":{"Make":"Koenigsegg","Models":{"CCX":"685"}},"25":{"Make":"Lamborghini","Models":{"Aventador":"25","Countach":"25","Diablo":"25","Gallardo":"25","Jalpa":"25","Murcielago":"25"}},"26":{"Make":"Land Rover","Models":{"Defender":"26","Discovery":"26","Freelander":"26","LR2":"26","LR3":"26","LR4":"26","Range Rover":"26","Range Rover Evoque":"26","Range Rover Sport":"26"}},"27":{"Make":"Lexus","Models":{"CT 200h":"27","ES 250":"27","ES 300":"27","ES 330":"27","ES 350":"27","GS 300":"27","GS 350":"27","GS 400":"27","GS 430":"27","GS 450h":"27","GS 460":"27","GX 460":"27","GX 470":"27","HS 250h":"27","IS 250":"27","IS 250C":"27","IS 300":"27","IS 350":"27","IS 350C":"27","IS-F":"27","LS 400":"27","LS 430":"27","LS 460":"27","LS 600h L":"27","LX 450":"27","LX 470":"27","LX 570":"27","RX 300":"27","RX 330":"27","RX 350":"27","RX 400h":"27","RX 450h":"27","SC 300":"27","SC 400":"27","SC 430":"27"}},"28":{"Make":"Lincoln","Models":{"Aviator":"28","Blackwood":"28","Continental":"28","LS":"28","Mark LT":"28","Mark VI":"28","Mark VII":"28","Mark VIII":"28","MKS":"28","MKT":"28","MKX":"28","MKZ":"28","MKZ Hybrid":"28","Navigator":"28","Town Car":"28","Zephyr":"28"}},"29":{"Make":"Lotus","Models":{"Elise":"29","Esprit ":"29","Esprit V8":"29","Evora":"29","Exige":"29","Exige S":"29"}},"72":{"Make":"Maserati","Models":{"228":"72","430":"72","Biturbo":"72","Coupe":"72","GranSport":"72","GranSport Spyder":"72","GranTurismo":"72","Quattroporte":"72","Spyder":"72"}},"403":{"Make":"Maybach","Models":{"Landaulet":"403","Type 57":"403","Type 62":"403"}},"30":{"Make":"Mazda","Models":{"323":"30","626":"30","929":"30","B2000":"30","B2200":"30","B2300":"30","B2500":"30","B2600":"30","B3000":"30","B4000":"30","CX-5":"30","CX-7":"30","CX-9":"30","GLC":"30","Mazda2":"30","Mazda3":"30","Mazda5":"30","Mazda6":"30","MazdaSpeed Miata MX-5":"30","MazdaSpeed Protege":"30","MazdaSpeed3":"30","MazdaSpeed6":"30","Miata MX-5":"30","Millenia":"30","MPV":"30","MX-3":"30","MX-6":"30","Navajo":"30","Pickup":"30","Protege":"30","Protege5":"30","RX-7":"30","RX-8":"30","Tribute":"30","Tribute Hybrid":"30"}},"31":{"Make":"Mercedes-Benz","Models":{"190":"31","240D":"31","C-Class":"31","CL-Class":"31","CLK-Class":"31","CLS-Class":"31","E-Class":"31","G-Class":"31","GL-Class":"31","GLK-Class":"31","M-Class":"31","R-Class":"31","S-Class":"31","SL-Class":"31","SLK-Class":"31","SLR McLaren":"31","SLS AMG":"31","Sprinter":"31"}},"32":{"Make":"Mercury","Models":{"Brougham":"32","Capri":"32","Cougar":"32","Grand Marquis":"32","LN7":"32","Lynx":"32","Marauder":"32","Mariner":"32","Mariner Hybrid":"32","Marquis":"32","Milan":"32","Milan Hybrid":"32","Montego":"32","Monterey":"32","Mountaineer":"32","Mystique":"32","Sable":"32","Topaz":"32","Tracer":"32","Villager":"32","Zephyr":"32"}},"59":{"Make":"Merkur","Models":{"Scorpio":"59","XR4Ti":"59"}},"303":{"Make":"MINI","Models":{"Cooper":"303","Cooper Clubman":"303","Cooper Countryman":"303","Cooper S":"303","Cooper S Clubman":"303","Cooper S Countryman":"303"}},"34":{"Make":"Mitsubishi","Models":{"3000GT":"34","Cordia":"34","Diamante":"34","Eclipse":"34","Endeavor":"34","Expo":"34","Galant":"34","i-MiEV":"34","Lancer":"34","Lancer Evolution":"34","Lancer Sportback":"34","Minivan":"34","Mirage":"34","Montero":"34","Montero Sport":"34","Outlander":"34","Outlander Sport":"34","Pickup":"34","Precis":"34","Raider":"34","Sigma":"34","Starion":"34","Tredia":"34"}},"443":{"Make":"Morgan","Models":{"Aero 8":"443","Plus 8":"443"}},"36":{"Make":"Nissan","Models":{"200SX":"36","240SX":"36","280ZX":"36","300ZX":"36","350Z":"36","370Z":"36","Altima":"36","Altima Hybrid":"36","Armada":"36","Axxess":"36","Cube":"36","Frontier":"36","GT-R":"36","Juke":"36","Leaf":"36","Maxima":"36","Murano":"36","Murano CrossCabriolet":"36","NV 1500":"36","NV 2500":"36","NV 3500":"36","NX":"36","Pathfinder":"36","Pickup":"36","Pulsar":"36","Quest":"36","Rogue":"36","Sentra":"36","Stanza":"36","Titan":"36","Van":"36","Versa":"36","Xterra":"36"}},"37":{"Make":"Oldsmobile","Models":{"Achieva":"37","Alero":"37","Aurora":"37","Bravada":"37","Calais":"37","Custom Cruiser":"37","Cutlass":"37","Cutlass Calais":"37","Cutlass Ciera":"37","Cutlass Cruiser":"37","Cutlass Salon":"37","Cutlass Supreme":"37","Delta 88":"37","Eighty-Eight":"37","Firenza":"37","Intrigue":"37","LSS":"37","Ninety-Eight":"37","Omega":"37","Regency":"37","Silhouette":"37","Toronado":"37"}},"79":{"Make":"Panoz","Models":{"AIV Roadster":"79","Esperante":"79","Roadster":"79"}},"57":{"Make":"Peugeot","Models":{"405":"57","504":"57","505":"57","604":"57","Liberte":"57"}},"39":{"Make":"Plymouth","Models":{"Acclaim":"39","Breeze":"39","Caravelle":"39","Colt":"39","Conquest":"39","Gran Fury":"39","Grand Voyager":"39","Horizon":"39","Laser":"39","Neon":"39","Prowler":"39","Reliant":"39","Sapporo":"39","Scamp":"39","Sundance":"39","Turismo":"39","Voyager":"39"}},"40":{"Make":"Pontiac","Models":{"1000":"40","2000":"40","6000":"40","Aztek":"40","Bonneville":"40","Fiero":"40","Firebird":"40","G3":"40","G5":"40","G6":"40","G8":"40","Grand Am":"40","Grand Prix":"40","GTO":"40","LeMans":"40","Montana":"40","Montana SV6":"40","Parisienne":"40","Phoenix":"40","Safari":"40","Solstice":"40","Sunbird":"40","Sunfire":"40","Torrent":"40","Trans Sport":"40","Vibe":"40"}},"41":{"Make":"Porsche","Models":{"911":"41","924":"41","928":"41","944":"41","968":"41","Boxster":"41","Carrera GT":"41","Cayenne":"41","Cayenne Hybrid":"41","Cayman":"41","Panamera":"41"}},"222":{"Make":"Qvale","Models":{"Mangusta":"222"}},"783":{"Make":"RAM","Models":{"1500":"783","2500":"783","3500":"783","Cargo":"783"}},"50":{"Make":"Renault","Models":{"18i":"50","Alliance":"50","Fuego":"50","Sport Wagon":"50"}},"52":{"Make":"Rolls-Royce","Models":{"Camargue":"52","Corniche":"52","Ghost":"52","Park Ward":"52","Phantom Coupe":"52","Phantom Drophead Coupe":"52","Phantom VI":"52","Silver Cloud I":"52","Silver Cloud II":"52","Silver Seraph":"52","Silver Spirit":"52","Silver Spur":"52","Silver Spur II":"52"}},"42":{"Make":"Saab","Models":{"9-2X":"42","9-3":"42","9-4X":"42","9-5":"42","9-7X":"42","900":"42","9000":"42"}},"483":{"Make":"Saleen","Models":{"S7":"483"}},"43":{"Make":"Saturn","Models":{"Astra":"43","Aura":"43","Aura Green Line":"43","Aura Hybrid":"43","Ion":"43","L":"43","LS":"43","LW":"43","Outlook":"43","Relay":"43","SC":"43","Sky":"43","SL":"43","SW":"43","Vue":"43","Vue Green Line":"43","Vue Hybrid":"43"}},"423":{"Make":"Scion","Models":{"iQ":"423","tC":"423","xA":"423","xB":"423","xD":"423"}},"563":{"Make":"Smart","Models":{"ForTwo":"563","ForTwo Electric Drive":"563"}},"684":{"Make":"Spyker","Models":{"C8 Aileron":"684","C8 Laviolette":"684"}},"823":{"Make":"SRT","Models":{"Viper":"823"}},"54":{"Make":"Sterling","Models":{"825":"54","827":"54"}},"45":{"Make":"Subaru","Models":{"B9 Tribeca":"45","Baja":"45","Brat":"45","DL":"45","Forester":"45","GL":"45","GL-10":"45","Impreza":"45","Impreza Outback Sport":"45","Impreza WRX STi":"45","Justy":"45","Legacy":"45","Loyale":"45","Outback":"45","RX":"45","STD":"45","SVX":"45","Tribeca":"45","XT":"45"}},"46":{"Make":"Suzuki","Models":{"Aerio":"46","Equator":"46","Esteem":"46","Forenza":"46","Grand Vitara":"46","Kizashi":"46","Reno":"46","Samurai":"46","Sidekick":"46","Swift":"46","SX4":"46","Verona":"46","Vitara":"46","X-90":"46","XL7":"46"}},"663":{"Make":"Tesla","Models":{"Roadster":"663"}},"763":{"Make":"THINK","Models":{"THINK City":"763"}},"47":{"Make":"Toyota","Models":{"4Runner":"47","Avalon":"47","Camry":"47","Camry Hybrid":"47","Camry Solara":"47","Celica":"47","Corolla":"47","Cressida":"47","ECHO":"47","FJ Cruiser":"47","Highlander":"47","Highlander Hybrid":"47","Land Cruiser":"47","Matrix":"47","MR2":"47","Paseo":"47","Pickup":"47","Previa":"47","Prius":"47","Prius Plug-in":"47","Prius v":"47","RAV4":"47","Sequoia":"47","Sienna":"47","Starlet":"47","Supra":"47","T100":"47","Tacoma":"47","Tercel":"47","Tundra":"47","Van":"47","Venza":"47","Yaris":"47"}},"48":{"Make":"Volkswagen","Models":{"Beetle":"48","Cabrio":"48","Cabriolet":"48","CC":"48","Corrado":"48","Eos":"48","Eurovan":"48","Fox":"48","Golf":"48","Golf R":"48","GTI":"48","Jetta":"48","New Beetle":"48","New Cabrio":"48","Passat":"48","Phaeton":"48","Quantum":"48","R32":"48","Rabbit":"48","Routan":"48","Scirocco":"48","Tiguan":"48","Touareg":"48","Touareg 2":"48","Touareg Hybrid":"48","Van":"48","Vanagon":"48"}},"49":{"Make":"Volvo","Models":{"240":"49","740":"49","760":"49","760GT":"49","780":"49","850":"49","940":"49","960":"49","C30":"49","C70":"49","Coupe":"49","DL":"49","GL":"49","GLT":"49","S40":"49","S60":"49","S70":"49","S80":"49","S90":"49","V40":"49","V50":"49","V70":"49","V90":"49","XC60":"49","XC70":"49","XC90":"49"}},"55":{"Make":"Yugo","Models":{"Cabrio":"55","GV":"55", }}};
+$(document).ready(function(){function b(c){$("#topcarsmodel").empty();$.each(c,function(e,d){$("#topcarsmodel").append('<option value="'+e+'">'+e+"</option>")})}function a(){$("#topcarsmake").addClass("focused");$("#topcarsmodel").addClass("focused")}$(".topcars_button").click(function(c){if(!$(this).hasClass("active")){$(".topcars_button.active").removeClass("active");$(this).addClass("active");if($(this).attr("id")=="topcars_new"){$("#topcarsmake").removeClass("topcars_used").addClass("topcars_new").html('<option value="1">Acura</option><option value="3">Aston Martin</option><option value="4">Audi</option><option value="6">Bentley</option><option value="5">BMW</option><option value="7">Buick</option><option value="8">Cadillac</option><option value="9">Chevrolet</option><option value="10">Chrysler</option><option value="12">Dodge</option><option value="51">Ferrari</option><option value="56">Fiat</option><option value="723">Fisker</option><option value="14">Ford</option><option value="15">GMC</option><option value="18">Honda</option><option value="19">Hyundai</option><option value="20">Infiniti</option><option value="22">Jaguar</option><option value="23">Jeep</option><option value="24">Kia</option><option value="25">Lamborghini</option><option value="26">Land Rover</option><option value="27">Lexus</option><option value="28">Lincoln</option><option value="29">Lotus</option><option value="72">Maserati</option><option value="403">Maybach</option><option value="30">Mazda</option><option value="31">Mercedes-Benz</option><option value="303">MINI</option><option value="34">Mitsubishi</option><option value="36">Nissan</option><option value="41">Porsche</option><option value="783">RAM</option><option value="52">Rolls-Royce</option><option value="423">Scion</option><option value="563">Smart</option><option value="823">SRT</option><option value="45">Subaru</option><option value="46">Suzuki</option><option value="47">Toyota</option><option value="48">Volkswagen</option><option value="49">Volvo</option>');$("#topcarsmodel").removeClass("topcars_used").addClass("topcars_new");b(topcars_new[$("#topcarsmake").val()].Models);$("#topcarstrack").val("newcc");$("#topcarssearch").val("85")}else{$("#topcarsmake").removeClass("topcars_new").addClass("topcars_used").html('<option value="1">Acura</option><option value="2">Alfa Romeo</option><option value="61">Am General</option><option value="60">American Motors</option><option value="3">Aston Martin</option><option value="4">Audi</option><option value="463">Avanti Motors</option><option value="6">Bentley</option><option value="5">BMW</option><option value="683">Bugatti</option><option value="7">Buick</option><option value="8">Cadillac</option><option value="9">Chevrolet</option><option value="10">Chrysler</option><option value="62">Daewoo</option><option value="11">Daihatsu</option><option value="66">Delorean</option><option value="80">DeTomaso</option><option value="12">Dodge</option><option value="13">Eagle</option><option value="51">Ferrari</option><option value="56">Fiat</option><option value="14">Ford</option><option value="17">Geo</option><option value="15">GMC</option><option value="18">Honda</option><option value="363">Hummer</option><option value="19">Hyundai</option><option value="20">Infiniti</option><option value="186">International</option><option value="21">Isuzu</option><option value="22">Jaguar</option><option value="23">Jeep</option><option value="24">Kia</option><option value="685">Koenigsegg</option><option value="25">Lamborghini</option><option value="26">Land Rover</option><option value="27">Lexus</option><option value="28">Lincoln</option><option value="29">Lotus</option><option value="72">Maserati</option><option value="403">Maybach</option><option value="30">Mazda</option><option value="31">Mercedes-Benz</option><option value="32">Mercury</option><option value="59">Merkur</option><option value="303">MINI</option><option value="34">Mitsubishi</option><option value="443">Morgan</option><option value="36">Nissan</option><option value="37">Oldsmobile</option><option value="79">Panoz</option><option value="57">Peugeot</option><option value="39">Plymouth</option><option value="40">Pontiac</option><option value="41">Porsche</option><option value="222">Qvale</option><option value="783">RAM</option><option value="50">Renault</option><option value="52">Rolls-Royce</option><option value="42">Saab</option><option value="483">Saleen</option><option value="43">Saturn</option><option value="423">Scion</option><option value="563">Smart</option><option value="684">Spyker</option><option value="823">SRT</option><option value="54">Sterling</option><option value="45">Subaru</option><option value="46">Suzuki</option><option value="663">Tesla</option><option value="763">THINK</option><option value="47">Toyota</option><option value="48">Volkswagen</option><option value="49">Volvo</option><option value="55">Yugo</option> }');$("#topcarsmodel").removeClass("topcars_new").addClass("topcars_used");b(topcars_used[$("#topcarsmake").val()].Models);$("#topcarstrack").val("usedcc");$("#topcarssearch").val("38")}}c.preventDefault()});$("#topcarsmake").change(function(){var c=($(this).hasClass("topcars_new"))?topcars_new[$(this).val()].Models:topcars_used[$(this).val()].Models;b(c)});$("#topcarsmake").focus(function(){a()});$("#topcarsmodel").focus(function(){a()});b(topcars_new[$("#topcarsmake").val()].Models)});
+</script>
+    <!-- end TOP STUFF -->
+  
+
+  
+
+  
+    <!-- MORE LIKE THIS -->
+    
+
+
+
+    <div id='mlt'><h3 class="label">Similar stories</h3><ul><li><a href="http://thenewstribune.com/2012/12/05/2392423/no-10-gonzaga-beats-washington.html#storylink=mirelated">No. 10 Gonzaga beats Washington State 71-69</a><div id="mi_tt1"><p>Two weeks ago, Washington State was blown out by No. 9 Kansas. On Wednesday night, they lost just 71-69 to No. 10 Gonzaga, and Cougars coach Ken Bone was pleased with the improvement shown by his team.</p></div></li><li><a href="http://thenewstribune.com/2012/12/05/2392376/recap-washington-st-vs-gonzaga.html#storylink=mirelated">Recap: Washington St vs. Gonzaga</a><div id="mi_tt2"><p>Kevin Pangos&#39; layup with 2.2 seconds to play gave the 10th-ranked Gonzaga Bulldogs a 71-69 win over the Washington State Cougars.</p></div></li><li><a href="http://thenewstribune.com/2012/12/05/2391009/making-his-name-for-cougars.html#storylink=mirelated">Royce Woolridge making his name for Cougars</a><div id="mi_tt3"><p>Washington State point guard Royce Woolridge grew up among basketball royalty, and he has every intention of adding his own chapter to the family&rsquo;s hoops history book.</p></div></li><li><a href="http://thenewstribune.com/2012/12/05/2392383/no-10-gonzaga-beats-washington.html#storylink=mirelated">No. 10 Gonzaga beats Washington State 71-69</a><div id="mi_tt4"><p>Kevin Pangos&#39; layup with 2 seconds left lifted No. 10 Gonzaga to a 71-69 victory over Washington State on Wednesday night giving the Zags their best start as a Division I team.</p></div></li><li><a href="http://thenewstribune.com/2012/12/05/2391316/10-gonzaga-8-0-at-washington-state.html#storylink=mirelated">(10) Gonzaga (8-0) at Washington State (5-3) (ET)</a><div id="mi_tt5"><p>(10) Gonzaga (8-0) at Washington State (5-3) (ET)</p></div></li></ul></div>    <!-- /MORE LIKE THIS -->
+  
+
+
+
+  
+
+</div> <!-- #right_rail -->
+
+
+
+</div>
+<!-- end MAIN CONTENT -->
+
+
+
+
+<!-- FOOTER -->
+<div id="footer">
+
+     
+     <div id="sitefooter">
+      
+
+<!-- Component: Tacoma : pubsys/production/shared/footer.comp -->
+ 
+
+
+<div class="footerimg">
+<img src="http://media.thenewstribune.com/static/images/blank.gif" width="50" height="50" alt="The News Tribune" class="sprite_icon footer_tnt_logo" />
+</div>
+
+
+<div class="footertext"> 
+  <a href="http://www.thenewstribune.com/terms-of-service">Terms of Service</a> | 
+<a href="http://www.thenewstribune.com/privacy-policy">Privacy Policy</a> | 
+<a href="http://www.thenewstribune.com/privacy-policy#behavioral_targeting">About Our Ads</a> | 
+<a href="http://www.thenewstribune.com/aboutus/contact">Contact Us</a> | 
+<a href="http://www.thenewstribune.com/aboutus">About Us</a> | 
+<a href="http://www.thenewstribune.com/aboutus/sitemap">Site Map</a> | 
+<a href="http://www.thenewstribune.com/aboutus/rss/">RSS</a> | <a href="http://www.thenewstribune.com/archives">Archives and Reprints</a>
+<br />
+
+1950 South State Street, Tacoma, Washington 98405 253-597-8742
+
+<br />
+
+&copy; <a href="http://www.thenewstribune.com/copyright">Copyright 2012 Tacoma News, Inc.</a> A subsidiary of The McClatchy Company <img src="http://media.thenewstribune.com/static/images/blank.gif" width="24" height="13" alt="" class="sprite_icon footer_mcclatchy" />
+&nbsp;<a href="http://www.thenewstribune.com/rss"><img src="http://media.thenewstribune.com/static/images/blank.gif" width="91" height="17" alt="Add TNT stories to MyYahoo" title="Add TNT stories MyYahoo" class="sprite_icon footer_myyahoo" /></a>
+<br />
+
+Partners: <a href="http://www.thenewstribune.com/" target="_blank">The News Tribune</a> | <a href="http://www.theolympian.com/" target="_blank">The Olympian</a> | <a href="http://www.gateline.com/" target="_blank">The Peninsula Gateway</a> | <a href="http://www.puyallupherald.com/" target="_blank">The Puyallup Herald</a> | <a href="http://www.nwguardian.com/" target="_blank">Northwest Guardian</a> | <a href="http://www.kirotv.com" target="_blank">KIRO7</a>
+</div>
+
+ 
+
+<script src="http://platform.twitter.com/widgets.js"></script>
+<script>
+$(document).ready(function() {
+
+
+   
+  var account_user_name = getInsiteUserName( 'tacoma_user_auth' );
+  account_user_name = (-1 == account_user_name) ? 'Guest' : account_user_name;
+
+  if ( 'Guest' == account_user_name ) { 
+    $("#anonTemplate").show(); 
+  } else {
+    $("#loggedInUser").html(account_user_name);
+    $("#userTemplate").show();
+  }
+   
+
+});
+</script>
+
+ 
+    
+    <script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=mianalytics"></script>
+  
+ 
+ 
+<div id="mistatstag" style="display:none;">        
+<!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+
+<!-- site specific file already loaded -->
+<script language="JavaScript" type="text/javascript" src="http://media.thenewstribune.com/mistats/products/pubsys_s_code.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+measure_popularity=true;
+mistats.msr = 'TNT|NT';
+mistats.cmsid='GUID: 53547816198621805 | Story: 2392531';
+mistats.pagelevel='Story';
+mistats.pagename='Story: 2392531|Scrappy Cougs, Lacy nearly derail Zags';
+mistats.version='1.0|';
+mistats.taxonomy='Sports|College|||';
+mistats.channel='WSU Cougars';
+
+
+mistats.popular='993|2392531|http://www.thenewstribune.com/2012/12/06/2392531_scrappy-cougs-lacy-nearly-derail.html';
+mistats.popstoryurl='http://www.thenewstribune.com/2012/12/06/2392531_scrappy-cougs-lacy-nearly-derail.html';
+mistats.popstoryheadline='2392531|Scrappy Cougs, Lacy nearly derail Zags';
+mistats.contentsource='thenewstribune|Batch Data Processor|Contributing writer|HOWIE STALWICK';
+mistats.pubdate='2012/12/06';
+mistats.moddate='2012/12/06 H16';
+
+
+
+
+
+-->
+</script>
+<script language="JavaScript" type="text/javascript" src="http://media.thenewstribune.com/mistats/products/pubsys.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.thenewstribune.com/mistats/finalizestats.js"></script>
+
+<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmtacoma%2F1%2FH.10--NS%2F0%3FpageName%3DStory%3A%202392531%7CScrappy%20Cougs%2C%20Lacy%20nearly%20derail%20Zags&server%3Dwww.thenewstribune.com&channel%3DWSU%20Cougars&c1%3Dhttp%26%2358%3B%26%2347%3B%26%2347%3Bwww.thenewstribune.com%26%2347%3B2012%26%2347%3B12%26%2347%3B06%26%2347%3B2392531_scrappy-cougs-lacy-nearly-derail.html&c3%3DStory&c4%3Dthenewstribune%7CBatch%20Data%20Processor%7CContributing%20writer%7CHOWIE%20STALWICK&c6%3DTNT%7CNT&c28%3D&h1%3DTNT%7CTHENEWSTRIBUNE%7CSports%7CCollege%7C%7C%7C%7CWSU%20Cougars" height="1" width="1" border="0" alt="" /></noscript>
+<!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+</div>
+ 
+<div id="MI_post_load" style="display:none;">
+
+
+
+</div>
+
+ 
+ 
+
+<!-- Component: Tacoma : pubsys/production/shared/footer.comp -->
+<a name="footanchor"></a><!-- /pubsys/production/shared/footer.comp -->
+
+
+
+
+
+    
+    <a name="floorboard_anchor"></a><!-- /shared/ads/floorboard.comp -->
+
+    <!-- start: floor board ad -->
+     
+ 
+ 
+<center><div class="advertisement floorboard shared-footer_test dart3" id="dart_285x70_ats_1">
+<!-- support/ads/dart_call.ett :start v.15690 -->
+<!-- support/ads/dart3_render_adj.ett :start -->
+	<script language="JavaScript" type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=285x70;tile=8;!c=news;pub=NewsTribuneOnline' + 
+        ';ord=' + mi__dart_ord +
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=285x70;tile=8;!c=news;pub=NewsTribuneOnline;ord=123456789;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.tnt00/Sports/College;atf=Y;dcove=d;pl=story;sect=WSUCougars;pos=1;sz=285x70;tile=8;!c=news;pub=NewsTribuneOnlineord=123456789;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- support/ads/dart3_render_adj.ett :end -->
+
+<!-- support/ads/dart_call.ett :end -->
+
+
+</div></center><!-- /.advertisement floorboard shared-footer_test -->
+ 
+
+<div class="advertisement floorboard shared-footer_test yahoo" id="yahoo_285x70_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");}
+--></script>
+
+</div><!-- /.advertisement floorboard shared-footer_test -->
+
+ 
+
+    <script type="text/javascript"> 
+        // floor board ad script to control whitespace
+
+        // $('div[name^=adx_ldo0_]').ready(function() {
+        $(document).ready(function() {
+            // executes when HTML-Document is loaded and DOM is ready
+
+            // don't animate because focus of browser window changes
+            $('div[name^=adx_ldo0_]').ready(function() {
+                $('#footer').css('padding-bottom', '110px');
+            });
+        });
+
+        // IMPORTANT: executes when complete page is fully loaded, including all frames, objects and images
+        // meaning, we can't bind click for the ad until after the window.load
+        $(window).load(function() {
+            $('div[name=adx_al]').bind('click', function() {
+                // keep this scoped inside of he click
+                var $curMarg = $('#footer').css('padding-bottom').replace("px", "");
+                $curMarg = ($curMarg == 30) ? 110 : 30;
+                $('#footer').css('padding-bottom', $curMarg + 'px');
+            });
+        });
+    </script>
+
+    <script type="text/javascript"> var floorAd = new mi.floorAd('#floorboard-ad');</script>
+    <!-- end: floor board ad -->
+
+
+
+
+
+
+
+ 
+
+
+
+     </div>
+</div>
+<!-- FOOTER -->
+
+ 
+</div>
+<!-- end PAGE CONTAINER -->
+</body>
+</html>

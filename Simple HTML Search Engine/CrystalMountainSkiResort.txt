@@ -1,0 +1,544 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<!--[if IE 8]>     <html class="ie8"><![endif]-->
+<!--[if lte IE 7]>     <html class="ie7"><![endif]-->
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9">
+<!--
+
+  Site Designed and Developed by The Superformula Corp.
+
+  Web: www.superformula.com
+  Email: info@superformula.com
+  Date: 12/23/10
+  (c) 2010 Crystal
+
+  -->
+  <title>
+    Testimonials - Crystal Mountain Washington
+  </title>
+
+  <link rel="Shortcut Icon" href="/favicon.ico" />
+  
+  <!-- css -->
+  <link rel="stylesheet" type="text/css" href="/styles/screen.css?rev=9" media="screen, projection" title="main CSS" />
+  <link rel="stylesheet" type="text/css" href="/styles/print.css?rev=2" media="print" title="main CSS" />
+<link href="/styles/style.css" rel="stylesheet" type="text/css" />
+  <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lobster+Two:700' rel='stylesheet' type='text/css'>
+<link href="/styles/accordian_core.css" type="text/css" />
+<!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>-->
+  <!--[if IE 8]>
+  <style type="text/css">
+  #main-content #home-right #home-right-tabs-shadow-hide {border-bottom:solid 1px #ddd};
+
+  </style>
+  <![endif]-->
+  <!--[if lt IE 7]>
+  <style type="text/css">
+ #main-content #home-left #tabs-panel {
+margin-left:10px; }
+
+  </style>
+  <![endif]-->
+<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/styles/ie_styles.css" />
+<![endif]-->
+  <!-- jQuery -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+  <script type="text/javascript" src="/js/modernizr-1.5.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/accordian.js"></script>
+<script type="text/javascript" src="/js/jquery.easing.min.js"></script>
+<script src="js/css_browser_selector.js"></script>
+<script type="text/javascript" src="/js/jquery.defaultvalue.source.js"></script>
+
+  
+  <!-- Crystal Vision -->
+  <script type="text/javascript" src="/js/jquery.scrollTo-min.js"></script>
+  <script type="text/javascript" src="/js/jquery.ba-outside-events.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.hashchange.js"></script>
+  <script type="text/javascript" src="/js/jquery.pngfix.js"></script>
+  <script type="text/javascript" src="/js/crystal_vision.js"></script>
+ <script type="text/javascript" src="/ZoomifyImageViewer.js"></script>
+        <style type="text/css"> #myContainer { width: 877px; height: 450px } </style>
+        <script type="text/javascript"> Z.showImage("myContainer", "http://crystalmountainresort.com/summit", "zInitialX=9500&zInitialZoom=6.5&zLogoVisible=0&zToolbarVisible=1&zNavigatorWidth=0&zNavigatorHeight=0&zSkinPath=http://crystalmountainresort.com/Assets/Skins/Default"); </script>
+
+<!--New Javascript Files-->
+<script src="/js/jquery.corner.js"></script>
+<script src="/js/scripts.js"></script>
+
+  
+  <!-- Cufon -->
+ <!-- <script type="text/javascript" src="/js/cufon-yui.js"></script>
+  <script type="text/javascript" src="/js/DIN-Medium_500.font.js"></script>
+  <script type="text/javascript" src="/js/DIN_700.font.js"></script>
+  <script type="text/javascript" src="/js/DIN-Regular_500.font.js"></script>-->
+ 
+  <!-- Javascript -->
+  <script type="text/javascript" src="/js/crystal_mountain.js?rev=1"></script>
+
+</head>
+
+<body>
+<div id="outside_wrapper">
+<div id="wrapper">
+<div id="header">
+    <div id="top">
+    	<div id="top_right">
+        <div id="social_media">
+        <span id="search">
+		<form action="http://crystalmountainresort.com/Search" method="get"><p><input type="text" name="q" value="" size="15" placeholder="Search" class="search"  /></p></form>
+
+        </span><!--end of search-->
+        
+       <span id="social_icons">
+        <a href="https://www.facebook.com/CrystalMountainWashington"><img src="http://crystalmountainresort.com//images/facebook.png" width="20" height="23" border="0" /></a>
+        <a href="http://twitter.com/crystalmt"><img src="http://crystalmountainresort.com//images/twitter_06.png" width="18" height="23" border="0" /></a>
+        <a href=" http://www.flickr.com/photos/crystalmountainwashington/"><img src="http://crystalmountainresort.com//images/flicker_07.png" width="19" height="23" border="0" /></a>
+        <a href="http://www.youtube.com/skicrystalmtn"><img src="http://crystalmountainresort.com//images/you_tube_08.png"  width="19" height="23" border="0" /></a>
+        <a href="http://vimeo.com/crystalmountainresort"><img src="http://crystalmountainresort.com//images/vimeo_09.png" width="19" height="23" border="0" /></a>
+        <a href="http://followgram.me/crystalmountain"><img src="http://crystalmountainresort.com//images/instagram-icon.png" width="20" height="23" border="0" /></a>
+        <a href="http://crystalmountainresort.com/RSS-Feeds"><img src="http://crystalmountainresort.com//images/rss_11.png" width="20" height="23" border="0" /></a>
+<a href="http://www.blogcrystal.com/"><img src="http://crystalmountainresort.com//images/blogger_2.png" width="20" height="23" border="0" /></a>
+        </span><!--end of social_icons-->
+
+        </div><!--end of social_media-->
+        <div id="top_links">
+<a class="links1" href="/">Home</a> | <a class="links1" href="/media-gallery">Gallery</a> | <a class="links1" href="/Sign-Up">Email Alerts</a> | <a class="links1" href="http://m.skicrystal.com/">Mobile</a> | <a href="/summermode/on/" >Summer</a> 
+        </div><!--end of top_links-->
+        </div><!--end of top right-->
+<div id="photos_videos_webcam">
+		<div id="photos">
+			<a class="camera" href="">Camera<!--<img src="http://crystalmountainresort.com//images/camera_03.png" width="27" height="25" border="0" />--></a>
+            <a class ="videos_red" href="">Videos<!--<img src="http://crystalmountainresort.com//images/video_camera_15.png" width="25" height="25" border="0" /><--></a>
+            <a class="webcam" href="">Webcam<!--<img src="http://crystalmountainresort.com//images/web_cam_16.png" width="18" height="25" border="0" />--></a>
+		</div><!--end of photos-->
+<div id="photos_videos_webcam_dropdown">
+        <div id="photos_dropdown">
+		<span class="dropdown_photo_display"><a href="/Media-Gallery#Photos/Most-Recent"><img src="/gallery_cache/907/511_382c/crystal-mountain-shot.jpg" /></a></span><span class="close_camera"><img src="http://crystalmountainresort.com//images/close_button_1.png" width="30" height="27" border="0" align="close" /></span>
+        <br clear="all" />
+<div class="redbox_dropdown_text">
+        <!--<span class="text6">Photo of the Day</span>-->
+        <hr class="hr3" />
+        <div class="text5 arrows6"><a href="/Media-Gallery">View Full Gallery</a></div></div><!--end of redbox_dropdown_text"-->
+        </div><!--end of photos_dropdown-->
+
+<div id="videos_dropdown">
+		<span class="dropdown_video_display" id="latest-video-container-drop"></span><span class="close_video"><img src="http://crystalmountainresort.com//images/close_button_1.png" width="30" height="27" border="0" align="close" /></span>
+        <br clear="all" />
+<div class="redbox_dropdown_text">
+        <!--<span class="text6">Video of the Day</span>-->
+        <hr class="hr3" />
+        <div class="text5 arrows6"><a href="/Media-Gallery#Videos">View More Videos</a></div></div><!--end of redbox_dropdown_text-->
+        </div><!--end of videos_dropdown-->
+        
+        <div id="webcam_dropdown">
+		<span class="dropdown_webcam_display"><a href="">
+<img id=webcam-img src="http://wwc.instacam.com/instacamimg/CRYMB/CRYMB_l.jpg?_ck=201212091900" alt=""  border="0" /> </a></span><span class ="close_webcam"> <img src="http://crystalmountainresort.com//images/close_button_1.png" width="30" height="27" border="0" align="close" /></span>
+        <br clear="all" />
+<div class="redbox_dropdown_text">
+        <!--<span class="text6">Webcam</span>-->
+        <hr class="hr3" />
+        <div class="text5 arrows6"><a href="/The-Mountain/Webcams">More Webcams</a></div></div><!--end of redbox_dropdown_text-->
+        </div><!--end of webcam_dropdown-->
+</div>
+</div>
+        <div id="weather">
+       		<span class="weather_icon">
+		<img  width="30" height="35" border="0"  src="/images/weather_small/snow-flurries.png" alt="snow-flurries"  style="vertical-align:middle;"/>
+		</span>
+		<span class="temp links1">
+		32&deg; F
+		</span>
+		<span class="snow links1">
+		0
+		<sup>"</sup>
+		</span>
+        <span class="links1">|</span>
+        <span class="report links1"><a href="/the-mountain/mountain_report">Full Report</a></span>
+        </div><!--end of weather-->
+       </div><!--end of top-->
+	</div><!--end of header-->
+<div id="logo">
+    <a href="/"><img src="http://crystalmountainresort.com//images/logo_03.png" width="141" height="174" border="0" /></a>
+    </div><!--end of logo-->
+<script>
+<!--
+// Refresh page every 15 minutes if we're on webcams
+
+-->
+</script>
+<div id="main-content" >
+  <!--  <nav>
+  <div class="nav-header" id="The-Mountain_Testimonials">	
+  </div>
+  
+
+  <!-- <div id="season-toggle">
+	<a href="/summermode/on/" >Summer</a>
+</div>
+-->
+  
+  <h1 class="hidden">Testimonials</h1>
+
+
+
+  
+<div id="menu_div">
+    <div id="menu">
+	<ul id="nav">
+  <li class="first"><a href="#" rel="/the-mountain">Mountain</a>
+  	 <ul>
+        <li><a href="/the-mountain/hours-of-operation">Hours</a></li>
+        <li><a href="/the-mountain/mountain_report">Mountain report</a></li>
+        <li><a href="/the-mountain/webcams">Webcams</a></li>
+        <li><a href="/the-mountain/our-trailmaps">Trail Maps</a></li>
+        <li><a href="/the-mountain/whats-new">What's New</a></li>
+
+        <li><a href="/the-mountain/mountain-stats">Facts &amp; Statistics</a></li>
+        <li><a href="/the-mountain/safety">Safety Information</a></li>
+        <li><a href="/the-mountain/testimonials">Testimonials</a></li>
+        <li><a href="/the-mountain/other_services">Other Services</a></li>
+        <li><a href="/the-mountain/environment">Environment</a></li>
+        <li><a href="/the-mountain/history">History</a></li>
+<!--        <li><a href="/summer-the-mountain">Summer</a></li>-->
+        </ul>
+  </li>
+  <li class = "tickets_menu"><a href="#"  rel="/tickets-and-passes">Tickets + Passes</a>
+     <ul>
+        <li><a href="/tickets-and-passes/reload_go-card">Reload Go Card</a></li>
+        <li><a href="/tickets-and-passes/daily_tickets">Tickets</a></li>
+        <li><a href="/tickets-and-passes/5day">5 Day Go Card</a></li>
+        <li><a href="/tickets-and-passes/season-passes">Season Passes</a></li>
+        <li><a href="/tickets-and-passes/gift-certificates">Gift Certificates</a></li>
+        <li><a href="/tickets-and-passes/corporate-tickets">Group & Corporate Tickets</a></li>
+        <li><a href="/tickets-and-passes/military">Military Discounts</a></li>
+        <li><a href="/tickets-and-passes/rfid">About RFID</a></li>
+        </ul>
+  </li>
+   <li class = "snowsports_menu"><a href="#" rel="/snowsports-school">Learning</a>
+        <ul>
+        <li><a href="/snowsports-school/beginners_specials">Beginner Specials</a></li>
+        <li><a href="/snowsports-school/kids_club">Kids Club</a></li>
+        <li><a href="/snowsports-school/private_lessons">Private Lessons</a></li>
+        <li><a href="/snowsports-school/group_lessons">Group Lessons</a></li>
+        <li><a href="/snowsports-school/multi_week_lessons">Multi Week
+Lessons</a></li>
+        <li><a href="/snowsports-school/team_freeride">Team Freeride</a></li>
+        <li><a href="/snowsports-school/camps_and_clinics">Adult Camps & Clinics</a></li>
+        <li><a href="/snowsports-school/avalanche_safety_courses">Avalanche Safety
+Courses</a></li>	
+        <li><a href="/snowsports-school/ability_levels">Ability Levels</a></li>
+       </ul>
+
+
+
+
+
+
+
+  </li>
+    <li class = "eat_menu"><a href="#" rel="/activities">Eat + Play</a>
+        <ul>
+        <li><a href="/activities/where_to_eat">Where to Eat</a></li>
+<li><a href="/activities/first-tracks">First Tracks Breakfast</a></li>
+        <li><a href="/activities/dining/78/summit-house-restaurant">Summit House</a></li>
+        <li><a href="/activities/scenicrides">Scenic Gondola Rides</a></li>
+<li><a href="http://jibcrystal.com/">Sasquatch Jib park</a></li>
+<li><a href="/activities/airbag">Airbag</a></li>
+<li><a href="/activities/guided-snowshoe-tours">Snowshoeing</a></li>
+<li><a href="/activities/entertainment">Entertainment</a></li>
+<li><a href="/activities/shopping">Shopping</a></li>
+
+       </ul>
+
+
+
+
+
+
+   </li>
+    <li class = "equipment_menu"><a href="#" rel="/lessons-and-equipment">Equipment</a>
+        <ul>
+        <li><a href="/lessons-and-equipment/rdl">RDL Test Center
+</a></li>
+        <li><a href="/lessons-and-equipment//mountain-shop">Mountain Shop
+</a></li>
+        <li><a href="/lessons-and-equipment/bootworks">Bootworks</a></li>
+        <li><a href="/lessons-and-equipment/rental_equipment">Rental Equipment</a></li>
+        <li><a href="/lessons-and-equipment/rightangle">Right Angle
+Sports</a></li>
+        <li><a href="/lessons-and-equipment/repairs">Tuning
+& Repairs</a></li>
+        </ul>
+
+
+   </li>
+    <li class = "groups_menu"><a href="#" rel="/summer-groups-and-weddings">Groups + Weddings</a>
+        <ul>
+        <li><a href="/summer-groups-and-weddings/group_discounts">Group Discounts</a></li>
+        <li><a href="/summer-groups-and-weddings/group_faq">Group FAQs</a></li>
+        <li><a href="/summer-groups-and-weddings/weddings">Summer Weddings</a></li>
+        <li><a href="/summer-groups-and-weddings/meetings-special-gatherings">Meetings &amp; Gatherings</a></li>
+        <li><a href="/summer-groups-and-weddings/request-information">Request Information</a></li>
+
+        </ul>
+   </li>
+    <li class = "trip_menu"><a href="#" rel="/plan-your-trip">Trip Planning</a>
+        <ul>
+        <li><a href="/plan-your-trip/getting-here">Driving Directions</a></li>
+        <li><a href="/plan-your-trip/transportation">Transportation</a></li>
+<li><a href="/plan-your-trip/snow-bus">Snow Bus</a></li>
+        <li><a href="/plan-your-trip/lodging-partners">Lodging Partners</a></li>
+        <li><a href="/summer-plan-your-trip/vacation-rentals ">Nearby Vacation Rentals</a></li>
+        <li><a href="/plan-your-trip/rv-overnightparking">RV's &amp; Overnight Parking</a></li>
+        <li><a href="/plan-your-trip/helpful-hints">Helpful Hints</a></li>
+        
+        </ul>
+    </li>
+    <li class="last"><a href="/events" rel="/events">Events</a>
+   </li>
+</ul>
+    </div><!--end of menu-->
+</div><!--end of menu_div-->
+  
+    
+
+<!--</nav>-->
+  
+
+    <div id="main_content">
+    
+   <div id="interior_slideshow">
+    	<img src="http://crystalmountainresort.com//images/the_mountain.png" width="890" height="222" border="0" align="slideshow" />
+    </div><!--end of slideshow-->    
+
+
+   
+    
+    <div id="main_content_text">
+	<div id="interior_page_columns">
+        <div id="interior_left_column">
+		<div id="inside_menu">
+
+ <ul>
+        <li><a href="/the-mountain/hours-of-operation">Hours</a></li>
+        <li><a href="/the-mountain/mountain_report">Mountain report</a></li>
+        <li><a href="/the-mountain/webcams">Webcams</a></li>
+        <li><a href="/the-mountain/our-trailmaps">Trail Maps</a></li>
+        <li><a href="/the-mountain/whats-new">What's New</a></li>
+
+        <li><a href="/the-mountain/mountain-stats">Facts &amp; Statistics</a></li>
+        <li><a href="/the-mountain/safety">Safety Information</a></li>
+        <li><a href="/the-mountain/testimonials">Testimonials</a></li>
+        <li><a href="/the-mountain/other_services">Other Services</a></li>
+        <li><a href="/the-mountain/environment">Environment</a></li>
+        <li><a href="/the-mountain/history">History</a></li>
+<!--        <li><a href="/summer-the-mountain">Summer</a></li>-->
+        </ul>
+
+        </div><!--end of inside_menu-->
+        
+     <div class="article_left">
+ <h4>E NEWS</h4>
+        <p>Join our mailing list for info and great deals!</p>
+        <a href="http://crystalmountainresort.com/sign-up"><img src="http://crystalmountainresort.com//images/signup_07.png" width="112" height="29" border="0" align="Newsletter Signup" /></a>
+</div><!--end of article_left-->
+
+<div class="article_left mountain_ad">
+<img class="article_img" src="http://crystalmountainresort.com//images/the_mountain_ad.png" width="150" height="106" border="0" align="article_img" />
+        <h4>Summer Is Just as Cool</h4>
+        <p>Seasons change, your destination doesn’t have to</p>
+        <p class="more"><a href="http://crystalmountainresort.com/summermode/on">more</a></p>
+<br clear="both" />
+
+</div><!--end of article_left-->
+
+<div class="article_left stay_connected">
+        <h4>Stay Connected</h4>
+
+<p>
+        <ul>
+        <li><a href="http://www.youtube.com/skicrystalmtn">Youtube</a><img src="/images/you_tube_08.png" width="19" height="23" border="0" alt="You Tube" align="texttop" style="padding-left:10px;" /></li>
+        <li><a href="https://www.facebook.com/CrystalMountainWashington">Facebook</a><img src="/images/facebook.png" width="20" height="23" border="0" alt="Facebook" align="texttop" style="padding-left:10px;" /></li>
+        <li><a href="http://twitter.com/crystalmt">Twitter</a><img src="/images/twitter_06.png" width="20" height="23" border="0" alt="Facebook" align="texttop" style="padding-left:10px;" /></li>
+        <li><a href="http://www.blogcrystal.com/">Ski Patrol Blog</a><img src="/images/blogger.jpg" width="19" height="19" border="0" alt="Blogger" align="middle" style="padding-left:10px;" /></li>
+        </ul>
+        </p>
+
+        </div><!--end of article-->
+
+<div class="article_left">
+        <img src="/images/hotline.png" width="181" height="84" border="0" alt="Hotline" />
+        </div><!--end of article_left-->
+        </div><!--interior_left_column-->
+        
+        <div id="interior_right_column">
+<h1 class="inside_page_title">Testimonials</h1>
+       <div class="article_right_images">
+<div id="interior_page_images">
+        <img id="lft_interior_img" class="left_image" src="http://crystalmountainresort.com/images/image_1_03.png" width="352" height="223" border="0" align="Crystal Mountain" /><img id="rgt_interior_img"  src="http://crystalmountainresort.com/images/image2_03.png" width="191" height="224" border="0" align="Crystal Mountain" />
+</div>
+        </div><!--end of article_right_images-->
+        
+
+       <div class="article_right_main">
+                        <div class="section">
+        
+              <div id="excerpt" class="has-ad">
+                <p>Crystal Mountain has a loyal following, but we don&#8217;t have to tell you how great it is here, just take it from our special guests.</p>
+              </div>
+            
+            
+        
+
+          
+        
+            
+              
+                <p><img style='display: none;' src='/gallery_cache/7/352_223/Goggles_Mtn_web.jpg' class='interior_left_hidden' id='int_left_2650'></p>
+
+<p><img style='display: none;' src='/gallery_cache/7/191_224/Z_Mountain.jpg' class='interior_right_hidden' id='int_right_2651'></p>
+
+<p>&#8220;Crystal Mountain has prolonged, uninterrupted powder runs through seamlessly spaced trees. Just incessant fall line runs through knee deep snow. Runs where you choke on powder, only to regain your breath between turns, before plunging back in the white froth that envelops you. Where silence encircles you. Only the resonance of your own breathing, the sounds of falling snow flakes and your friends laughing around you at their last implausible run. From its unending tree lines to its well manicured, rolling groomers, Crystal is the mountain that has it all.&#8221; <br />
+<strong>Ian Coble</strong><br />
+Action Sports and Lifestyle Photographer</p>
+
+<p>&#8220;I always look forward to coming home to Crystal. Every time I visited last winter it was awesome&#8212;no crowds, deep powder, and unbelievable tree skiing; we were just choking on powder! I can&#8217;t even wait to come back again next year with the new lift in place&#8230;.it&#8217;s so exciting to be able to get to all that terrain even quicker and easier.&#8221; <br />
+<strong>Ingrid Backstrom</strong> <br />
+Professional Freeskier</p>
+
+<p>&#8220;Crystal Mountain is one of the last, best secrets. Hidden in Washington, with a beautiful view of Mount Rainer, and some of the friendliest locals I have ever skied with, Crystal Mountain had the best snow we skied in Washington. Not only was the snow great, the terrain was comparable to anything you will find in the Rockies. There are steep shouts and wide open Powder fields. If you are skiing in Washington, Crystal Mountain is the only place to go.&#8221;<br />
+<strong>Jess McMillan</strong><br />
+Freeskiing World Champion 2007, US Freeskiing National Champion, 2007</p>
+
+<p>&#8220;One of my best memories of Crystal was in November of 2006 when we received over 100 inches of cold snow in a week and then the skies cleared and the bluebird sang! It was the best conditions I have skied at Crystal in 25 years. And to prove it I got two 2 page spreads in Skiing Magazine from that week . Ski hard and ski often and you wont miss those perfect days!&#8221;<br />
+<strong>Keith Rollins</strong> <br />
+Sturtevants Puyallup Store Manager</p>
+
+<p>&#8220;I&#8217;ll definitely be back (hopefully this season)! It&#8217;s been pretty easy to spread the word about Crystal&#8217;s terrain. Rory Bushfiled and I weren&#8217;t lying when we said it was the best day of resort skiing this season.&#8221;<br />
+<strong>Johnny Stifter</strong><br />
+Powder Magazine</p>
+
+<p>&#8220;My phone rings as I&#8217;m on the chair at Crystal and all I want to do is ignore it, but noticing it&#8217;s a local Seattle number I pick it up. Turns out it&#8217;s Tim Petrick, keen as ever to shoot pictures. I agree to meet him. I hang up and get off the lift. Not sure if it was the snow billowing up to my chest on every turn or the sparkle of the sun through the snow particles in the air that all the hippies fall in love with, but instantly, I have forgotten all about taking any pictures and I find myself back on the chair going back for more. Four more runs into it and I meet up with the crew of freeskiers shooting photos with multiple photographers. Petrick, Steve Siig and Adam Clark behind the lens, Ingrid Backstrom, Jess Sobolowski, Cody Barnhill, Billy Poole and others are doing one turn wonders for the camera. We pose up, crack a few jokes, and keep the pace fast because we are all jonseing for exactly what we live for; going up and down the mountain, in the sun, with friends, and powder snow.&#8221;<br />
+<strong>JT Holmes</strong><br />
+Professional Freeskier</p>
+
+<p>&#8220;I&#8217;m new to boarding, but I&#8217;ve been to Snoqualmie, Stevens and now Crystal. Locally this is the <span class="caps">BEST</span> mountain for Washingtonians! Worth the extra 30min drive from the city!  In the past month I&#8217;ve gone 3 times &#38; lucked out each time with beautiful sun &#38; fresh powder.</p>
+
+<p>Since I&#8217;m a beginner I took a lesson which took up the whole day for only $75 while my more advanced friends enjoyed Crystals 30+ trails! I can&#8217;t say enough how amazing the staff is here! Let&#8217;s face it&#8230;.I&#8217;m chunky, clumsy and athleticism to me is how many reps of my fork to my mouth it takes me to finish my coconut pie&#8230;and yet my instructor was able to teach me how to snowboard. By days end I was carving down the intermediate slopes. No more downhill ass ridin&#8217; &#38; &#8220;garage sales&#8221; for this kid!! &#8220;<br />
+<strong>Tien T.</strong><br />
+yelp.com review</p>
+
+<p>&#8220;Initially, I was disappointed to find the lunch shack at the top of the Rainier Express chairlift had turned into an upscale Bistro. I had resolved myself to the fact that the amazing views from this primo location would be reserved for those willing to fork out the $$$ and an hour + of precious pow time; until my friend persuaded me to stop for lunch there.</p>
+
+<p>First, as mentioned, the views are incredible on a clear day.  You feel like you could reach out and touch Rainier.  It&#8217;s obvious why they tout themselves as &#8216;Washington&#8217;s Highest Restaurant!&#8217;</p>
+
+<p>Second, you are honestly not paying that much more for a meal here than you would down at the base of the mountain and the food is much higher quality and way more delicious!</p>
+
+<p>Three, the food is wonderful!  The chef does a great job preparing a variety of dishes I would categorize as &#8220;northwest cuisine&#8221;.   How they get the crab and ahi up there? Who knows.   But I&#8217;m glad they do!</p>
+
+<p>Four, they have wine!  Enough said.</p>
+
+<p>Lastly, if you&#8217;re not willing to stop and sit down, don&#8217;t fret.  You can walk around the back of the Summit House and there is a little window where they will serve you hot dogs, chili, soup and beer.  They often have other food available as well, you just have to ask.&#8221;<br />
+<strong>Marisa R.</strong><br />
+yelp.com review</p>
+
+<p><strong>Perfect Place on Earth</strong> &#8211; &#8220;The perfect place on earth is the pristine Crystal Mountain, located in the central Cascades on the Western side of the Pacific Crest in Washington.  Crystal Mountain is one of the best hidden treasure in Washington, with its breathtaking views, natural wildlife, fresh crisp air, and surreal silence that surrounds you. Crystal Mountain’s 2,600 acres change scenery with each season: white fluffy snow in the winter, exquisite waterfalls in the spring, beautiful flowers in the summer, and orange-gold trees in the fall.  The winter season truly brings this perfect place to life.  Crystal Mountain is appropriately named for the crystal snow that blankets the mountain.</p>
+
+<p>Prior to reaching Crystal Mountain, you’re in for a treat. Your journey to the perfect place on earth begins in the small town of Enumclaw.  The easterly drive from Enumclaw to Crystal Mountain is like no other.  The windy roads and beautiful cliffs set the mood.  Your heart will race with excitement as you pass through the Greenwater woods, lined with fir trees that reach endlessly high into the sky.  The anticipation increases. Your stomach fills with butterflies and your body tingles with anxiety as you enter Crystal Mountain’s parking lot.</p>
+
+<p>Prolonged, uninterrupted powder runs through seamlessly spaced trees. The excitement increases as you begin to make your way through the knee-deep snow and enter the warm, wooden lodge.  The smell of hot chocolate soothes the soul.  The lodge swarms with fellow enthusiasts for this perfect place.  Outside the lodge the air is brisk.  Snowboarders and skiers anxiously await their turn to ride the chair lift  to the summit. Your love for this place continues as you venture down the slopes of Crystal Mountain.  As you begin your run, you get the feeling that you are the only person there, just you and the mountain.  Regain your breath and plunge into the white froth.  The resonance of your own breathing and the sound of falling snow flakes encompass every part of your senses.  Crystal is the mountain that has it all.</p>
+
+<p>The journey home from Crystal Mountain is a bitter one.  It saddens me as I leave this beautiful mountain, watching as it fades away in the background.  However, the memories of the wonderful days I experienced in this perfect place helps me look forward to the day I can return-coming home to Crystal. </p>
+
+<p>Crystal Mountain is truly the perfect place on earth.  The change of scenery, the drive and the beautiful winter season makes this place incomparable. If you are in Washington, Crystal Mountain is the only place to go.&#8221;<br />
+<strong>Kai Laxa</strong><br />
+Buckley High School, 11th Grade</p>
+              
+            
+        </div><!--end of section-->
+        
+        </div><!--end of article_right_main-->
+        
+        </div><!--interior_right_column-->
+        </div><!--end of interior_page_columns-->
+	</div><!--end of main_content_text--> 
+<!--footer Starts here-->
+  
+     <div id="footer">
+	<div id="footer_text_1">
+<div id="footer_text_1_links">
+    <a href="/the-mountain/hours-of-operation">Hours</a> | <a href="/employment">Employment</a> | <a href="/contact">Contact Us</a> | <a href="/press">Press</a> | <a href="/donations">Donations</a> | <a href="/partners">Partners</a> <a href="/sister-resorts">Sister Resorts</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/credits ">Credits</a> | <a href="/sitemap">Site Map</a>
+    <br /><br />
+    <!--<a href="">Summer</a>--><a href="/summermode/on/" >Summer</a> | Seasons Change Your Destination Does Not Have To.
+</div><!--end of footer_text_1_links-->
+    </div> <!--end of footer_text_1-->
+    <div id="footer_text_2">
+    <img align="bottom" src="/images/usfs.png" width="41" height="44" border="0" /> <p>Crystal Mountain is located in the Mt. Baker-Snoqualmie National Forest.  Crystal Mountain and the U.S. Forest Service are partners in recreation.<br />
+    </p>
+    </div><!--end of footer_text_2-->
+<script type="text/javascript">
+adroll_adv_id = "O52SB6UH7VG7NN53K37TUW";
+adroll_pix_id = "ZN6PQOOW6NB23NVGEH6F62";
+(function () {
+  var oldonload = window.onload;
+  window.onload = function() {
+    __adroll_loaded=true;
+    var scr = document.createElement("script");
+    var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+    scr.setAttribute('async', 'true');
+    scr.type = "text/javascript";
+    scr.src = host + "/j/roundtrip.js";
+    document.documentElement.firstChild.appendChild(scr);
+    if(oldonload){oldonload()}};
+})();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+<script type="text/javascript">
+  var axel = Math.random()+"";
+  var a = axel * 10000000000000;
+  document.write('<img src="http://mpp.mxptint.net/1/69/2/p1/?rnd=' + a + '" width="1" height="1" border="0" alt="" />');
+</script>
+<noscript>
+  <img src="http://mpp.mxptint.net/1/69/2/p1/?rnd=1" width="1" height="1" border="0" alt="" />
+</noscript>
+
+<!-- "Invite RM" c/o "MaxPoint Interactive",  segment: 'Crystal Mountain Home' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://segment-pixel.invitemedia.com/pixel?pixelID=57617&partnerID=51&clientID=1042&key=segment" width="1" height="1" />
+<!-- End of pixel tag -->
+
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1096491-2");
+ pageTracker._trackPageview();
+</script>
+
+<script type="text/javascript">
+jQuery('header').removeClass('cufon-loading-hidden');
+jQuery('*').removeClass('cufon-loading-indent');
+</script>
+    </div><!--footer-->       
+    </div><!--end of main_content-->
+
+
+
+</div><!--end of wrapper-->
+</div><!--end of outside_wrapper-->
+<div class="clear" ></div>
+ 
+
+</body>
+</html>

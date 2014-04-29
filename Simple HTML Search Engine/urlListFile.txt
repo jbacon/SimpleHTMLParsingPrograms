@@ -1,0 +1,8 @@
+GonzagaCompSci.txt
+GonzagaEngineeringPage.txt
+GonzagaMenBasketball.txt
+GonzagaWebsiteNews.txt
+GonzagaAthletics.txt
+GonzagaCompEng.txt
+BuildingSearchEngine.txt
+MountSpokane.txt
